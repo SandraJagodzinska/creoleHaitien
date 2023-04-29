@@ -1,0 +1,377 @@
+# sent_id = my_sample__1
+# text = Yon Repòtè nan Wall Street Journal Anba Kòd nan Larisi apre yo sispèk li nan zak espyonaj – FSB
+1	Yon	_	_	_	_	_	_	_	_	
+2	Repòtè	_	_	_	_	_	_	_	_	
+3	nan	_	_	_	_	_	_	_	_	
+4	Wall	_	_	_	_	_	_	_	_	
+5	Street	_	_	_	_	_	_	_	_	
+6	Journal	_	_	_	_	_	_	_	_	
+7	Anba	_	_	_	_	_	_	_	_	
+8	Kòd	_	_	_	_	_	_	_	_	
+9	nan	_	_	_	_	_	_	_	_	
+10	Larisi	_	_	_	_	_	_	_	_	
+11	apre	_	_	_	_	_	_	_	_	
+12	yo	_	_	_	_	_	_	_	_	
+13	sispèk	_	_	_	_	_	_	_	_	
+14	li	_	_	_	_	_	_	_	_	
+15	nan	_	_	_	_	_	_	_	_	
+16	zak	_	_	_	_	_	_	_	_	
+17	espyonaj	_	_	_	_	_	_	_	_	
+18	–	_	_	_	_	_	_	_	_	
+19	FSB	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = Sèvis sekirite FSB Larisi a di jedi 30 mas li arete yon repòtè jounal ameriken The Wall Street Journal ke li sispèk kòmkwa li t ap fè espyonaj pou Washington.
+1	Sèvis	_	_	_	_	_	_	_	_	
+2	sekirite	_	_	_	_	_	_	_	_	
+3	FSB	_	_	_	_	_	_	_	_	
+4	Larisi	_	_	_	_	_	_	_	_	
+5	a	_	_	_	_	_	_	_	_	
+6	di	_	_	_	_	_	_	_	_	
+7	jedi	_	_	_	_	_	_	_	_	
+8	30	_	_	_	_	_	_	_	_	
+9	mas	_	_	_	_	_	_	_	_	
+10	li	_	_	_	_	_	_	_	_	
+11	arete	_	_	_	_	_	_	_	_	
+12	yon	_	_	_	_	_	_	_	_	
+13	repòtè	_	_	_	_	_	_	_	_	
+14	jounal	_	_	_	_	_	_	_	_	
+15	ameriken	_	_	_	_	_	_	_	_	
+16	The	_	_	_	_	_	_	_	_	
+17	Wall	_	_	_	_	_	_	_	_	
+18	Street	_	_	_	_	_	_	_	_	
+19	Journal	_	_	_	_	_	_	_	_	
+20	ke	_	_	_	_	_	_	_	_	
+21	li	_	_	_	_	_	_	_	_	
+22	sispèk	_	_	_	_	_	_	_	_	
+23	kòmkwa	_	_	_	_	_	_	_	_	
+24	li	_	_	_	_	_	_	_	_	
+25	t	_	_	_	_	_	_	_	_	
+26	ap	_	_	_	_	_	_	_	_	
+27	fè	_	_	_	_	_	_	_	_	
+28	espyonaj	_	_	_	_	_	_	_	_	
+29	pou	_	_	_	_	_	_	_	_	
+30	Washington	_	_	_	_	_	_	_	SpaceAfter=No	
+31	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = Se aksyon piblik ki pi grav ke yo pran kont yon jounalis etranje depi Larisi te anvayi Ikrèn nan mwa Fevriye ane pase.
+1	Se	_	_	_	_	_	_	_	_	
+2	aksyon	_	_	_	_	_	_	_	_	
+3	piblik	_	_	_	_	_	_	_	_	
+4	ki	_	_	_	_	_	_	_	_	
+5	pi	_	_	_	_	_	_	_	_	
+6	grav	_	_	_	_	_	_	_	_	
+7	ke	_	_	_	_	_	_	_	_	
+8	yo	_	_	_	_	_	_	_	_	
+9	pran	_	_	_	_	_	_	_	_	
+10	kont	_	_	_	_	_	_	_	_	
+11	yon	_	_	_	_	_	_	_	_	
+12	jounalis	_	_	_	_	_	_	_	_	
+13	etranje	_	_	_	_	_	_	_	_	
+14	depi	_	_	_	_	_	_	_	_	
+15	Larisi	_	_	_	_	_	_	_	_	
+16	te	_	_	_	_	_	_	_	_	
+17	anvayi	_	_	_	_	_	_	_	_	
+18	Ikrèn	_	_	_	_	_	_	_	_	
+19	nan	_	_	_	_	_	_	_	_	
+20	mwa	_	_	_	_	_	_	_	_	
+21	Fevriye	_	_	_	_	_	_	_	_	
+22	ane	_	_	_	_	_	_	_	_	
+23	pase	_	_	_	_	_	_	_	SpaceAfter=No	
+24	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Jounal la di arestasyon sitwayen ameriken Evan Gershkovich te baze sou fo akizasyon.
+1	Jounal	_	_	_	_	_	_	_	_	
+2	la	_	_	_	_	_	_	_	_	
+3	di	_	_	_	_	_	_	_	_	
+4	arestasyon	_	_	_	_	_	_	_	_	
+5	sitwayen	_	_	_	_	_	_	_	_	
+6	ameriken	_	_	_	_	_	_	_	_	
+7	Evan	_	_	_	_	_	_	_	_	
+8	Gershkovich	_	_	_	_	_	_	_	_	
+9	te	_	_	_	_	_	_	_	_	
+10	baze	_	_	_	_	_	_	_	_	
+11	sou	_	_	_	_	_	_	_	_	
+12	fo	_	_	_	_	_	_	_	_	
+13	akizasyon	_	_	_	_	_	_	_	SpaceAfter=No	
+14	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__5
+# text = Aksyon sa pral agrave move relasyon ki deja ekziste ant Larisi ak Etazini, ki se pi gwo sipòtè Ikrèn militèman e ki te enpoze sanksyon sou Moskou pou eseye konvenk li pou l retire twoup li yo.
+1	Aksyon	_	_	_	_	_	_	_	_	
+2	sa	_	_	_	_	_	_	_	_	
+3	pral	_	_	_	_	_	_	_	_	
+4	agrave	_	_	_	_	_	_	_	_	
+5	move	_	_	_	_	_	_	_	_	
+6	relasyon	_	_	_	_	_	_	_	_	
+7	ki	_	_	_	_	_	_	_	_	
+8	deja	_	_	_	_	_	_	_	_	
+9	ekziste	_	_	_	_	_	_	_	_	
+10	ant	_	_	_	_	_	_	_	_	
+11	Larisi	_	_	_	_	_	_	_	_	
+12	ak	_	_	_	_	_	_	_	_	
+13	Etazini	_	_	_	_	_	_	_	SpaceAfter=No	
+14	,	_	_	_	_	_	_	_	_	
+15	ki	_	_	_	_	_	_	_	_	
+16	se	_	_	_	_	_	_	_	_	
+17	pi	_	_	_	_	_	_	_	_	
+18	gwo	_	_	_	_	_	_	_	_	
+19	sipòtè	_	_	_	_	_	_	_	_	
+20	Ikrèn	_	_	_	_	_	_	_	_	
+21	militèman	_	_	_	_	_	_	_	_	
+22	e	_	_	_	_	_	_	_	_	
+23	ki	_	_	_	_	_	_	_	_	
+24	te	_	_	_	_	_	_	_	_	
+25	enpoze	_	_	_	_	_	_	_	_	
+26	sanksyon	_	_	_	_	_	_	_	_	
+27	sou	_	_	_	_	_	_	_	_	
+28	Moskou	_	_	_	_	_	_	_	_	
+29	pou	_	_	_	_	_	_	_	_	
+30	eseye	_	_	_	_	_	_	_	_	
+31	konvenk	_	_	_	_	_	_	_	_	
+32	li	_	_	_	_	_	_	_	_	
+33	pou	_	_	_	_	_	_	_	_	
+34	l	_	_	_	_	_	_	_	_	
+35	retire	_	_	_	_	_	_	_	_	
+36	twoup	_	_	_	_	_	_	_	_	
+37	li	_	_	_	_	_	_	_	_	
+38	yo	_	_	_	_	_	_	_	SpaceAfter=No	
+39	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__6
+# text = Kremlin an pa montre okenn siy ke li pwal fè sa.
+1	Kremlin	_	_	_	_	_	_	_	_	
+2	an	_	_	_	_	_	_	_	_	
+3	pa	_	_	_	_	_	_	_	_	
+4	montre	_	_	_	_	_	_	_	_	
+5	okenn	_	_	_	_	_	_	_	_	
+6	siy	_	_	_	_	_	_	_	_	
+7	ke	_	_	_	_	_	_	_	_	
+8	li	_	_	_	_	_	_	_	_	
+9	pwal	_	_	_	_	_	_	_	_	
+10	fè	_	_	_	_	_	_	_	_	
+11	sa	_	_	_	_	_	_	_	SpaceAfter=No	
+12	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__7
+# text = FSB di nan yon deklarasyon li ouvè yon dosye kriminèl kont Gershkovich ke otorite yo sispèk nan espyonaj, e yo akize l kòmkwa li ap ransanble enfòmasyon klase kòm yon sekrè leta sou faktori yo nan sistèm endistri militè ris la.
+1	FSB	_	_	_	_	_	_	_	_	
+2	di	_	_	_	_	_	_	_	_	
+3	nan	_	_	_	_	_	_	_	_	
+4	yon	_	_	_	_	_	_	_	_	
+5	deklarasyon	_	_	_	_	_	_	_	_	
+6	li	_	_	_	_	_	_	_	_	
+7	ouvè	_	_	_	_	_	_	_	_	
+8	yon	_	_	_	_	_	_	_	_	
+9	dosye	_	_	_	_	_	_	_	_	
+10	kriminèl	_	_	_	_	_	_	_	_	
+11	kont	_	_	_	_	_	_	_	_	
+12	Gershkovich	_	_	_	_	_	_	_	_	
+13	ke	_	_	_	_	_	_	_	_	
+14	otorite	_	_	_	_	_	_	_	_	
+15	yo	_	_	_	_	_	_	_	_	
+16	sispèk	_	_	_	_	_	_	_	_	
+17	nan	_	_	_	_	_	_	_	_	
+18	espyonaj	_	_	_	_	_	_	_	SpaceAfter=No	
+19	,	_	_	_	_	_	_	_	_	
+20	e	_	_	_	_	_	_	_	_	
+21	yo	_	_	_	_	_	_	_	_	
+22	akize	_	_	_	_	_	_	_	_	
+23	l	_	_	_	_	_	_	_	_	
+24	kòmkwa	_	_	_	_	_	_	_	_	
+25	li	_	_	_	_	_	_	_	_	
+26	ap	_	_	_	_	_	_	_	_	
+27	ransanble	_	_	_	_	_	_	_	_	
+28	enfòmasyon	_	_	_	_	_	_	_	_	
+29	klase	_	_	_	_	_	_	_	_	
+30	kòm	_	_	_	_	_	_	_	_	
+31	yon	_	_	_	_	_	_	_	_	
+32	sekrè	_	_	_	_	_	_	_	_	
+33	leta	_	_	_	_	_	_	_	_	
+34	sou	_	_	_	_	_	_	_	_	
+35	faktori	_	_	_	_	_	_	_	_	
+36	yo	_	_	_	_	_	_	_	_	
+37	nan	_	_	_	_	_	_	_	_	
+38	sistèm	_	_	_	_	_	_	_	_	
+39	endistri	_	_	_	_	_	_	_	_	
+40	militè	_	_	_	_	_	_	_	_	
+41	ris	_	_	_	_	_	_	_	_	
+42	la	_	_	_	_	_	_	_	SpaceAfter=No	
+43	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__8
+# text = Li pa bay non faktori a ni di kote li ye, men li di li arete jounalis 31 lane a nan vil Urals nan rejyon Yekaterinburg pandan li te ap eseye pran enfòmasyon sekrè.
+1	Li	_	_	_	_	_	_	_	_	
+2	pa	_	_	_	_	_	_	_	_	
+3	bay	_	_	_	_	_	_	_	_	
+4	non	_	_	_	_	_	_	_	_	
+5	faktori	_	_	_	_	_	_	_	_	
+6	a	_	_	_	_	_	_	_	_	
+7	ni	_	_	_	_	_	_	_	_	
+8	di	_	_	_	_	_	_	_	_	
+9	kote	_	_	_	_	_	_	_	_	
+10	li	_	_	_	_	_	_	_	_	
+11	ye	_	_	_	_	_	_	_	SpaceAfter=No	
+12	,	_	_	_	_	_	_	_	_	
+13	men	_	_	_	_	_	_	_	_	
+14	li	_	_	_	_	_	_	_	_	
+15	di	_	_	_	_	_	_	_	_	
+16	li	_	_	_	_	_	_	_	_	
+17	arete	_	_	_	_	_	_	_	_	
+18	jounalis	_	_	_	_	_	_	_	_	
+19	31	_	_	_	_	_	_	_	_	
+20	lane	_	_	_	_	_	_	_	_	
+21	a	_	_	_	_	_	_	_	_	
+22	nan	_	_	_	_	_	_	_	_	
+23	vil	_	_	_	_	_	_	_	_	
+24	Urals	_	_	_	_	_	_	_	_	
+25	nan	_	_	_	_	_	_	_	_	
+26	rejyon	_	_	_	_	_	_	_	_	
+27	Yekaterinburg	_	_	_	_	_	_	_	_	
+28	pandan	_	_	_	_	_	_	_	_	
+29	li	_	_	_	_	_	_	_	_	
+30	te	_	_	_	_	_	_	_	_	
+31	ap	_	_	_	_	_	_	_	_	
+32	eseye	_	_	_	_	_	_	_	_	
+33	pran	_	_	_	_	_	_	_	_	
+34	enfòmasyon	_	_	_	_	_	_	_	_	
+35	sekrè	_	_	_	_	_	_	_	SpaceAfter=No	
+36	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__9
+# text = FSD dekare "Li te gen prèv ke E.
+1	FSD	_	_	_	_	_	_	_	_	
+2	dekare	_	_	_	_	_	_	_	_	
+3	"	_	_	_	_	_	_	_	_	
+4	Li	_	_	_	_	_	_	_	_	
+5	te	_	_	_	_	_	_	_	_	
+6	gen	_	_	_	_	_	_	_	_	
+7	prèv	_	_	_	_	_	_	_	_	
+8	ke	_	_	_	_	_	_	_	_	
+9	E	_	_	_	_	_	_	_	SpaceAfter=No	
+10	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__10
+# text = Gershkovich, te aji sou lòd Ameriken kote li rasanble enfòmasyon sekrè leta sou aktivite nan youn nan enstalasyon ki nan sistèm militè-endistriyèl Larisi a."
+1	Gershkovich	_	_	_	_	_	_	_	SpaceAfter=No	
+2	,	_	_	_	_	_	_	_	_	
+3	te	_	_	_	_	_	_	_	_	
+4	aji	_	_	_	_	_	_	_	_	
+5	sou	_	_	_	_	_	_	_	_	
+6	lòd	_	_	_	_	_	_	_	_	
+7	Ameriken	_	_	_	_	_	_	_	_	
+8	kote	_	_	_	_	_	_	_	_	
+9	li	_	_	_	_	_	_	_	_	
+10	rasanble	_	_	_	_	_	_	_	_	
+11	enfòmasyon	_	_	_	_	_	_	_	_	
+12	sekrè	_	_	_	_	_	_	_	_	
+13	leta	_	_	_	_	_	_	_	_	
+14	sou	_	_	_	_	_	_	_	_	
+15	aktivite	_	_	_	_	_	_	_	_	
+16	nan	_	_	_	_	_	_	_	_	
+17	youn	_	_	_	_	_	_	_	_	
+18	nan	_	_	_	_	_	_	_	_	
+19	enstalasyon	_	_	_	_	_	_	_	_	
+20	ki	_	_	_	_	_	_	_	_	
+21	nan	_	_	_	_	_	_	_	_	
+22	sistèm	_	_	_	_	_	_	_	_	
+23	militè-endistriyèl	_	_	_	_	_	_	_	_	
+24	Larisi	_	_	_	_	_	_	_	_	
+25	a	_	_	_	_	_	_	_	SpaceAfter=No	
+26	."	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__11
+# text = Wall Street Journal di nan yon deklarasyon li “gen anpil kè-sote” pou sekirite Gershkovich a e ke li "nye akizasyon FSB a ak tout fòs”.
+1	Wall	_	_	_	_	_	_	_	_	
+2	Street	_	_	_	_	_	_	_	_	
+3	Journal	_	_	_	_	_	_	_	_	
+4	di	_	_	_	_	_	_	_	_	
+5	nan	_	_	_	_	_	_	_	_	
+6	yon	_	_	_	_	_	_	_	_	
+7	deklarasyon	_	_	_	_	_	_	_	_	
+8	li	_	_	_	_	_	_	_	_	
+9	“	_	_	_	_	_	_	_	_	
+10	gen	_	_	_	_	_	_	_	_	
+11	anpil	_	_	_	_	_	_	_	_	
+12	kè-sote	_	_	_	_	_	_	_	SpaceAfter=No	
+13	”	_	_	_	_	_	_	_	_	
+14	pou	_	_	_	_	_	_	_	_	
+15	sekirite	_	_	_	_	_	_	_	_	
+16	Gershkovich	_	_	_	_	_	_	_	_	
+17	a	_	_	_	_	_	_	_	_	
+18	e	_	_	_	_	_	_	_	_	
+19	ke	_	_	_	_	_	_	_	_	
+20	li	_	_	_	_	_	_	_	_	
+21	"	_	_	_	_	_	_	_	_	
+22	nye	_	_	_	_	_	_	_	_	
+23	akizasyon	_	_	_	_	_	_	_	_	
+24	FSB	_	_	_	_	_	_	_	_	
+25	a	_	_	_	_	_	_	_	_	
+26	ak	_	_	_	_	_	_	_	_	
+27	tout	_	_	_	_	_	_	_	_	
+28	fòs	_	_	_	_	_	_	_	SpaceAfter=No	
+29	”.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__12
+# text = Pòtpawòl Ministè Afè Etranjè Ris, Maria Zakharova, di aktivite Gershkovich nan Yekaterinburg "pa gen rapò ak travay jounalis" e ke se pa premye fwa pran pòz jounalis etranje kòm kouvèti pou yo regle lòt aktivite.
+1	Pòtpawòl	_	_	_	_	_	_	_	_	
+2	Ministè	_	_	_	_	_	_	_	_	
+3	Afè	_	_	_	_	_	_	_	_	
+4	Etranjè	_	_	_	_	_	_	_	_	
+5	Ris	_	_	_	_	_	_	_	SpaceAfter=No	
+6	,	_	_	_	_	_	_	_	_	
+7	Maria	_	_	_	_	_	_	_	_	
+8	Zakharova	_	_	_	_	_	_	_	SpaceAfter=No	
+9	,	_	_	_	_	_	_	_	_	
+10	di	_	_	_	_	_	_	_	_	
+11	aktivite	_	_	_	_	_	_	_	_	
+12	Gershkovich	_	_	_	_	_	_	_	_	
+13	nan	_	_	_	_	_	_	_	_	
+14	Yekaterinburg	_	_	_	_	_	_	_	_	
+15	"	_	_	_	_	_	_	_	_	
+16	pa	_	_	_	_	_	_	_	_	
+17	gen	_	_	_	_	_	_	_	_	
+18	rapò	_	_	_	_	_	_	_	_	
+19	ak	_	_	_	_	_	_	_	_	
+20	travay	_	_	_	_	_	_	_	_	
+21	jounalis	_	_	_	_	_	_	_	SpaceAfter=No	
+22	"	_	_	_	_	_	_	_	_	
+23	e	_	_	_	_	_	_	_	_	
+24	ke	_	_	_	_	_	_	_	_	
+25	se	_	_	_	_	_	_	_	_	
+26	pa	_	_	_	_	_	_	_	_	
+27	premye	_	_	_	_	_	_	_	_	
+28	fwa	_	_	_	_	_	_	_	_	
+29	pran	_	_	_	_	_	_	_	_	
+30	pòz	_	_	_	_	_	_	_	_	
+31	jounalis	_	_	_	_	_	_	_	_	
+32	etranje	_	_	_	_	_	_	_	_	
+33	kòm	_	_	_	_	_	_	_	_	
+34	kouvèti	_	_	_	_	_	_	_	_	
+35	pou	_	_	_	_	_	_	_	_	
+36	yo	_	_	_	_	_	_	_	_	
+37	regle	_	_	_	_	_	_	_	_	
+38	lòt	_	_	_	_	_	_	_	_	
+39	aktivite	_	_	_	_	_	_	_	SpaceAfter=No	
+40	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__13
+# text = Anbasad Ameriken an nan Moskou di li pa gen okenn kòmantè pou li fè touswit.
+1	Anbasad	_	_	_	_	_	_	_	_	
+2	Ameriken	_	_	_	_	_	_	_	_	
+3	an	_	_	_	_	_	_	_	_	
+4	nan	_	_	_	_	_	_	_	_	
+5	Moskou	_	_	_	_	_	_	_	_	
+6	di	_	_	_	_	_	_	_	_	
+7	li	_	_	_	_	_	_	_	_	
+8	pa	_	_	_	_	_	_	_	_	
+9	gen	_	_	_	_	_	_	_	_	
+10	okenn	_	_	_	_	_	_	_	_	
+11	kòmantè	_	_	_	_	_	_	_	_	
+12	pou	_	_	_	_	_	_	_	_	
+13	li	_	_	_	_	_	_	_	_	
+14	fè	_	_	_	_	_	_	_	_	
+15	touswit	_	_	_	_	_	_	_	SpaceAfter=No	
+16	.	_	_	_	_	_	_	_	_	

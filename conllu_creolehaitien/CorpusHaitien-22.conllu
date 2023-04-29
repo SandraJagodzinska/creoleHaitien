@@ -1,0 +1,197 @@
+# sent_id = my_sample__1
+# text = Ghana: Kamala Harris Rankontre ak Prezidan Nana Akufo-Addo
+1	Ghana	_	_	_	_	_	_	_	SpaceAfter=No	
+2	:	_	_	_	_	_	_	_	_	
+3	Kamala	_	_	_	_	_	_	_	_	
+4	Harris	_	_	_	_	_	_	_	_	
+5	Rankontre	_	_	_	_	_	_	_	_	
+6	ak	_	_	_	_	_	_	_	_	
+7	Prezidan	_	_	_	_	_	_	_	_	
+8	Nana	_	_	_	_	_	_	_	_	
+9	Akufo-Addo	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = Nan Ghana jodi lendi a, Vis-Prezidan Etazini Kamala Harris rankontre ak Prezidan Nana Akufo-Addo.
+1	Nan	_	_	_	_	_	_	_	_	
+2	Ghana	_	_	_	_	_	_	_	_	
+3	jodi	_	_	_	_	_	_	_	_	
+4	lendi	_	_	_	_	_	_	_	_	
+5	a	_	_	_	_	_	_	_	SpaceAfter=No	
+6	,	_	_	_	_	_	_	_	_	
+7	Vis-Prezidan	_	_	_	_	_	_	_	_	
+8	Etazini	_	_	_	_	_	_	_	_	
+9	Kamala	_	_	_	_	_	_	_	_	
+10	Harris	_	_	_	_	_	_	_	_	
+11	rankontre	_	_	_	_	_	_	_	_	
+12	ak	_	_	_	_	_	_	_	_	
+13	Prezidan	_	_	_	_	_	_	_	_	
+14	Nana	_	_	_	_	_	_	_	_	
+15	Akufo-Addo	_	_	_	_	_	_	_	SpaceAfter=No	
+16	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = 2 lidè yo ka pale sou yon pakèt sijè, pami yo stabilite ekonomik, ak stabilite nan rejyon an, e li ka pale apre sa ak jounalis.
+1	2	_	_	_	_	_	_	_	_	
+2	lidè	_	_	_	_	_	_	_	_	
+3	yo	_	_	_	_	_	_	_	_	
+4	ka	_	_	_	_	_	_	_	_	
+5	pale	_	_	_	_	_	_	_	_	
+6	sou	_	_	_	_	_	_	_	_	
+7	yon	_	_	_	_	_	_	_	_	
+8	pakèt	_	_	_	_	_	_	_	_	
+9	sijè	_	_	_	_	_	_	_	SpaceAfter=No	
+10	,	_	_	_	_	_	_	_	_	
+11	pami	_	_	_	_	_	_	_	_	
+12	yo	_	_	_	_	_	_	_	_	
+13	stabilite	_	_	_	_	_	_	_	_	
+14	ekonomik	_	_	_	_	_	_	_	SpaceAfter=No	
+15	,	_	_	_	_	_	_	_	_	
+16	ak	_	_	_	_	_	_	_	_	
+17	stabilite	_	_	_	_	_	_	_	_	
+18	nan	_	_	_	_	_	_	_	_	
+19	rejyon	_	_	_	_	_	_	_	_	
+20	an	_	_	_	_	_	_	_	SpaceAfter=No	
+21	,	_	_	_	_	_	_	_	_	
+22	e	_	_	_	_	_	_	_	_	
+23	li	_	_	_	_	_	_	_	_	
+24	ka	_	_	_	_	_	_	_	_	
+25	pale	_	_	_	_	_	_	_	_	
+26	apre	_	_	_	_	_	_	_	_	
+27	sa	_	_	_	_	_	_	_	_	
+28	ak	_	_	_	_	_	_	_	_	
+29	jounalis	_	_	_	_	_	_	_	SpaceAfter=No	
+30	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Vis-prezidan an ka gen nan pwogram li pou vizite, jodi lendi a, Vibrate Space, yon estidyo anrejistreman kominotè pou jèn atis nan kapital la Accra.
+1	Vis-prezidan	_	_	_	_	_	_	_	_	
+2	an	_	_	_	_	_	_	_	_	
+3	ka	_	_	_	_	_	_	_	_	
+4	gen	_	_	_	_	_	_	_	_	
+5	nan	_	_	_	_	_	_	_	_	
+6	pwogram	_	_	_	_	_	_	_	_	
+7	li	_	_	_	_	_	_	_	_	
+8	pou	_	_	_	_	_	_	_	_	
+9	vizite	_	_	_	_	_	_	_	SpaceAfter=No	
+10	,	_	_	_	_	_	_	_	_	
+11	jodi	_	_	_	_	_	_	_	_	
+12	lendi	_	_	_	_	_	_	_	_	
+13	a	_	_	_	_	_	_	_	SpaceAfter=No	
+14	,	_	_	_	_	_	_	_	_	
+15	Vibrate	_	_	_	_	_	_	_	_	
+16	Space	_	_	_	_	_	_	_	SpaceAfter=No	
+17	,	_	_	_	_	_	_	_	_	
+18	yon	_	_	_	_	_	_	_	_	
+19	estidyo	_	_	_	_	_	_	_	_	
+20	anrejistreman	_	_	_	_	_	_	_	_	
+21	kominotè	_	_	_	_	_	_	_	_	
+22	pou	_	_	_	_	_	_	_	_	
+23	jèn	_	_	_	_	_	_	_	_	
+24	atis	_	_	_	_	_	_	_	_	
+25	nan	_	_	_	_	_	_	_	_	
+26	kapital	_	_	_	_	_	_	_	_	
+27	la	_	_	_	_	_	_	_	_	
+28	Accra	_	_	_	_	_	_	_	SpaceAfter=No	
+29	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__5
+# text = Aktè Idris Elba ak Sheryl Lee Ralph pwal akonpaye Harris nan vizit li nan enstalasyon an kote yo pwal rankontre ak mizisyen ak atis.
+1	Aktè	_	_	_	_	_	_	_	_	
+2	Idris	_	_	_	_	_	_	_	_	
+3	Elba	_	_	_	_	_	_	_	_	
+4	ak	_	_	_	_	_	_	_	_	
+5	Sheryl	_	_	_	_	_	_	_	_	
+6	Lee	_	_	_	_	_	_	_	_	
+7	Ralph	_	_	_	_	_	_	_	_	
+8	pwal	_	_	_	_	_	_	_	_	
+9	akonpaye	_	_	_	_	_	_	_	_	
+10	Harris	_	_	_	_	_	_	_	_	
+11	nan	_	_	_	_	_	_	_	_	
+12	vizit	_	_	_	_	_	_	_	_	
+13	li	_	_	_	_	_	_	_	_	
+14	nan	_	_	_	_	_	_	_	_	
+15	enstalasyon	_	_	_	_	_	_	_	_	
+16	an	_	_	_	_	_	_	_	_	
+17	kote	_	_	_	_	_	_	_	_	
+18	yo	_	_	_	_	_	_	_	_	
+19	pwal	_	_	_	_	_	_	_	_	
+20	rankontre	_	_	_	_	_	_	_	_	
+21	ak	_	_	_	_	_	_	_	_	
+22	mizisyen	_	_	_	_	_	_	_	_	
+23	ak	_	_	_	_	_	_	_	_	
+24	atis	_	_	_	_	_	_	_	SpaceAfter=No	
+25	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__6
+# text = Vibrate tabli nan Freedom Skatepark, premye pak pou patinaj ki ap fonksyone kòmsadwa nan peyi a.
+1	Vibrate	_	_	_	_	_	_	_	_	
+2	tabli	_	_	_	_	_	_	_	_	
+3	nan	_	_	_	_	_	_	_	_	
+4	Freedom	_	_	_	_	_	_	_	_	
+5	Skatepark	_	_	_	_	_	_	_	SpaceAfter=No	
+6	,	_	_	_	_	_	_	_	_	
+7	premye	_	_	_	_	_	_	_	_	
+8	pak	_	_	_	_	_	_	_	_	
+9	pou	_	_	_	_	_	_	_	_	
+10	patinaj	_	_	_	_	_	_	_	_	
+11	ki	_	_	_	_	_	_	_	_	
+12	ap	_	_	_	_	_	_	_	_	
+13	fonksyone	_	_	_	_	_	_	_	_	
+14	kòmsadwa	_	_	_	_	_	_	_	_	
+15	nan	_	_	_	_	_	_	_	_	
+16	peyi	_	_	_	_	_	_	_	_	
+17	a	_	_	_	_	_	_	_	SpaceAfter=No	
+18	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__7
+# text = Apre sa menm jounen lendi a, Prezidan Akufo-Addo ak premyè dam Rebecca Akufo Addo pwal òganize yon bankè pou Harris ak mari li Doug Emhoff.
+1	Apre	_	_	_	_	_	_	_	_	
+2	sa	_	_	_	_	_	_	_	_	
+3	menm	_	_	_	_	_	_	_	_	
+4	jounen	_	_	_	_	_	_	_	_	
+5	lendi	_	_	_	_	_	_	_	_	
+6	a	_	_	_	_	_	_	_	SpaceAfter=No	
+7	,	_	_	_	_	_	_	_	_	
+8	Prezidan	_	_	_	_	_	_	_	_	
+9	Akufo-Addo	_	_	_	_	_	_	_	_	
+10	ak	_	_	_	_	_	_	_	_	
+11	premyè	_	_	_	_	_	_	_	_	
+12	dam	_	_	_	_	_	_	_	_	
+13	Rebecca	_	_	_	_	_	_	_	_	
+14	Akufo	_	_	_	_	_	_	_	_	
+15	Addo	_	_	_	_	_	_	_	_	
+16	pwal	_	_	_	_	_	_	_	_	
+17	òganize	_	_	_	_	_	_	_	_	
+18	yon	_	_	_	_	_	_	_	_	
+19	bankè	_	_	_	_	_	_	_	_	
+20	pou	_	_	_	_	_	_	_	_	
+21	Harris	_	_	_	_	_	_	_	_	
+22	ak	_	_	_	_	_	_	_	_	
+23	mari	_	_	_	_	_	_	_	_	
+24	li	_	_	_	_	_	_	_	_	
+25	Doug	_	_	_	_	_	_	_	_	
+26	Emhoff	_	_	_	_	_	_	_	SpaceAfter=No	
+27	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__8
+# text = Nan bankè a, pwal gen apeprè 300 envite, pami yo kèk manm Diaspora afriken an nan Etazini.
+1	Nan	_	_	_	_	_	_	_	_	
+2	bankè	_	_	_	_	_	_	_	_	
+3	a	_	_	_	_	_	_	_	SpaceAfter=No	
+4	,	_	_	_	_	_	_	_	_	
+5	pwal	_	_	_	_	_	_	_	_	
+6	gen	_	_	_	_	_	_	_	_	
+7	apeprè	_	_	_	_	_	_	_	_	
+8	300	_	_	_	_	_	_	_	_	
+9	envite	_	_	_	_	_	_	_	SpaceAfter=No	
+10	,	_	_	_	_	_	_	_	_	
+11	pami	_	_	_	_	_	_	_	_	
+12	yo	_	_	_	_	_	_	_	_	
+13	kèk	_	_	_	_	_	_	_	_	
+14	manm	_	_	_	_	_	_	_	_	
+15	Diaspora	_	_	_	_	_	_	_	_	
+16	afriken	_	_	_	_	_	_	_	_	
+17	an	_	_	_	_	_	_	_	_	
+18	nan	_	_	_	_	_	_	_	_	
+19	Etazini	_	_	_	_	_	_	_	SpaceAfter=No	
+20	.	_	_	_	_	_	_	_	_	

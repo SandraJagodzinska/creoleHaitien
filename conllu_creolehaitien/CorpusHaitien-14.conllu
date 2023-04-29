@@ -1,0 +1,144 @@
+# sent_id = my_sample__1
+# text = Biden Rive Kanada
+1	Biden	_	_	_	_	_	_	_	_	
+2	Rive	_	_	_	_	_	_	_	_	
+3	Kanada	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = Prezidan Joe Biden Pale pandan limenm ak premye dam Jill Biden rankontre Gouvene Kanada a, Mary Simon ak mari li, Whit Fraser, nan ayewopo entenasyonal Ottawa, Kanada, 23 Mas, 2023.
+1	Prezidan	_	_	_	_	_	_	_	_	
+2	Joe	_	_	_	_	_	_	_	_	
+3	Biden	_	_	_	_	_	_	_	_	
+4	Pale	_	_	_	_	_	_	_	_	
+5	pandan	_	_	_	_	_	_	_	_	
+6	limenm	_	_	_	_	_	_	_	_	
+7	ak	_	_	_	_	_	_	_	_	
+8	premye	_	_	_	_	_	_	_	_	
+9	dam	_	_	_	_	_	_	_	_	
+10	Jill	_	_	_	_	_	_	_	_	
+11	Biden	_	_	_	_	_	_	_	_	
+12	rankontre	_	_	_	_	_	_	_	_	
+13	Gouvene	_	_	_	_	_	_	_	_	
+14	Kanada	_	_	_	_	_	_	_	_	
+15	a	_	_	_	_	_	_	_	SpaceAfter=No	
+16	,	_	_	_	_	_	_	_	_	
+17	Mary	_	_	_	_	_	_	_	_	
+18	Simon	_	_	_	_	_	_	_	_	
+19	ak	_	_	_	_	_	_	_	_	
+20	mari	_	_	_	_	_	_	_	_	
+21	li	_	_	_	_	_	_	_	SpaceAfter=No	
+22	,	_	_	_	_	_	_	_	_	
+23	Whit	_	_	_	_	_	_	_	_	
+24	Fraser	_	_	_	_	_	_	_	SpaceAfter=No	
+25	,	_	_	_	_	_	_	_	_	
+26	nan	_	_	_	_	_	_	_	_	
+27	ayewopo	_	_	_	_	_	_	_	_	
+28	entenasyonal	_	_	_	_	_	_	_	_	
+29	Ottawa	_	_	_	_	_	_	_	SpaceAfter=No	
+30	,	_	_	_	_	_	_	_	_	
+31	Kanada	_	_	_	_	_	_	_	SpaceAfter=No	
+32	,	_	_	_	_	_	_	_	_	
+33	23	_	_	_	_	_	_	_	_	
+34	Mas	_	_	_	_	_	_	_	SpaceAfter=No	
+35	,	_	_	_	_	_	_	_	_	
+36	2023.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = Prezidan Joe Biden gen yon kantite sijè ki enpotan anpil pou li, pou pale ak tokay kanadyen li lè li fè premye vizit prezidansyèl li nan kapital Kanada a, Ottawa, dapre Mezon Blanch.
+1	Prezidan	_	_	_	_	_	_	_	_	
+2	Joe	_	_	_	_	_	_	_	_	
+3	Biden	_	_	_	_	_	_	_	_	
+4	gen	_	_	_	_	_	_	_	_	
+5	yon	_	_	_	_	_	_	_	_	
+6	kantite	_	_	_	_	_	_	_	_	
+7	sijè	_	_	_	_	_	_	_	_	
+8	ki	_	_	_	_	_	_	_	_	
+9	enpotan	_	_	_	_	_	_	_	_	
+10	anpil	_	_	_	_	_	_	_	_	
+11	pou	_	_	_	_	_	_	_	_	
+12	li	_	_	_	_	_	_	_	SpaceAfter=No	
+13	,	_	_	_	_	_	_	_	_	
+14	pou	_	_	_	_	_	_	_	_	
+15	pale	_	_	_	_	_	_	_	_	
+16	ak	_	_	_	_	_	_	_	_	
+17	tokay	_	_	_	_	_	_	_	_	
+18	kanadyen	_	_	_	_	_	_	_	_	
+19	li	_	_	_	_	_	_	_	_	
+20	lè	_	_	_	_	_	_	_	_	
+21	li	_	_	_	_	_	_	_	_	
+22	fè	_	_	_	_	_	_	_	_	
+23	premye	_	_	_	_	_	_	_	_	
+24	vizit	_	_	_	_	_	_	_	_	
+25	prezidansyèl	_	_	_	_	_	_	_	_	
+26	li	_	_	_	_	_	_	_	_	
+27	nan	_	_	_	_	_	_	_	_	
+28	kapital	_	_	_	_	_	_	_	_	
+29	Kanada	_	_	_	_	_	_	_	_	
+30	a	_	_	_	_	_	_	_	SpaceAfter=No	
+31	,	_	_	_	_	_	_	_	_	
+32	Ottawa	_	_	_	_	_	_	_	SpaceAfter=No	
+33	,	_	_	_	_	_	_	_	_	
+34	dapre	_	_	_	_	_	_	_	_	
+35	Mezon	_	_	_	_	_	_	_	_	
+36	Blanch	_	_	_	_	_	_	_	SpaceAfter=No	
+37	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Pami sijè diskisyon yo gen enkyetid sou sekirite nasyonal, chanjman klima, komès, migrasyon, konfli Ikrèn nan ak boulvès ki ap sakaje Ayiti a.
+1	Pami	_	_	_	_	_	_	_	_	
+2	sijè	_	_	_	_	_	_	_	_	
+3	diskisyon	_	_	_	_	_	_	_	_	
+4	yo	_	_	_	_	_	_	_	_	
+5	gen	_	_	_	_	_	_	_	_	
+6	enkyetid	_	_	_	_	_	_	_	_	
+7	sou	_	_	_	_	_	_	_	_	
+8	sekirite	_	_	_	_	_	_	_	_	
+9	nasyonal	_	_	_	_	_	_	_	SpaceAfter=No	
+10	,	_	_	_	_	_	_	_	_	
+11	chanjman	_	_	_	_	_	_	_	_	
+12	klima	_	_	_	_	_	_	_	SpaceAfter=No	
+13	,	_	_	_	_	_	_	_	_	
+14	komès	_	_	_	_	_	_	_	SpaceAfter=No	
+15	,	_	_	_	_	_	_	_	_	
+16	migrasyon	_	_	_	_	_	_	_	SpaceAfter=No	
+17	,	_	_	_	_	_	_	_	_	
+18	konfli	_	_	_	_	_	_	_	_	
+19	Ikrèn	_	_	_	_	_	_	_	_	
+20	nan	_	_	_	_	_	_	_	_	
+21	ak	_	_	_	_	_	_	_	_	
+22	boulvès	_	_	_	_	_	_	_	_	
+23	ki	_	_	_	_	_	_	_	_	
+24	ap	_	_	_	_	_	_	_	_	
+25	sakaje	_	_	_	_	_	_	_	_	
+26	Ayiti	_	_	_	_	_	_	_	_	
+27	a	_	_	_	_	_	_	_	SpaceAfter=No	
+28	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__5
+# text = Biden gen pou li pati jedi pou al pase yon nwit nan kapital Kanada a, kote li pwal rankontre ak Premye-minis Justin Trudeau vandredi.
+1	Biden	_	_	_	_	_	_	_	_	
+2	gen	_	_	_	_	_	_	_	_	
+3	pou	_	_	_	_	_	_	_	_	
+4	li	_	_	_	_	_	_	_	_	
+5	pati	_	_	_	_	_	_	_	_	
+6	jedi	_	_	_	_	_	_	_	_	
+7	pou	_	_	_	_	_	_	_	_	
+8	al	_	_	_	_	_	_	_	_	
+9	pase	_	_	_	_	_	_	_	_	
+10	yon	_	_	_	_	_	_	_	_	
+11	nwit	_	_	_	_	_	_	_	_	
+12	nan	_	_	_	_	_	_	_	_	
+13	kapital	_	_	_	_	_	_	_	_	
+14	Kanada	_	_	_	_	_	_	_	_	
+15	a	_	_	_	_	_	_	_	SpaceAfter=No	
+16	,	_	_	_	_	_	_	_	_	
+17	kote	_	_	_	_	_	_	_	_	
+18	li	_	_	_	_	_	_	_	_	
+19	pwal	_	_	_	_	_	_	_	_	
+20	rankontre	_	_	_	_	_	_	_	_	
+21	ak	_	_	_	_	_	_	_	_	
+22	Premye-minis	_	_	_	_	_	_	_	_	
+23	Justin	_	_	_	_	_	_	_	_	
+24	Trudeau	_	_	_	_	_	_	_	_	
+25	vandredi	_	_	_	_	_	_	_	SpaceAfter=No	
+26	.	_	_	_	_	_	_	_	_	

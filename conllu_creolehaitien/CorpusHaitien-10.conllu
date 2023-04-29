@@ -1,0 +1,130 @@
+# sent_id = my_sample__1
+# text = Kisa pou w konnen sou Alvin Bragg, avoka distri Manhattan
+1	Kisa	_	_	_	_	_	_	_	_	
+2	pou	_	_	_	_	_	_	_	_	
+3	w	_	_	_	_	_	_	_	_	
+4	konnen	_	_	_	_	_	_	_	_	
+5	sou	_	_	_	_	_	_	_	_	
+6	Alvin	_	_	_	_	_	_	_	_	
+7	Bragg	_	_	_	_	_	_	_	SpaceAfter=No	
+8	,	_	_	_	_	_	_	_	_	
+9	avoka	_	_	_	_	_	_	_	_	
+10	distri	_	_	_	_	_	_	_	_	
+11	Manhattan	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = Yon gran jiri New York k ap mennen ankèt sou peman anba tab ki te fèt sou non Donald Trump pandan kanpay prezidansyèl ane 2016 la vin santre atansyon sou avoka distri Manhattan nan k ap jere dosye a.
+1	Yon	_	_	_	_	_	_	_	_	
+2	gran	_	_	_	_	_	_	_	_	
+3	jiri	_	_	_	_	_	_	_	_	
+4	New	_	_	_	_	_	_	_	_	
+5	York	_	_	_	_	_	_	_	_	
+6	k	_	_	_	_	_	_	_	_	
+7	ap	_	_	_	_	_	_	_	_	
+8	mennen	_	_	_	_	_	_	_	_	
+9	ankèt	_	_	_	_	_	_	_	_	
+10	sou	_	_	_	_	_	_	_	_	
+11	peman	_	_	_	_	_	_	_	_	
+12	anba	_	_	_	_	_	_	_	_	
+13	tab	_	_	_	_	_	_	_	_	
+14	ki	_	_	_	_	_	_	_	_	
+15	te	_	_	_	_	_	_	_	_	
+16	fèt	_	_	_	_	_	_	_	_	
+17	sou	_	_	_	_	_	_	_	_	
+18	non	_	_	_	_	_	_	_	_	
+19	Donald	_	_	_	_	_	_	_	_	
+20	Trump	_	_	_	_	_	_	_	_	
+21	pandan	_	_	_	_	_	_	_	_	
+22	kanpay	_	_	_	_	_	_	_	_	
+23	prezidansyèl	_	_	_	_	_	_	_	_	
+24	ane	_	_	_	_	_	_	_	_	
+25	2016	_	_	_	_	_	_	_	_	
+26	la	_	_	_	_	_	_	_	_	
+27	vin	_	_	_	_	_	_	_	_	
+28	santre	_	_	_	_	_	_	_	_	
+29	atansyon	_	_	_	_	_	_	_	_	
+30	sou	_	_	_	_	_	_	_	_	
+31	avoka	_	_	_	_	_	_	_	_	
+32	distri	_	_	_	_	_	_	_	_	
+33	Manhattan	_	_	_	_	_	_	_	_	
+34	nan	_	_	_	_	_	_	_	_	
+35	k	_	_	_	_	_	_	_	_	
+36	ap	_	_	_	_	_	_	_	_	
+37	jere	_	_	_	_	_	_	_	_	
+38	dosye	_	_	_	_	_	_	_	_	
+39	a	_	_	_	_	_	_	_	SpaceAfter=No	
+40	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = Desizyon ke Alvin Bragg pran pou konvoke gran jiri sou dosye sa nan kòmansman ane 2023 kapab debouche sou akizasyon kriminèl kont yon ansyen prezidan ameriken.
+1	Desizyon	_	_	_	_	_	_	_	_	
+2	ke	_	_	_	_	_	_	_	_	
+3	Alvin	_	_	_	_	_	_	_	_	
+4	Bragg	_	_	_	_	_	_	_	_	
+5	pran	_	_	_	_	_	_	_	_	
+6	pou	_	_	_	_	_	_	_	_	
+7	konvoke	_	_	_	_	_	_	_	_	
+8	gran	_	_	_	_	_	_	_	_	
+9	jiri	_	_	_	_	_	_	_	_	
+10	sou	_	_	_	_	_	_	_	_	
+11	dosye	_	_	_	_	_	_	_	_	
+12	sa	_	_	_	_	_	_	_	_	
+13	nan	_	_	_	_	_	_	_	_	
+14	kòmansman	_	_	_	_	_	_	_	_	
+15	ane	_	_	_	_	_	_	_	_	
+16	2023	_	_	_	_	_	_	_	_	
+17	kapab	_	_	_	_	_	_	_	_	
+18	debouche	_	_	_	_	_	_	_	_	
+19	sou	_	_	_	_	_	_	_	_	
+20	akizasyon	_	_	_	_	_	_	_	_	
+21	kriminèl	_	_	_	_	_	_	_	_	
+22	kont	_	_	_	_	_	_	_	_	
+23	yon	_	_	_	_	_	_	_	_	
+24	ansyen	_	_	_	_	_	_	_	_	
+25	prezidan	_	_	_	_	_	_	_	_	
+26	ameriken	_	_	_	_	_	_	_	SpaceAfter=No	
+27	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Yo te eli Bragg kòm premye avoka Nwa nan distri Manhattan an Novanm 2021.
+1	Yo	_	_	_	_	_	_	_	_	
+2	te	_	_	_	_	_	_	_	_	
+3	eli	_	_	_	_	_	_	_	_	
+4	Bragg	_	_	_	_	_	_	_	_	
+5	kòm	_	_	_	_	_	_	_	_	
+6	premye	_	_	_	_	_	_	_	_	
+7	avoka	_	_	_	_	_	_	_	_	
+8	Nwa	_	_	_	_	_	_	_	_	
+9	nan	_	_	_	_	_	_	_	_	
+10	distri	_	_	_	_	_	_	_	_	
+11	Manhattan	_	_	_	_	_	_	_	_	
+12	an	_	_	_	_	_	_	_	_	
+13	Novanm	_	_	_	_	_	_	_	_	
+14	2021.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__5
+# text = Karyè legal li gen ladan travay li te fè kòm yon pwosekitè federal ak avoka dwa sivik ki te reprezante manman Eric Garner.
+1	Karyè	_	_	_	_	_	_	_	_	
+2	legal	_	_	_	_	_	_	_	_	
+3	li	_	_	_	_	_	_	_	_	
+4	gen	_	_	_	_	_	_	_	_	
+5	ladan	_	_	_	_	_	_	_	_	
+6	travay	_	_	_	_	_	_	_	_	
+7	li	_	_	_	_	_	_	_	_	
+8	te	_	_	_	_	_	_	_	_	
+9	fè	_	_	_	_	_	_	_	_	
+10	kòm	_	_	_	_	_	_	_	_	
+11	yon	_	_	_	_	_	_	_	_	
+12	pwosekitè	_	_	_	_	_	_	_	_	
+13	federal	_	_	_	_	_	_	_	_	
+14	ak	_	_	_	_	_	_	_	_	
+15	avoka	_	_	_	_	_	_	_	_	
+16	dwa	_	_	_	_	_	_	_	_	
+17	sivik	_	_	_	_	_	_	_	_	
+18	ki	_	_	_	_	_	_	_	_	
+19	te	_	_	_	_	_	_	_	_	
+20	reprezante	_	_	_	_	_	_	_	_	
+21	manman	_	_	_	_	_	_	_	_	
+22	Eric	_	_	_	_	_	_	_	_	
+23	Garner	_	_	_	_	_	_	_	SpaceAfter=No	
+24	.	_	_	_	_	_	_	_	_	

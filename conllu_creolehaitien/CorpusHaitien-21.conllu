@@ -1,0 +1,90 @@
+# sent_id = my_sample__1
+# text = Larisi Lanse Egzèsis ak Fòs Misil Nikleyè li yo
+1	Larisi	_	_	_	_	_	_	_	_	
+2	Lanse	_	_	_	_	_	_	_	_	
+3	Egzèsis	_	_	_	_	_	_	_	_	
+4	ak	_	_	_	_	_	_	_	_	
+5	Fòs	_	_	_	_	_	_	_	_	
+6	Misil	_	_	_	_	_	_	_	_	
+7	Nikleyè	_	_	_	_	_	_	_	_	
+8	li	_	_	_	_	_	_	_	_	
+9	yo	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = MOSCOU (AP) — Lame Ris ap fè egzèsis ak fòs misil estratejik li yo pou montre gwo kapasite nikleyè peyi a.
+1	MOSCOU	_	_	_	_	_	_	_	_	
+2	(	_	_	_	_	_	_	_	_	
+3	AP	_	_	_	_	_	_	_	SpaceAfter=No	
+4	)	_	_	_	_	_	_	_	_	
+5	—	_	_	_	_	_	_	_	_	
+6	Lame	_	_	_	_	_	_	_	_	
+7	Ris	_	_	_	_	_	_	_	_	
+8	ap	_	_	_	_	_	_	_	_	
+9	fè	_	_	_	_	_	_	_	_	
+10	egzèsis	_	_	_	_	_	_	_	_	
+11	ak	_	_	_	_	_	_	_	_	
+12	fòs	_	_	_	_	_	_	_	_	
+13	misil	_	_	_	_	_	_	_	_	
+14	estratejik	_	_	_	_	_	_	_	_	
+15	li	_	_	_	_	_	_	_	_	
+16	yo	_	_	_	_	_	_	_	_	
+17	pou	_	_	_	_	_	_	_	_	
+18	montre	_	_	_	_	_	_	_	_	
+19	gwo	_	_	_	_	_	_	_	_	
+20	kapasite	_	_	_	_	_	_	_	_	
+21	nikleyè	_	_	_	_	_	_	_	_	
+22	peyi	_	_	_	_	_	_	_	_	
+23	a	_	_	_	_	_	_	_	SpaceAfter=No	
+24	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = Ministè Defans Ris la di Mèkredi ke lans misil mobil Yars pral fè mannèv nan 3 rejyon nan Siberi.
+1	Ministè	_	_	_	_	_	_	_	_	
+2	Defans	_	_	_	_	_	_	_	_	
+3	Ris	_	_	_	_	_	_	_	_	
+4	la	_	_	_	_	_	_	_	_	
+5	di	_	_	_	_	_	_	_	_	
+6	Mèkredi	_	_	_	_	_	_	_	_	
+7	ke	_	_	_	_	_	_	_	_	
+8	lans	_	_	_	_	_	_	_	_	
+9	misil	_	_	_	_	_	_	_	_	
+10	mobil	_	_	_	_	_	_	_	_	
+11	Yars	_	_	_	_	_	_	_	_	
+12	pral	_	_	_	_	_	_	_	_	
+13	fè	_	_	_	_	_	_	_	_	
+14	mannèv	_	_	_	_	_	_	_	_	
+15	nan	_	_	_	_	_	_	_	_	
+16	3	_	_	_	_	_	_	_	_	
+17	rejyon	_	_	_	_	_	_	_	_	
+18	nan	_	_	_	_	_	_	_	_	
+19	Siberi	_	_	_	_	_	_	_	SpaceAfter=No	
+20	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Ministè a pa pale de okenn plan pou pratike lansman men li di manèv yo enplike apeprè 300 machin ak 3,000 sòlda nan lès Siberi.
+1	Ministè	_	_	_	_	_	_	_	_	
+2	a	_	_	_	_	_	_	_	_	
+3	pa	_	_	_	_	_	_	_	_	
+4	pale	_	_	_	_	_	_	_	_	
+5	de	_	_	_	_	_	_	_	_	
+6	okenn	_	_	_	_	_	_	_	_	
+7	plan	_	_	_	_	_	_	_	_	
+8	pou	_	_	_	_	_	_	_	_	
+9	pratike	_	_	_	_	_	_	_	_	
+10	lansman	_	_	_	_	_	_	_	_	
+11	men	_	_	_	_	_	_	_	_	
+12	li	_	_	_	_	_	_	_	_	
+13	di	_	_	_	_	_	_	_	_	
+14	manèv	_	_	_	_	_	_	_	_	
+15	yo	_	_	_	_	_	_	_	_	
+16	enplike	_	_	_	_	_	_	_	_	
+17	apeprè	_	_	_	_	_	_	_	_	
+18	300	_	_	_	_	_	_	_	_	
+19	machin	_	_	_	_	_	_	_	_	
+20	ak	_	_	_	_	_	_	_	_	
+21	3,000	_	_	_	_	_	_	_	_	
+22	sòlda	_	_	_	_	_	_	_	_	
+23	nan	_	_	_	_	_	_	_	_	
+24	lès	_	_	_	_	_	_	_	_	
+25	Siberi	_	_	_	_	_	_	_	SpaceAfter=No	
+26	.	_	_	_	_	_	_	_	_	

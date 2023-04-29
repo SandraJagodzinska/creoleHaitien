@@ -1,0 +1,410 @@
+# sent_id = my_sample__1
+# text = Republik Dominikèn Lanse Apèl pou Pasifye Ayiti pou Aktive yon Plan Asistans
+1	Republik	_	_	_	_	_	_	_	_	
+2	Dominikèn	_	_	_	_	_	_	_	_	
+3	Lanse	_	_	_	_	_	_	_	_	
+4	Apèl	_	_	_	_	_	_	_	_	
+5	pou	_	_	_	_	_	_	_	_	
+6	Pasifye	_	_	_	_	_	_	_	_	
+7	Ayiti	_	_	_	_	_	_	_	_	
+8	pou	_	_	_	_	_	_	_	_	
+9	Aktive	_	_	_	_	_	_	_	_	
+10	yon	_	_	_	_	_	_	_	_	
+11	Plan	_	_	_	_	_	_	_	_	
+12	Asistans	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = Lide Iberoameriken yo koute diskou Prezidan Repiblik Dominiken, Luis Abinader pandan sesyon plene 28em Rankont o Some Ibero-Ameriken an nan Santo Domingo, 25 Mas, 2023.
+1	Lide	_	_	_	_	_	_	_	_	
+2	Iberoameriken	_	_	_	_	_	_	_	_	
+3	yo	_	_	_	_	_	_	_	_	
+4	koute	_	_	_	_	_	_	_	_	
+5	diskou	_	_	_	_	_	_	_	_	
+6	Prezidan	_	_	_	_	_	_	_	_	
+7	Repiblik	_	_	_	_	_	_	_	_	
+8	Dominiken	_	_	_	_	_	_	_	SpaceAfter=No	
+9	,	_	_	_	_	_	_	_	_	
+10	Luis	_	_	_	_	_	_	_	_	
+11	Abinader	_	_	_	_	_	_	_	_	
+12	pandan	_	_	_	_	_	_	_	_	
+13	sesyon	_	_	_	_	_	_	_	_	
+14	plene	_	_	_	_	_	_	_	_	
+15	28em	_	_	_	_	_	_	_	_	
+16	Rankont	_	_	_	_	_	_	_	_	
+17	o	_	_	_	_	_	_	_	_	
+18	Some	_	_	_	_	_	_	_	_	
+19	Ibero-Ameriken	_	_	_	_	_	_	_	_	
+20	an	_	_	_	_	_	_	_	_	
+21	nan	_	_	_	_	_	_	_	_	
+22	Santo	_	_	_	_	_	_	_	_	
+23	Domingo	_	_	_	_	_	_	_	SpaceAfter=No	
+24	,	_	_	_	_	_	_	_	_	
+25	25	_	_	_	_	_	_	_	_	
+26	Mas	_	_	_	_	_	_	_	SpaceAfter=No	
+27	,	_	_	_	_	_	_	_	_	
+28	2023.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = Republik Dominikèn deklare Samdi ke pou rezoud kriz Ayiti ap travèse a epi aktive yon plan asistans fòk yo kòmanse pa tabli lapè.
+1	Republik	_	_	_	_	_	_	_	_	
+2	Dominikèn	_	_	_	_	_	_	_	_	
+3	deklare	_	_	_	_	_	_	_	_	
+4	Samdi	_	_	_	_	_	_	_	_	
+5	ke	_	_	_	_	_	_	_	_	
+6	pou	_	_	_	_	_	_	_	_	
+7	rezoud	_	_	_	_	_	_	_	_	
+8	kriz	_	_	_	_	_	_	_	_	
+9	Ayiti	_	_	_	_	_	_	_	_	
+10	ap	_	_	_	_	_	_	_	_	
+11	travèse	_	_	_	_	_	_	_	_	
+12	a	_	_	_	_	_	_	_	_	
+13	epi	_	_	_	_	_	_	_	_	
+14	aktive	_	_	_	_	_	_	_	_	
+15	yon	_	_	_	_	_	_	_	_	
+16	plan	_	_	_	_	_	_	_	_	
+17	asistans	_	_	_	_	_	_	_	_	
+18	fòk	_	_	_	_	_	_	_	_	
+19	yo	_	_	_	_	_	_	_	_	
+20	kòmanse	_	_	_	_	_	_	_	_	
+21	pa	_	_	_	_	_	_	_	_	
+22	tabli	_	_	_	_	_	_	_	_	
+23	lapè	_	_	_	_	_	_	_	SpaceAfter=No	
+24	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Se Prezidan Luis Abinader ki fè deklarasyon sa a pandan sesyon plenè 28èm edisyon rankont o somè Ibero-Ameriken an kap dewoule nan vil Santo Domingo wikèn sa a.
+1	Se	_	_	_	_	_	_	_	_	
+2	Prezidan	_	_	_	_	_	_	_	_	
+3	Luis	_	_	_	_	_	_	_	_	
+4	Abinader	_	_	_	_	_	_	_	_	
+5	ki	_	_	_	_	_	_	_	_	
+6	fè	_	_	_	_	_	_	_	_	
+7	deklarasyon	_	_	_	_	_	_	_	_	
+8	sa	_	_	_	_	_	_	_	_	
+9	a	_	_	_	_	_	_	_	_	
+10	pandan	_	_	_	_	_	_	_	_	
+11	sesyon	_	_	_	_	_	_	_	_	
+12	plenè	_	_	_	_	_	_	_	_	
+13	28èm	_	_	_	_	_	_	_	_	
+14	edisyon	_	_	_	_	_	_	_	_	
+15	rankont	_	_	_	_	_	_	_	_	
+16	o	_	_	_	_	_	_	_	_	
+17	somè	_	_	_	_	_	_	_	_	
+18	Ibero-Ameriken	_	_	_	_	_	_	_	_	
+19	an	_	_	_	_	_	_	_	_	
+20	kap	_	_	_	_	_	_	_	_	
+21	dewoule	_	_	_	_	_	_	_	_	
+22	nan	_	_	_	_	_	_	_	_	
+23	vil	_	_	_	_	_	_	_	_	
+24	Santo	_	_	_	_	_	_	_	_	
+25	Domingo	_	_	_	_	_	_	_	_	
+26	wikèn	_	_	_	_	_	_	_	_	
+27	sa	_	_	_	_	_	_	_	_	
+28	a	_	_	_	_	_	_	_	SpaceAfter=No	
+29	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__5
+# text = Abinader deklare: "Mwen vle di ak tout fòs ak respè Repiblik Dominikèn ke sèl fason pou aji ak Ayiti se tabli lapè pou komanse.
+1	Abinader	_	_	_	_	_	_	_	_	
+2	deklare	_	_	_	_	_	_	_	SpaceAfter=No	
+3	:	_	_	_	_	_	_	_	_	
+4	"	_	_	_	_	_	_	_	_	
+5	Mwen	_	_	_	_	_	_	_	_	
+6	vle	_	_	_	_	_	_	_	_	
+7	di	_	_	_	_	_	_	_	_	
+8	ak	_	_	_	_	_	_	_	_	
+9	tout	_	_	_	_	_	_	_	_	
+10	fòs	_	_	_	_	_	_	_	_	
+11	ak	_	_	_	_	_	_	_	_	
+12	respè	_	_	_	_	_	_	_	_	
+13	Repiblik	_	_	_	_	_	_	_	_	
+14	Dominikèn	_	_	_	_	_	_	_	_	
+15	ke	_	_	_	_	_	_	_	_	
+16	sèl	_	_	_	_	_	_	_	_	
+17	fason	_	_	_	_	_	_	_	_	
+18	pou	_	_	_	_	_	_	_	_	
+19	aji	_	_	_	_	_	_	_	_	
+20	ak	_	_	_	_	_	_	_	_	
+21	Ayiti	_	_	_	_	_	_	_	_	
+22	se	_	_	_	_	_	_	_	_	
+23	tabli	_	_	_	_	_	_	_	_	
+24	lapè	_	_	_	_	_	_	_	_	
+25	pou	_	_	_	_	_	_	_	_	
+26	komanse	_	_	_	_	_	_	_	SpaceAfter=No	
+27	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__6
+# text = Prezidan an mande kominote entènasyonal la aji an tout ijans fas ak zak vyolans kap trakase pèp Ayisyen an aktyèlman.
+1	Prezidan	_	_	_	_	_	_	_	_	
+2	an	_	_	_	_	_	_	_	_	
+3	mande	_	_	_	_	_	_	_	_	
+4	kominote	_	_	_	_	_	_	_	_	
+5	entènasyonal	_	_	_	_	_	_	_	_	
+6	la	_	_	_	_	_	_	_	_	
+7	aji	_	_	_	_	_	_	_	_	
+8	an	_	_	_	_	_	_	_	_	
+9	tout	_	_	_	_	_	_	_	_	
+10	ijans	_	_	_	_	_	_	_	_	
+11	fas	_	_	_	_	_	_	_	_	
+12	ak	_	_	_	_	_	_	_	_	
+13	zak	_	_	_	_	_	_	_	_	
+14	vyolans	_	_	_	_	_	_	_	_	
+15	kap	_	_	_	_	_	_	_	_	
+16	trakase	_	_	_	_	_	_	_	_	
+17	pèp	_	_	_	_	_	_	_	_	
+18	Ayisyen	_	_	_	_	_	_	_	_	
+19	an	_	_	_	_	_	_	_	_	
+20	aktyèlman	_	_	_	_	_	_	_	SpaceAfter=No	
+21	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__7
+# text = Li ajoute: " Kounyea ak sityasyon an jan li ye a, asistans paka rive, yon plan devlopman paka rive.
+1	Li	_	_	_	_	_	_	_	_	
+2	ajoute	_	_	_	_	_	_	_	SpaceAfter=No	
+3	:	_	_	_	_	_	_	_	_	
+4	"	_	_	_	_	_	_	_	_	
+5	Kounyea	_	_	_	_	_	_	_	_	
+6	ak	_	_	_	_	_	_	_	_	
+7	sityasyon	_	_	_	_	_	_	_	_	
+8	an	_	_	_	_	_	_	_	_	
+9	jan	_	_	_	_	_	_	_	_	
+10	li	_	_	_	_	_	_	_	_	
+11	ye	_	_	_	_	_	_	_	_	
+12	a	_	_	_	_	_	_	_	SpaceAfter=No	
+13	,	_	_	_	_	_	_	_	_	
+14	asistans	_	_	_	_	_	_	_	_	
+15	paka	_	_	_	_	_	_	_	_	
+16	rive	_	_	_	_	_	_	_	SpaceAfter=No	
+17	,	_	_	_	_	_	_	_	_	
+18	yon	_	_	_	_	_	_	_	_	
+19	plan	_	_	_	_	_	_	_	_	
+20	devlopman	_	_	_	_	_	_	_	_	
+21	paka	_	_	_	_	_	_	_	_	
+22	rive	_	_	_	_	_	_	_	SpaceAfter=No	
+23	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__8
+# text = Li esansyèl pou pasifye peyi a dabò.
+1	Li	_	_	_	_	_	_	_	_	
+2	esansyèl	_	_	_	_	_	_	_	_	
+3	pou	_	_	_	_	_	_	_	_	
+4	pasifye	_	_	_	_	_	_	_	_	
+5	peyi	_	_	_	_	_	_	_	_	
+6	a	_	_	_	_	_	_	_	_	
+7	dabò	_	_	_	_	_	_	_	SpaceAfter=No	
+8	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__9
+# text = Abinader mande Etazini, La Frans ak Kanada pou yon pran responsabilite yo antanke lidè pou tabli lapè an Ayiti.
+1	Abinader	_	_	_	_	_	_	_	_	
+2	mande	_	_	_	_	_	_	_	_	
+3	Etazini	_	_	_	_	_	_	_	SpaceAfter=No	
+4	,	_	_	_	_	_	_	_	_	
+5	La	_	_	_	_	_	_	_	_	
+6	Frans	_	_	_	_	_	_	_	_	
+7	ak	_	_	_	_	_	_	_	_	
+8	Kanada	_	_	_	_	_	_	_	_	
+9	pou	_	_	_	_	_	_	_	_	
+10	yon	_	_	_	_	_	_	_	_	
+11	pran	_	_	_	_	_	_	_	_	
+12	responsabilite	_	_	_	_	_	_	_	_	
+13	yo	_	_	_	_	_	_	_	_	
+14	antanke	_	_	_	_	_	_	_	_	
+15	lidè	_	_	_	_	_	_	_	_	
+16	pou	_	_	_	_	_	_	_	_	
+17	tabli	_	_	_	_	_	_	_	_	
+18	lapè	_	_	_	_	_	_	_	_	
+19	an	_	_	_	_	_	_	_	_	
+20	Ayiti	_	_	_	_	_	_	_	SpaceAfter=No	
+21	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__10
+# text = Pandan yon konferans pou laprès nan fen somè a Abinader ekate posibilite pou Repiblik Dominikèn ta patisipe nan oken aksyon militè pou tabli lapè nan peyi vwazen li.
+1	Pandan	_	_	_	_	_	_	_	_	
+2	yon	_	_	_	_	_	_	_	_	
+3	konferans	_	_	_	_	_	_	_	_	
+4	pou	_	_	_	_	_	_	_	_	
+5	laprès	_	_	_	_	_	_	_	_	
+6	nan	_	_	_	_	_	_	_	_	
+7	fen	_	_	_	_	_	_	_	_	
+8	somè	_	_	_	_	_	_	_	_	
+9	a	_	_	_	_	_	_	_	_	
+10	Abinader	_	_	_	_	_	_	_	_	
+11	ekate	_	_	_	_	_	_	_	_	
+12	posibilite	_	_	_	_	_	_	_	_	
+13	pou	_	_	_	_	_	_	_	_	
+14	Repiblik	_	_	_	_	_	_	_	_	
+15	Dominikèn	_	_	_	_	_	_	_	_	
+16	ta	_	_	_	_	_	_	_	_	
+17	patisipe	_	_	_	_	_	_	_	_	
+18	nan	_	_	_	_	_	_	_	_	
+19	oken	_	_	_	_	_	_	_	_	
+20	aksyon	_	_	_	_	_	_	_	_	
+21	militè	_	_	_	_	_	_	_	_	
+22	pou	_	_	_	_	_	_	_	_	
+23	tabli	_	_	_	_	_	_	_	_	
+24	lapè	_	_	_	_	_	_	_	_	
+25	nan	_	_	_	_	_	_	_	_	
+26	peyi	_	_	_	_	_	_	_	_	
+27	vwazen	_	_	_	_	_	_	_	_	
+28	li	_	_	_	_	_	_	_	SpaceAfter=No	
+29	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__11
+# text = Patwon somè a rekonèt ke Ayiti "chaje ak gang" ki koze "vyolasyon dwa moun, entegrite ak diyite moun ki pi defavorize yo nan kominote a."
+1	Patwon	_	_	_	_	_	_	_	_	
+2	somè	_	_	_	_	_	_	_	_	
+3	a	_	_	_	_	_	_	_	_	
+4	rekonèt	_	_	_	_	_	_	_	_	
+5	ke	_	_	_	_	_	_	_	_	
+6	Ayiti	_	_	_	_	_	_	_	_	
+7	"	_	_	_	_	_	_	_	_	
+8	chaje	_	_	_	_	_	_	_	_	
+9	ak	_	_	_	_	_	_	_	_	
+10	gang	_	_	_	_	_	_	_	SpaceAfter=No	
+11	"	_	_	_	_	_	_	_	_	
+12	ki	_	_	_	_	_	_	_	_	
+13	koze	_	_	_	_	_	_	_	_	
+14	"	_	_	_	_	_	_	_	_	
+15	vyolasyon	_	_	_	_	_	_	_	_	
+16	dwa	_	_	_	_	_	_	_	_	
+17	moun	_	_	_	_	_	_	_	SpaceAfter=No	
+18	,	_	_	_	_	_	_	_	_	
+19	entegrite	_	_	_	_	_	_	_	_	
+20	ak	_	_	_	_	_	_	_	_	
+21	diyite	_	_	_	_	_	_	_	_	
+22	moun	_	_	_	_	_	_	_	_	
+23	ki	_	_	_	_	_	_	_	_	
+24	pi	_	_	_	_	_	_	_	_	
+25	defavorize	_	_	_	_	_	_	_	_	
+26	yo	_	_	_	_	_	_	_	_	
+27	nan	_	_	_	_	_	_	_	_	
+28	kominote	_	_	_	_	_	_	_	_	
+29	a	_	_	_	_	_	_	_	SpaceAfter=No	
+30	."	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__12
+# text = Deklarasyon Abinader fè a tèt koupa ak sa Prezidan Kosta Rika Rodrigo Chaves te di pandan diskou li, kote li lanse apèl pou Nasyonzini reponn san pèdi tan kriz ki egziste nan peyi ki pi pov nan emisfè a, ke li asire dejenere pou'l tounen yon "eta echwe" kounyea.
+1	Deklarasyon	_	_	_	_	_	_	_	_	
+2	Abinader	_	_	_	_	_	_	_	_	
+3	fè	_	_	_	_	_	_	_	_	
+4	a	_	_	_	_	_	_	_	_	
+5	tèt	_	_	_	_	_	_	_	_	
+6	koupa	_	_	_	_	_	_	_	_	
+7	ak	_	_	_	_	_	_	_	_	
+8	sa	_	_	_	_	_	_	_	_	
+9	Prezidan	_	_	_	_	_	_	_	_	
+10	Kosta	_	_	_	_	_	_	_	_	
+11	Rika	_	_	_	_	_	_	_	_	
+12	Rodrigo	_	_	_	_	_	_	_	_	
+13	Chaves	_	_	_	_	_	_	_	_	
+14	te	_	_	_	_	_	_	_	_	
+15	di	_	_	_	_	_	_	_	_	
+16	pandan	_	_	_	_	_	_	_	_	
+17	diskou	_	_	_	_	_	_	_	_	
+18	li	_	_	_	_	_	_	_	SpaceAfter=No	
+19	,	_	_	_	_	_	_	_	_	
+20	kote	_	_	_	_	_	_	_	_	
+21	li	_	_	_	_	_	_	_	_	
+22	lanse	_	_	_	_	_	_	_	_	
+23	apèl	_	_	_	_	_	_	_	_	
+24	pou	_	_	_	_	_	_	_	_	
+25	Nasyonzini	_	_	_	_	_	_	_	_	
+26	reponn	_	_	_	_	_	_	_	_	
+27	san	_	_	_	_	_	_	_	_	
+28	pèdi	_	_	_	_	_	_	_	_	
+29	tan	_	_	_	_	_	_	_	_	
+30	kriz	_	_	_	_	_	_	_	_	
+31	ki	_	_	_	_	_	_	_	_	
+32	egziste	_	_	_	_	_	_	_	_	
+33	nan	_	_	_	_	_	_	_	_	
+34	peyi	_	_	_	_	_	_	_	_	
+35	ki	_	_	_	_	_	_	_	_	
+36	pi	_	_	_	_	_	_	_	_	
+37	pov	_	_	_	_	_	_	_	_	
+38	nan	_	_	_	_	_	_	_	_	
+39	emisfè	_	_	_	_	_	_	_	_	
+40	a	_	_	_	_	_	_	_	SpaceAfter=No	
+41	,	_	_	_	_	_	_	_	_	
+42	ke	_	_	_	_	_	_	_	_	
+43	li	_	_	_	_	_	_	_	_	
+44	asire	_	_	_	_	_	_	_	_	
+45	dejenere	_	_	_	_	_	_	_	_	
+46	pou'	_	_	_	_	_	_	_	_	
+47	l	_	_	_	_	_	_	_	_	
+48	tounen	_	_	_	_	_	_	_	_	
+49	yon	_	_	_	_	_	_	_	_	
+50	"	_	_	_	_	_	_	_	_	
+51	eta	_	_	_	_	_	_	_	_	
+52	echwe	_	_	_	_	_	_	_	SpaceAfter=No	
+53	"	_	_	_	_	_	_	_	_	
+54	kounyea	_	_	_	_	_	_	_	SpaceAfter=No	
+55	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__13
+# text = Chaves deklare: "Mond lan ap vire tèt li pou l pa gade sakap pase yon lòt fwa ankò, e li pa sanble yon bagay jis pou mwenmenm antanke Kosta Riken ap di Repiblik Dominikèn li ta dwe voye fòs zame li.
+1	Chaves	_	_	_	_	_	_	_	_	
+2	deklare	_	_	_	_	_	_	_	SpaceAfter=No	
+3	:	_	_	_	_	_	_	_	_	
+4	"	_	_	_	_	_	_	_	_	
+5	Mond	_	_	_	_	_	_	_	_	
+6	lan	_	_	_	_	_	_	_	_	
+7	ap	_	_	_	_	_	_	_	_	
+8	vire	_	_	_	_	_	_	_	_	
+9	tèt	_	_	_	_	_	_	_	_	
+10	li	_	_	_	_	_	_	_	_	
+11	pou	_	_	_	_	_	_	_	_	
+12	l	_	_	_	_	_	_	_	_	
+13	pa	_	_	_	_	_	_	_	_	
+14	gade	_	_	_	_	_	_	_	_	
+15	sakap	_	_	_	_	_	_	_	_	
+16	pase	_	_	_	_	_	_	_	_	
+17	yon	_	_	_	_	_	_	_	_	
+18	lòt	_	_	_	_	_	_	_	_	
+19	fwa	_	_	_	_	_	_	_	_	
+20	ankò	_	_	_	_	_	_	_	SpaceAfter=No	
+21	,	_	_	_	_	_	_	_	_	
+22	e	_	_	_	_	_	_	_	_	
+23	li	_	_	_	_	_	_	_	_	
+24	pa	_	_	_	_	_	_	_	_	
+25	sanble	_	_	_	_	_	_	_	_	
+26	yon	_	_	_	_	_	_	_	_	
+27	bagay	_	_	_	_	_	_	_	_	
+28	jis	_	_	_	_	_	_	_	_	
+29	pou	_	_	_	_	_	_	_	_	
+30	mwenmenm	_	_	_	_	_	_	_	_	
+31	antanke	_	_	_	_	_	_	_	_	
+32	Kosta	_	_	_	_	_	_	_	_	
+33	Riken	_	_	_	_	_	_	_	_	
+34	ap	_	_	_	_	_	_	_	_	
+35	di	_	_	_	_	_	_	_	_	
+36	Repiblik	_	_	_	_	_	_	_	_	
+37	Dominikèn	_	_	_	_	_	_	_	_	
+38	li	_	_	_	_	_	_	_	_	
+39	ta	_	_	_	_	_	_	_	_	
+40	dwe	_	_	_	_	_	_	_	_	
+41	voye	_	_	_	_	_	_	_	_	
+42	fòs	_	_	_	_	_	_	_	_	
+43	zame	_	_	_	_	_	_	_	_	
+44	li	_	_	_	_	_	_	_	SpaceAfter=No	
+45	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__14
+# text = Chaves ajoute kriz Ayisyèn nan se yon "responsabilite global" ke mond lan pap jere.
+1	Chaves	_	_	_	_	_	_	_	_	
+2	ajoute	_	_	_	_	_	_	_	_	
+3	kriz	_	_	_	_	_	_	_	_	
+4	Ayisyèn	_	_	_	_	_	_	_	_	
+5	nan	_	_	_	_	_	_	_	_	
+6	se	_	_	_	_	_	_	_	_	
+7	yon	_	_	_	_	_	_	_	_	
+8	"	_	_	_	_	_	_	_	_	
+9	responsabilite	_	_	_	_	_	_	_	_	
+10	global	_	_	_	_	_	_	_	SpaceAfter=No	
+11	"	_	_	_	_	_	_	_	_	
+12	ke	_	_	_	_	_	_	_	_	
+13	mond	_	_	_	_	_	_	_	_	
+14	lan	_	_	_	_	_	_	_	_	
+15	pap	_	_	_	_	_	_	_	_	
+16	jere	_	_	_	_	_	_	_	SpaceAfter=No	
+17	.	_	_	_	_	_	_	_	_	

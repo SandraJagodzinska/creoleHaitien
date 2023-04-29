@@ -1,0 +1,234 @@
+# sent_id = my_sample__1
+# text = Lachin Lanse yon Pinga bay Lidè Taiwan Akoz yon Rankont li Pral Fè ak Responsab Ameriken
+1	Lachin	_	_	_	_	_	_	_	_	
+2	Lanse	_	_	_	_	_	_	_	_	
+3	yon	_	_	_	_	_	_	_	_	
+4	Pinga	_	_	_	_	_	_	_	_	
+5	bay	_	_	_	_	_	_	_	_	
+6	Lidè	_	_	_	_	_	_	_	_	
+7	Taiwan	_	_	_	_	_	_	_	_	
+8	Akoz	_	_	_	_	_	_	_	_	
+9	yon	_	_	_	_	_	_	_	_	
+10	Rankont	_	_	_	_	_	_	_	_	
+11	li	_	_	_	_	_	_	_	_	
+12	Pral	_	_	_	_	_	_	_	_	
+13	Fè	_	_	_	_	_	_	_	_	
+14	ak	_	_	_	_	_	_	_	_	
+15	Responsab	_	_	_	_	_	_	_	_	
+16	Ameriken	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = Prezidan Taiwan Tsai Ing-wen (mitan) ak sekrete jeneral biwo prezidans la Lin Chia-lung (a goch) epi Minis Afe Etranje Joseph Wu (a dwat), nan Taipei, Taiwan, 29 Mas, 2023.
+1	Prezidan	_	_	_	_	_	_	_	_	
+2	Taiwan	_	_	_	_	_	_	_	_	
+3	Tsai	_	_	_	_	_	_	_	_	
+4	Ing-wen	_	_	_	_	_	_	_	_	
+5	(	_	_	_	_	_	_	_	_	
+6	mitan	_	_	_	_	_	_	_	SpaceAfter=No	
+7	)	_	_	_	_	_	_	_	_	
+8	ak	_	_	_	_	_	_	_	_	
+9	sekrete	_	_	_	_	_	_	_	_	
+10	jeneral	_	_	_	_	_	_	_	_	
+11	biwo	_	_	_	_	_	_	_	_	
+12	prezidans	_	_	_	_	_	_	_	_	
+13	la	_	_	_	_	_	_	_	_	
+14	Lin	_	_	_	_	_	_	_	_	
+15	Chia-lung	_	_	_	_	_	_	_	_	
+16	(	_	_	_	_	_	_	_	_	
+17	a	_	_	_	_	_	_	_	_	
+18	goch	_	_	_	_	_	_	_	SpaceAfter=No	
+19	)	_	_	_	_	_	_	_	_	
+20	epi	_	_	_	_	_	_	_	_	
+21	Minis	_	_	_	_	_	_	_	_	
+22	Afe	_	_	_	_	_	_	_	_	
+23	Etranje	_	_	_	_	_	_	_	_	
+24	Joseph	_	_	_	_	_	_	_	_	
+25	Wu	_	_	_	_	_	_	_	_	
+26	(	_	_	_	_	_	_	_	_	
+27	a	_	_	_	_	_	_	_	_	
+28	dwat	_	_	_	_	_	_	_	SpaceAfter=No	
+29	),	_	_	_	_	_	_	_	_	
+30	nan	_	_	_	_	_	_	_	_	
+31	Taipei	_	_	_	_	_	_	_	SpaceAfter=No	
+32	,	_	_	_	_	_	_	_	_	
+33	Taiwan	_	_	_	_	_	_	_	SpaceAfter=No	
+34	,	_	_	_	_	_	_	_	_	
+35	29	_	_	_	_	_	_	_	_	
+36	Mas	_	_	_	_	_	_	_	SpaceAfter=No	
+37	,	_	_	_	_	_	_	_	_	
+38	2023.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = Lachin menase pou l "kontrekare yon fason rezolu" rankont prezidan Taiwan nan ap planifye pou fè ak Lide Lachanm Depite Etazini pandan yon vizit nan vil Los Angeles.
+1	Lachin	_	_	_	_	_	_	_	_	
+2	menase	_	_	_	_	_	_	_	_	
+3	pou	_	_	_	_	_	_	_	_	
+4	l	_	_	_	_	_	_	_	_	
+5	"	_	_	_	_	_	_	_	_	
+6	kontrekare	_	_	_	_	_	_	_	_	
+7	yon	_	_	_	_	_	_	_	_	
+8	fason	_	_	_	_	_	_	_	_	
+9	rezolu	_	_	_	_	_	_	_	SpaceAfter=No	
+10	"	_	_	_	_	_	_	_	_	
+11	rankont	_	_	_	_	_	_	_	_	
+12	prezidan	_	_	_	_	_	_	_	_	
+13	Taiwan	_	_	_	_	_	_	_	_	
+14	nan	_	_	_	_	_	_	_	_	
+15	ap	_	_	_	_	_	_	_	_	
+16	planifye	_	_	_	_	_	_	_	_	
+17	pou	_	_	_	_	_	_	_	_	
+18	fè	_	_	_	_	_	_	_	_	
+19	ak	_	_	_	_	_	_	_	_	
+20	Lide	_	_	_	_	_	_	_	_	
+21	Lachanm	_	_	_	_	_	_	_	_	
+22	Depite	_	_	_	_	_	_	_	_	
+23	Etazini	_	_	_	_	_	_	_	_	
+24	pandan	_	_	_	_	_	_	_	_	
+25	yon	_	_	_	_	_	_	_	_	
+26	vizit	_	_	_	_	_	_	_	_	
+27	nan	_	_	_	_	_	_	_	_	
+28	vil	_	_	_	_	_	_	_	_	
+29	Los	_	_	_	_	_	_	_	_	
+30	Angeles	_	_	_	_	_	_	_	SpaceAfter=No	
+31	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Biwo Chinwa pou Zafè ki gen pou wè ak Taiwan nan mande pou oken responsab Ameriken pa rankontre Prezidan Taiwanèz Tsai Ing-wen.
+1	Biwo	_	_	_	_	_	_	_	_	
+2	Chinwa	_	_	_	_	_	_	_	_	
+3	pou	_	_	_	_	_	_	_	_	
+4	Zafè	_	_	_	_	_	_	_	_	
+5	ki	_	_	_	_	_	_	_	_	
+6	gen	_	_	_	_	_	_	_	_	
+7	pou	_	_	_	_	_	_	_	_	
+8	wè	_	_	_	_	_	_	_	_	
+9	ak	_	_	_	_	_	_	_	_	
+10	Taiwan	_	_	_	_	_	_	_	_	
+11	nan	_	_	_	_	_	_	_	_	
+12	mande	_	_	_	_	_	_	_	_	
+13	pou	_	_	_	_	_	_	_	_	
+14	oken	_	_	_	_	_	_	_	_	
+15	responsab	_	_	_	_	_	_	_	_	
+16	Ameriken	_	_	_	_	_	_	_	_	
+17	pa	_	_	_	_	_	_	_	_	
+18	rankontre	_	_	_	_	_	_	_	_	
+19	Prezidan	_	_	_	_	_	_	_	_	
+20	Taiwanèz	_	_	_	_	_	_	_	_	
+21	Tsai	_	_	_	_	_	_	_	_	
+22	Ing-wen	_	_	_	_	_	_	_	SpaceAfter=No	
+23	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__5
+# text = Tsai pati kite Taiwan Mekredi pou peyi etranje.
+1	Tsai	_	_	_	_	_	_	_	_	
+2	pati	_	_	_	_	_	_	_	_	
+3	kite	_	_	_	_	_	_	_	_	
+4	Taiwan	_	_	_	_	_	_	_	_	
+5	Mekredi	_	_	_	_	_	_	_	_	
+6	pou	_	_	_	_	_	_	_	_	
+7	peyi	_	_	_	_	_	_	_	_	
+8	etranje	_	_	_	_	_	_	_	SpaceAfter=No	
+9	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__6
+# text = Li pral vizite Guatemala ak Belize.
+1	Li	_	_	_	_	_	_	_	_	
+2	pral	_	_	_	_	_	_	_	_	
+3	vizite	_	_	_	_	_	_	_	_	
+4	Guatemala	_	_	_	_	_	_	_	_	
+5	ak	_	_	_	_	_	_	_	_	
+6	Belize	_	_	_	_	_	_	_	SpaceAfter=No	
+7	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__7
+# text = Prezidan an sipoze fè yon pase Los Angeles 5 Avril la anvan li retounen Taiwan.
+1	Prezidan	_	_	_	_	_	_	_	_	
+2	an	_	_	_	_	_	_	_	_	
+3	sipoze	_	_	_	_	_	_	_	_	
+4	fè	_	_	_	_	_	_	_	_	
+5	yon	_	_	_	_	_	_	_	_	
+6	pase	_	_	_	_	_	_	_	_	
+7	Los	_	_	_	_	_	_	_	_	
+8	Angeles	_	_	_	_	_	_	_	_	
+9	5	_	_	_	_	_	_	_	_	
+10	Avril	_	_	_	_	_	_	_	_	
+11	la	_	_	_	_	_	_	_	_	
+12	anvan	_	_	_	_	_	_	_	_	
+13	li	_	_	_	_	_	_	_	_	
+14	retounen	_	_	_	_	_	_	_	_	
+15	Taiwan	_	_	_	_	_	_	_	SpaceAfter=No	
+16	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__8
+# text = Se pandan eskal sa a ke li gen entansyon rankontre Lidè Lachanm Kevin McCarthy.
+1	Se	_	_	_	_	_	_	_	_	
+2	pandan	_	_	_	_	_	_	_	_	
+3	eskal	_	_	_	_	_	_	_	_	
+4	sa	_	_	_	_	_	_	_	_	
+5	a	_	_	_	_	_	_	_	_	
+6	ke	_	_	_	_	_	_	_	_	
+7	li	_	_	_	_	_	_	_	_	
+8	gen	_	_	_	_	_	_	_	_	
+9	entansyon	_	_	_	_	_	_	_	_	
+10	rankontre	_	_	_	_	_	_	_	_	
+11	Lidè	_	_	_	_	_	_	_	_	
+12	Lachanm	_	_	_	_	_	_	_	_	
+13	Kevin	_	_	_	_	_	_	_	_	
+14	McCarthy	_	_	_	_	_	_	_	SpaceAfter=No	
+15	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__9
+# text = Ministe Afè Etranjè Lachin nan blame Washington pou tansyon ki egziste ant Peken ak Etazini.
+1	Ministe	_	_	_	_	_	_	_	_	
+2	Afè	_	_	_	_	_	_	_	_	
+3	Etranjè	_	_	_	_	_	_	_	_	
+4	Lachin	_	_	_	_	_	_	_	_	
+5	nan	_	_	_	_	_	_	_	_	
+6	blame	_	_	_	_	_	_	_	_	
+7	Washington	_	_	_	_	_	_	_	_	
+8	pou	_	_	_	_	_	_	_	_	
+9	tansyon	_	_	_	_	_	_	_	_	
+10	ki	_	_	_	_	_	_	_	_	
+11	egziste	_	_	_	_	_	_	_	_	
+12	ant	_	_	_	_	_	_	_	_	
+13	Peken	_	_	_	_	_	_	_	_	
+14	ak	_	_	_	_	_	_	_	_	
+15	Etazini	_	_	_	_	_	_	_	SpaceAfter=No	
+16	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__10
+# text = Li di se paske Washington ogmante relasyon ni ak Tsai.
+1	Li	_	_	_	_	_	_	_	_	
+2	di	_	_	_	_	_	_	_	_	
+3	se	_	_	_	_	_	_	_	_	
+4	paske	_	_	_	_	_	_	_	_	
+5	Washington	_	_	_	_	_	_	_	_	
+6	ogmante	_	_	_	_	_	_	_	_	
+7	relasyon	_	_	_	_	_	_	_	_	
+8	ni	_	_	_	_	_	_	_	_	
+9	ak	_	_	_	_	_	_	_	_	
+10	Tsai	_	_	_	_	_	_	_	SpaceAfter=No	
+11	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__11
+# text = Taiwan te separe ak Lachin apre yon gè sivil an 1949.
+1	Taiwan	_	_	_	_	_	_	_	_	
+2	te	_	_	_	_	_	_	_	_	
+3	separe	_	_	_	_	_	_	_	_	
+4	ak	_	_	_	_	_	_	_	_	
+5	Lachin	_	_	_	_	_	_	_	_	
+6	apre	_	_	_	_	_	_	_	_	
+7	yon	_	_	_	_	_	_	_	_	
+8	gè	_	_	_	_	_	_	_	_	
+9	sivil	_	_	_	_	_	_	_	_	
+10	an	_	_	_	_	_	_	_	_	
+11	1949	_	_	_	_	_	_	_	SpaceAfter=No	
+12	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__12
+# text = Kounyea zile a endepandan.
+1	Kounyea	_	_	_	_	_	_	_	_	
+2	zile	_	_	_	_	_	_	_	_	
+3	a	_	_	_	_	_	_	_	_	
+4	endepandan	_	_	_	_	_	_	_	SpaceAfter=No	
+5	.	_	_	_	_	_	_	_	_	

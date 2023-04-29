@@ -1,0 +1,334 @@
+# sent_id = my_sample__1
+# text = Biden: 'Etazini Pa Ekate Posibilite pou Itilize Lafòs pou Tabli Lapè an Ayiti'
+1	Biden	_	_	_	_	_	_	_	SpaceAfter=No	
+2	:	_	_	_	_	_	_	_	_	
+3	'	_	_	_	_	_	_	_	_	
+4	Etazini	_	_	_	_	_	_	_	_	
+5	Pa	_	_	_	_	_	_	_	_	
+6	Ekate	_	_	_	_	_	_	_	_	
+7	Posibilite	_	_	_	_	_	_	_	_	
+8	pou	_	_	_	_	_	_	_	_	
+9	Itilize	_	_	_	_	_	_	_	_	
+10	Lafòs	_	_	_	_	_	_	_	_	
+11	pou	_	_	_	_	_	_	_	_	
+12	Tabli	_	_	_	_	_	_	_	_	
+13	Lapè	_	_	_	_	_	_	_	_	
+14	an	_	_	_	_	_	_	_	_	
+15	Ayiti'	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = Prezidan Joe Biden pale pandan yon konferans pou lapres ak Premye Minis Kanadyen Justin Trudeau nan Ottawa, Kanada, 24 Mas, 2023.
+1	Prezidan	_	_	_	_	_	_	_	_	
+2	Joe	_	_	_	_	_	_	_	_	
+3	Biden	_	_	_	_	_	_	_	_	
+4	pale	_	_	_	_	_	_	_	_	
+5	pandan	_	_	_	_	_	_	_	_	
+6	yon	_	_	_	_	_	_	_	_	
+7	konferans	_	_	_	_	_	_	_	_	
+8	pou	_	_	_	_	_	_	_	_	
+9	lapres	_	_	_	_	_	_	_	_	
+10	ak	_	_	_	_	_	_	_	_	
+11	Premye	_	_	_	_	_	_	_	_	
+12	Minis	_	_	_	_	_	_	_	_	
+13	Kanadyen	_	_	_	_	_	_	_	_	
+14	Justin	_	_	_	_	_	_	_	_	
+15	Trudeau	_	_	_	_	_	_	_	_	
+16	nan	_	_	_	_	_	_	_	_	
+17	Ottawa	_	_	_	_	_	_	_	SpaceAfter=No	
+18	,	_	_	_	_	_	_	_	_	
+19	Kanada	_	_	_	_	_	_	_	SpaceAfter=No	
+20	,	_	_	_	_	_	_	_	_	
+21	24	_	_	_	_	_	_	_	_	
+22	Mas	_	_	_	_	_	_	_	SpaceAfter=No	
+23	,	_	_	_	_	_	_	_	_	
+24	2023.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = Etazini ap chache sipò pou fòs polis nasyonal Ayiti e lap etidye posibilite pou Nasyonzini ta jwe yon wol nan jefò pou tabli lape an Ayiti.
+1	Etazini	_	_	_	_	_	_	_	_	
+2	ap	_	_	_	_	_	_	_	_	
+3	chache	_	_	_	_	_	_	_	_	
+4	sipò	_	_	_	_	_	_	_	_	
+5	pou	_	_	_	_	_	_	_	_	
+6	fòs	_	_	_	_	_	_	_	_	
+7	polis	_	_	_	_	_	_	_	_	
+8	nasyonal	_	_	_	_	_	_	_	_	
+9	Ayiti	_	_	_	_	_	_	_	_	
+10	e	_	_	_	_	_	_	_	_	
+11	lap	_	_	_	_	_	_	_	_	
+12	etidye	_	_	_	_	_	_	_	_	
+13	posibilite	_	_	_	_	_	_	_	_	
+14	pou	_	_	_	_	_	_	_	_	
+15	Nasyonzini	_	_	_	_	_	_	_	_	
+16	ta	_	_	_	_	_	_	_	_	
+17	jwe	_	_	_	_	_	_	_	_	
+18	yon	_	_	_	_	_	_	_	_	
+19	wol	_	_	_	_	_	_	_	_	
+20	nan	_	_	_	_	_	_	_	_	
+21	jefò	_	_	_	_	_	_	_	_	
+22	pou	_	_	_	_	_	_	_	_	
+23	tabli	_	_	_	_	_	_	_	_	
+24	lape	_	_	_	_	_	_	_	_	
+25	an	_	_	_	_	_	_	_	_	
+26	Ayiti	_	_	_	_	_	_	_	SpaceAfter=No	
+27	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Se sa Prezidan Joe Biden fe konnen pandan vizit li nan peyi Kanada Vandredi 24 Mas la.
+1	Se	_	_	_	_	_	_	_	_	
+2	sa	_	_	_	_	_	_	_	_	
+3	Prezidan	_	_	_	_	_	_	_	_	
+4	Joe	_	_	_	_	_	_	_	_	
+5	Biden	_	_	_	_	_	_	_	_	
+6	fe	_	_	_	_	_	_	_	_	
+7	konnen	_	_	_	_	_	_	_	_	
+8	pandan	_	_	_	_	_	_	_	_	
+9	vizit	_	_	_	_	_	_	_	_	
+10	li	_	_	_	_	_	_	_	_	
+11	nan	_	_	_	_	_	_	_	_	
+12	peyi	_	_	_	_	_	_	_	_	
+13	Kanada	_	_	_	_	_	_	_	_	
+14	Vandredi	_	_	_	_	_	_	_	_	
+15	24	_	_	_	_	_	_	_	_	
+16	Mas	_	_	_	_	_	_	_	_	
+17	la	_	_	_	_	_	_	_	SpaceAfter=No	
+18	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__5
+# text = "Nempòt ki desizyon pa rapo ak yon fòs milite - ke nou diskite souvan, ta dwe fèt an konsiltasyon ak Nasyonzini epi gouvenman Ayisyen an.
+1	"	_	_	_	_	_	_	_	_	
+2	Nempòt	_	_	_	_	_	_	_	_	
+3	ki	_	_	_	_	_	_	_	_	
+4	desizyon	_	_	_	_	_	_	_	_	
+5	pa	_	_	_	_	_	_	_	_	
+6	rapo	_	_	_	_	_	_	_	_	
+7	ak	_	_	_	_	_	_	_	_	
+8	yon	_	_	_	_	_	_	_	_	
+9	fòs	_	_	_	_	_	_	_	_	
+10	milite	_	_	_	_	_	_	_	_	
+11	-	_	_	_	_	_	_	_	_	
+12	ke	_	_	_	_	_	_	_	_	
+13	nou	_	_	_	_	_	_	_	_	
+14	diskite	_	_	_	_	_	_	_	_	
+15	souvan	_	_	_	_	_	_	_	SpaceAfter=No	
+16	,	_	_	_	_	_	_	_	_	
+17	ta	_	_	_	_	_	_	_	_	
+18	dwe	_	_	_	_	_	_	_	_	
+19	fèt	_	_	_	_	_	_	_	_	
+20	an	_	_	_	_	_	_	_	_	
+21	konsiltasyon	_	_	_	_	_	_	_	_	
+22	ak	_	_	_	_	_	_	_	_	
+23	Nasyonzini	_	_	_	_	_	_	_	_	
+24	epi	_	_	_	_	_	_	_	_	
+25	gouvenman	_	_	_	_	_	_	_	_	
+26	Ayisyen	_	_	_	_	_	_	_	_	
+27	an	_	_	_	_	_	_	_	SpaceAfter=No	
+28	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__6
+# text = Donk nou pa ekate posibilite a men se pa yon bagay nou anvizaje fè kounyela a."
+1	Donk	_	_	_	_	_	_	_	_	
+2	nou	_	_	_	_	_	_	_	_	
+3	pa	_	_	_	_	_	_	_	_	
+4	ekate	_	_	_	_	_	_	_	_	
+5	posibilite	_	_	_	_	_	_	_	_	
+6	a	_	_	_	_	_	_	_	_	
+7	men	_	_	_	_	_	_	_	_	
+8	se	_	_	_	_	_	_	_	_	
+9	pa	_	_	_	_	_	_	_	_	
+10	yon	_	_	_	_	_	_	_	_	
+11	bagay	_	_	_	_	_	_	_	_	
+12	nou	_	_	_	_	_	_	_	_	
+13	anvizaje	_	_	_	_	_	_	_	_	
+14	fè	_	_	_	_	_	_	_	_	
+15	kounyela	_	_	_	_	_	_	_	_	
+16	a	_	_	_	_	_	_	_	SpaceAfter=No	
+17	."	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__7
+# text = Prezidan Biden di, yap gade pou wè si kominote entènasyonal la pata jwe yon pi gwo wòl nan jefò a.
+1	Prezidan	_	_	_	_	_	_	_	_	
+2	Biden	_	_	_	_	_	_	_	_	
+3	di	_	_	_	_	_	_	_	SpaceAfter=No	
+4	,	_	_	_	_	_	_	_	_	
+5	yap	_	_	_	_	_	_	_	_	
+6	gade	_	_	_	_	_	_	_	_	
+7	pou	_	_	_	_	_	_	_	_	
+8	wè	_	_	_	_	_	_	_	_	
+9	si	_	_	_	_	_	_	_	_	
+10	kominote	_	_	_	_	_	_	_	_	
+11	entènasyonal	_	_	_	_	_	_	_	_	
+12	la	_	_	_	_	_	_	_	_	
+13	pata	_	_	_	_	_	_	_	_	
+14	jwe	_	_	_	_	_	_	_	_	
+15	yon	_	_	_	_	_	_	_	_	
+16	pi	_	_	_	_	_	_	_	_	
+17	gwo	_	_	_	_	_	_	_	_	
+18	wòl	_	_	_	_	_	_	_	_	
+19	nan	_	_	_	_	_	_	_	_	
+20	jefò	_	_	_	_	_	_	_	_	
+21	a	_	_	_	_	_	_	_	SpaceAfter=No	
+22	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__8
+# text = Li te pale de aktivite gang yo tou.
+1	Li	_	_	_	_	_	_	_	_	
+2	te	_	_	_	_	_	_	_	_	
+3	pale	_	_	_	_	_	_	_	_	
+4	de	_	_	_	_	_	_	_	_	
+5	aktivite	_	_	_	_	_	_	_	_	
+6	gang	_	_	_	_	_	_	_	_	
+7	yo	_	_	_	_	_	_	_	_	
+8	tou	_	_	_	_	_	_	_	SpaceAfter=No	
+9	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__9
+# text = " Lide sou kijan nou pral fè fas ak sakap pase an Ayiti, kote gang yo esansyèlman ranplase gouvènman an, an efè yap dirije peyi a.
+1	"	_	_	_	_	_	_	_	_	
+2	Lide	_	_	_	_	_	_	_	_	
+3	sou	_	_	_	_	_	_	_	_	
+4	kijan	_	_	_	_	_	_	_	_	
+5	nou	_	_	_	_	_	_	_	_	
+6	pral	_	_	_	_	_	_	_	_	
+7	fè	_	_	_	_	_	_	_	_	
+8	fas	_	_	_	_	_	_	_	_	
+9	ak	_	_	_	_	_	_	_	_	
+10	sakap	_	_	_	_	_	_	_	_	
+11	pase	_	_	_	_	_	_	_	_	
+12	an	_	_	_	_	_	_	_	_	
+13	Ayiti	_	_	_	_	_	_	_	SpaceAfter=No	
+14	,	_	_	_	_	_	_	_	_	
+15	kote	_	_	_	_	_	_	_	_	
+16	gang	_	_	_	_	_	_	_	_	
+17	yo	_	_	_	_	_	_	_	_	
+18	esansyèlman	_	_	_	_	_	_	_	_	
+19	ranplase	_	_	_	_	_	_	_	_	
+20	gouvènman	_	_	_	_	_	_	_	_	
+21	an	_	_	_	_	_	_	_	SpaceAfter=No	
+22	,	_	_	_	_	_	_	_	_	
+23	an	_	_	_	_	_	_	_	_	
+24	efè	_	_	_	_	_	_	_	_	
+25	yap	_	_	_	_	_	_	_	_	
+26	dirije	_	_	_	_	_	_	_	_	
+27	peyi	_	_	_	_	_	_	_	_	
+28	a	_	_	_	_	_	_	_	SpaceAfter=No	
+29	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__10
+# text = Kidonk mwen kwè sa Premye Minis Trudeau di sou koze a fè anpil sans.
+1	Kidonk	_	_	_	_	_	_	_	_	
+2	mwen	_	_	_	_	_	_	_	_	
+3	kwè	_	_	_	_	_	_	_	_	
+4	sa	_	_	_	_	_	_	_	_	
+5	Premye	_	_	_	_	_	_	_	_	
+6	Minis	_	_	_	_	_	_	_	_	
+7	Trudeau	_	_	_	_	_	_	_	_	
+8	di	_	_	_	_	_	_	_	_	
+9	sou	_	_	_	_	_	_	_	_	
+10	koze	_	_	_	_	_	_	_	_	
+11	a	_	_	_	_	_	_	_	_	
+12	fè	_	_	_	_	_	_	_	_	
+13	anpil	_	_	_	_	_	_	_	_	
+14	sans	_	_	_	_	_	_	_	SpaceAfter=No	
+15	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__11
+# text = Pi gwo bagay nou ka fè e se yon bagay kap pran tan, se ogmante kapasite polis nasyonal la genyen pou fè fas ak pwoblèm yo konstate.
+1	Pi	_	_	_	_	_	_	_	_	
+2	gwo	_	_	_	_	_	_	_	_	
+3	bagay	_	_	_	_	_	_	_	_	
+4	nou	_	_	_	_	_	_	_	_	
+5	ka	_	_	_	_	_	_	_	_	
+6	fè	_	_	_	_	_	_	_	_	
+7	e	_	_	_	_	_	_	_	_	
+8	se	_	_	_	_	_	_	_	_	
+9	yon	_	_	_	_	_	_	_	_	
+10	bagay	_	_	_	_	_	_	_	_	
+11	kap	_	_	_	_	_	_	_	_	
+12	pran	_	_	_	_	_	_	_	_	
+13	tan	_	_	_	_	_	_	_	SpaceAfter=No	
+14	,	_	_	_	_	_	_	_	_	
+15	se	_	_	_	_	_	_	_	_	
+16	ogmante	_	_	_	_	_	_	_	_	
+17	kapasite	_	_	_	_	_	_	_	_	
+18	polis	_	_	_	_	_	_	_	_	
+19	nasyonal	_	_	_	_	_	_	_	_	
+20	la	_	_	_	_	_	_	_	_	
+21	genyen	_	_	_	_	_	_	_	_	
+22	pou	_	_	_	_	_	_	_	_	
+23	fè	_	_	_	_	_	_	_	_	
+24	fas	_	_	_	_	_	_	_	_	
+25	ak	_	_	_	_	_	_	_	_	
+26	pwoblèm	_	_	_	_	_	_	_	_	
+27	yo	_	_	_	_	_	_	_	_	
+28	konstate	_	_	_	_	_	_	_	SpaceAfter=No	
+29	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__12
+# text = Nap gade tou pou wè si kominote entènasyonal la pa l entèmedyè Nasyonzini taka jwe yon pi gwo wòl nan jefò sa a.
+1	Nap	_	_	_	_	_	_	_	_	
+2	gade	_	_	_	_	_	_	_	_	
+3	tou	_	_	_	_	_	_	_	_	
+4	pou	_	_	_	_	_	_	_	_	
+5	wè	_	_	_	_	_	_	_	_	
+6	si	_	_	_	_	_	_	_	_	
+7	kominote	_	_	_	_	_	_	_	_	
+8	entènasyonal	_	_	_	_	_	_	_	_	
+9	la	_	_	_	_	_	_	_	_	
+10	pa	_	_	_	_	_	_	_	_	
+11	l	_	_	_	_	_	_	_	_	
+12	entèmedyè	_	_	_	_	_	_	_	_	
+13	Nasyonzini	_	_	_	_	_	_	_	_	
+14	taka	_	_	_	_	_	_	_	_	
+15	jwe	_	_	_	_	_	_	_	_	
+16	yon	_	_	_	_	_	_	_	_	
+17	pi	_	_	_	_	_	_	_	_	
+18	gwo	_	_	_	_	_	_	_	_	
+19	wòl	_	_	_	_	_	_	_	_	
+20	nan	_	_	_	_	_	_	_	_	
+21	jefò	_	_	_	_	_	_	_	_	
+22	sa	_	_	_	_	_	_	_	_	
+23	a	_	_	_	_	_	_	_	SpaceAfter=No	
+24	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__13
+# text = Men vreman vre, se yon gwo ke sote pou nou."
+1	Men	_	_	_	_	_	_	_	_	
+2	vreman	_	_	_	_	_	_	_	_	
+3	vre	_	_	_	_	_	_	_	SpaceAfter=No	
+4	,	_	_	_	_	_	_	_	_	
+5	se	_	_	_	_	_	_	_	_	
+6	yon	_	_	_	_	_	_	_	_	
+7	gwo	_	_	_	_	_	_	_	_	
+8	ke	_	_	_	_	_	_	_	_	
+9	sote	_	_	_	_	_	_	_	_	
+10	pou	_	_	_	_	_	_	_	_	
+11	nou	_	_	_	_	_	_	_	SpaceAfter=No	
+12	."	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__14
+# text = Ayiti sete youn nan kestyon prensipal Prezidan Joe Biden te diskite ak Premye Minis Justin Trudeau pandan vizit 2 jou li nan Ottawa.
+1	Ayiti	_	_	_	_	_	_	_	_	
+2	sete	_	_	_	_	_	_	_	_	
+3	youn	_	_	_	_	_	_	_	_	
+4	nan	_	_	_	_	_	_	_	_	
+5	kestyon	_	_	_	_	_	_	_	_	
+6	prensipal	_	_	_	_	_	_	_	_	
+7	Prezidan	_	_	_	_	_	_	_	_	
+8	Joe	_	_	_	_	_	_	_	_	
+9	Biden	_	_	_	_	_	_	_	_	
+10	te	_	_	_	_	_	_	_	_	
+11	diskite	_	_	_	_	_	_	_	_	
+12	ak	_	_	_	_	_	_	_	_	
+13	Premye	_	_	_	_	_	_	_	_	
+14	Minis	_	_	_	_	_	_	_	_	
+15	Justin	_	_	_	_	_	_	_	_	
+16	Trudeau	_	_	_	_	_	_	_	_	
+17	pandan	_	_	_	_	_	_	_	_	
+18	vizit	_	_	_	_	_	_	_	_	
+19	2	_	_	_	_	_	_	_	_	
+20	jou	_	_	_	_	_	_	_	_	
+21	li	_	_	_	_	_	_	_	_	
+22	nan	_	_	_	_	_	_	_	_	
+23	Ottawa	_	_	_	_	_	_	_	SpaceAfter=No	
+24	.	_	_	_	_	_	_	_	_	

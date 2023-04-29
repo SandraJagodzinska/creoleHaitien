@@ -1,0 +1,101 @@
+# sent_id = my_sample__1
+# text = SAN JUAN, Pòtoriko (AP) — Fanmi yon koup ameriken ke bandi kidnape ann Ayiti ap plede pou yo jwenn liberasyon.
+1	SAN	_	_	_	_	_	_	_	_	
+2	JUAN	_	_	_	_	_	_	_	SpaceAfter=No	
+3	,	_	_	_	_	_	_	_	_	
+4	Pòtoriko	_	_	_	_	_	_	_	_	
+5	(	_	_	_	_	_	_	_	_	
+6	AP	_	_	_	_	_	_	_	SpaceAfter=No	
+7	)	_	_	_	_	_	_	_	_	
+8	—	_	_	_	_	_	_	_	_	
+9	Fanmi	_	_	_	_	_	_	_	_	
+10	yon	_	_	_	_	_	_	_	_	
+11	koup	_	_	_	_	_	_	_	_	
+12	ameriken	_	_	_	_	_	_	_	_	
+13	ke	_	_	_	_	_	_	_	_	
+14	bandi	_	_	_	_	_	_	_	_	
+15	kidnape	_	_	_	_	_	_	_	_	
+16	ann	_	_	_	_	_	_	_	_	
+17	Ayiti	_	_	_	_	_	_	_	_	
+18	ap	_	_	_	_	_	_	_	_	
+19	plede	_	_	_	_	_	_	_	_	
+20	pou	_	_	_	_	_	_	_	_	
+21	yo	_	_	_	_	_	_	_	_	
+22	jwenn	_	_	_	_	_	_	_	_	
+23	liberasyon	_	_	_	_	_	_	_	SpaceAfter=No	
+24	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = Nikese Toussaint di ke gang te kidnape frè l, madanm li ak yon twazyèm moun ki t ap vwayaje avèk yo 18 mas pase.
+1	Nikese	_	_	_	_	_	_	_	_	
+2	Toussaint	_	_	_	_	_	_	_	_	
+3	di	_	_	_	_	_	_	_	_	
+4	ke	_	_	_	_	_	_	_	_	
+5	gang	_	_	_	_	_	_	_	_	
+6	te	_	_	_	_	_	_	_	_	
+7	kidnape	_	_	_	_	_	_	_	_	
+8	frè	_	_	_	_	_	_	_	_	
+9	l	_	_	_	_	_	_	_	SpaceAfter=No	
+10	,	_	_	_	_	_	_	_	_	
+11	madanm	_	_	_	_	_	_	_	_	
+12	li	_	_	_	_	_	_	_	_	
+13	ak	_	_	_	_	_	_	_	_	
+14	yon	_	_	_	_	_	_	_	_	
+15	twazyèm	_	_	_	_	_	_	_	_	
+16	moun	_	_	_	_	_	_	_	_	
+17	ki	_	_	_	_	_	_	_	_	
+18	t	_	_	_	_	_	_	_	_	
+19	ap	_	_	_	_	_	_	_	_	
+20	vwayaje	_	_	_	_	_	_	_	_	
+21	avèk	_	_	_	_	_	_	_	_	
+22	yo	_	_	_	_	_	_	_	_	
+23	18	_	_	_	_	_	_	_	_	
+24	mas	_	_	_	_	_	_	_	_	
+25	pase	_	_	_	_	_	_	_	SpaceAfter=No	
+26	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = Toussaint di nan yon entèvyou nan telefòn lendi ke gang nan mande $200,000 pou chak moun, e ke fanmi li pa gen kalite lajan sa a.
+1	Toussaint	_	_	_	_	_	_	_	_	
+2	di	_	_	_	_	_	_	_	_	
+3	nan	_	_	_	_	_	_	_	_	
+4	yon	_	_	_	_	_	_	_	_	
+5	entèvyou	_	_	_	_	_	_	_	_	
+6	nan	_	_	_	_	_	_	_	_	
+7	telefòn	_	_	_	_	_	_	_	_	
+8	lendi	_	_	_	_	_	_	_	_	
+9	ke	_	_	_	_	_	_	_	_	
+10	gang	_	_	_	_	_	_	_	_	
+11	nan	_	_	_	_	_	_	_	_	
+12	mande	_	_	_	_	_	_	_	_	
+13	$	_	_	_	_	_	_	_	_	
+14	200,000	_	_	_	_	_	_	_	_	
+15	pou	_	_	_	_	_	_	_	_	
+16	chak	_	_	_	_	_	_	_	_	
+17	moun	_	_	_	_	_	_	_	SpaceAfter=No	
+18	,	_	_	_	_	_	_	_	_	
+19	e	_	_	_	_	_	_	_	_	
+20	ke	_	_	_	_	_	_	_	_	
+21	fanmi	_	_	_	_	_	_	_	_	
+22	li	_	_	_	_	_	_	_	_	
+23	pa	_	_	_	_	_	_	_	_	
+24	gen	_	_	_	_	_	_	_	_	
+25	kalite	_	_	_	_	_	_	_	_	
+26	lajan	_	_	_	_	_	_	_	_	
+27	sa	_	_	_	_	_	_	_	_	
+28	a	_	_	_	_	_	_	_	SpaceAfter=No	
+29	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Li te di ke FBI ap ede jwenn liberasyon yo.
+1	Li	_	_	_	_	_	_	_	_	
+2	te	_	_	_	_	_	_	_	_	
+3	di	_	_	_	_	_	_	_	_	
+4	ke	_	_	_	_	_	_	_	_	
+5	FBI	_	_	_	_	_	_	_	_	
+6	ap	_	_	_	_	_	_	_	_	
+7	ede	_	_	_	_	_	_	_	_	
+8	jwenn	_	_	_	_	_	_	_	_	
+9	liberasyon	_	_	_	_	_	_	_	_	
+10	yo	_	_	_	_	_	_	_	SpaceAfter=No	
+11	.	_	_	_	_	_	_	_	_	

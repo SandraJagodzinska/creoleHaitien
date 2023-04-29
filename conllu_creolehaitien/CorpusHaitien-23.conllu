@@ -1,0 +1,97 @@
+# sent_id = my_sample__1
+# text = Depatman Deta Konfime yo Kidnape 2 Sitwayen Ameriken an Ayiti
+1	Depatman	_	_	_	_	_	_	_	_	
+2	Deta	_	_	_	_	_	_	_	_	
+3	Konfime	_	_	_	_	_	_	_	_	
+4	yo	_	_	_	_	_	_	_	_	
+5	Kidnape	_	_	_	_	_	_	_	_	
+6	2	_	_	_	_	_	_	_	_	
+7	Sitwayen	_	_	_	_	_	_	_	_	
+8	Ameriken	_	_	_	_	_	_	_	_	
+9	an	_	_	_	_	_	_	_	_	
+10	Ayiti	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = Jean-Dickens Toussaint ak madanm ni Abigail Michael Toussaint poze pou yon foto jou maryaj yo nan Pompano Beach, Florid.
+1	Jean-Dickens	_	_	_	_	_	_	_	_	
+2	Toussaint	_	_	_	_	_	_	_	_	
+3	ak	_	_	_	_	_	_	_	_	
+4	madanm	_	_	_	_	_	_	_	_	
+5	ni	_	_	_	_	_	_	_	_	
+6	Abigail	_	_	_	_	_	_	_	_	
+7	Michael	_	_	_	_	_	_	_	_	
+8	Toussaint	_	_	_	_	_	_	_	_	
+9	poze	_	_	_	_	_	_	_	_	
+10	pou	_	_	_	_	_	_	_	_	
+11	yon	_	_	_	_	_	_	_	_	
+12	foto	_	_	_	_	_	_	_	_	
+13	jou	_	_	_	_	_	_	_	_	
+14	maryaj	_	_	_	_	_	_	_	_	
+15	yo	_	_	_	_	_	_	_	_	
+16	nan	_	_	_	_	_	_	_	_	
+17	Pompano	_	_	_	_	_	_	_	_	
+18	Beach	_	_	_	_	_	_	_	SpaceAfter=No	
+19	,	_	_	_	_	_	_	_	_	
+20	Florid	_	_	_	_	_	_	_	SpaceAfter=No	
+21	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = Pòtpawol adjwen Depatman Deta a, Vendant Patel konfime Jedi 30 mas 2023 ke yo kidnape 2 sitwayen Ameriken an Ayiti.
+1	Pòtpawol	_	_	_	_	_	_	_	_	
+2	adjwen	_	_	_	_	_	_	_	_	
+3	Depatman	_	_	_	_	_	_	_	_	
+4	Deta	_	_	_	_	_	_	_	_	
+5	a	_	_	_	_	_	_	_	SpaceAfter=No	
+6	,	_	_	_	_	_	_	_	_	
+7	Vendant	_	_	_	_	_	_	_	_	
+8	Patel	_	_	_	_	_	_	_	_	
+9	konfime	_	_	_	_	_	_	_	_	
+10	Jedi	_	_	_	_	_	_	_	_	
+11	30	_	_	_	_	_	_	_	_	
+12	mas	_	_	_	_	_	_	_	_	
+13	2023	_	_	_	_	_	_	_	_	
+14	ke	_	_	_	_	_	_	_	_	
+15	yo	_	_	_	_	_	_	_	_	
+16	kidnape	_	_	_	_	_	_	_	_	
+17	2	_	_	_	_	_	_	_	_	
+18	sitwayen	_	_	_	_	_	_	_	_	
+19	Ameriken	_	_	_	_	_	_	_	_	
+20	an	_	_	_	_	_	_	_	_	
+21	Ayiti	_	_	_	_	_	_	_	SpaceAfter=No	
+22	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Li ajoute ke Washington an kontak ak otorite Ayisyen yo e ke Etazini pral kontinye travay ak yo.
+1	Li	_	_	_	_	_	_	_	_	
+2	ajoute	_	_	_	_	_	_	_	_	
+3	ke	_	_	_	_	_	_	_	_	
+4	Washington	_	_	_	_	_	_	_	_	
+5	an	_	_	_	_	_	_	_	_	
+6	kontak	_	_	_	_	_	_	_	_	
+7	ak	_	_	_	_	_	_	_	_	
+8	otorite	_	_	_	_	_	_	_	_	
+9	Ayisyen	_	_	_	_	_	_	_	_	
+10	yo	_	_	_	_	_	_	_	_	
+11	e	_	_	_	_	_	_	_	_	
+12	ke	_	_	_	_	_	_	_	_	
+13	Etazini	_	_	_	_	_	_	_	_	
+14	pral	_	_	_	_	_	_	_	_	
+15	kontinye	_	_	_	_	_	_	_	_	
+16	travay	_	_	_	_	_	_	_	_	
+17	ak	_	_	_	_	_	_	_	_	
+18	yo	_	_	_	_	_	_	_	SpaceAfter=No	
+19	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__5
+# text = Patel te refize bay okenn lòt detay sou dosye a.
+1	Patel	_	_	_	_	_	_	_	_	
+2	te	_	_	_	_	_	_	_	_	
+3	refize	_	_	_	_	_	_	_	_	
+4	bay	_	_	_	_	_	_	_	_	
+5	okenn	_	_	_	_	_	_	_	_	
+6	lòt	_	_	_	_	_	_	_	_	
+7	detay	_	_	_	_	_	_	_	_	
+8	sou	_	_	_	_	_	_	_	_	
+9	dosye	_	_	_	_	_	_	_	_	
+10	a	_	_	_	_	_	_	_	SpaceAfter=No	
+11	.	_	_	_	_	_	_	_	_	

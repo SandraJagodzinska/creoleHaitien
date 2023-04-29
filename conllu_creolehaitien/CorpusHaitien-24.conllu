@@ -1,0 +1,317 @@
+# sent_id = my_sample__1
+# text = Yon pòt pawòl Depatman d Eta deklare Samdi, gouvènman Ameriken an o kouran de rapò ki di kòm kwa gen 2 sitwayen Ameriken ki disparèt an Ayiti, apre laprès nan eta Florid rapòte yo kidnape yon koup.
+1	Yon	_	_	_	_	_	_	_	_	
+2	pòt	_	_	_	_	_	_	_	_	
+3	pawòl	_	_	_	_	_	_	_	_	
+4	Depatman	_	_	_	_	_	_	_	_	
+5	d	_	_	_	_	_	_	_	_	
+6	Eta	_	_	_	_	_	_	_	_	
+7	deklare	_	_	_	_	_	_	_	_	
+8	Samdi	_	_	_	_	_	_	_	SpaceAfter=No	
+9	,	_	_	_	_	_	_	_	_	
+10	gouvènman	_	_	_	_	_	_	_	_	
+11	Ameriken	_	_	_	_	_	_	_	_	
+12	an	_	_	_	_	_	_	_	_	
+13	o	_	_	_	_	_	_	_	_	
+14	kouran	_	_	_	_	_	_	_	_	
+15	de	_	_	_	_	_	_	_	_	
+16	rapò	_	_	_	_	_	_	_	_	
+17	ki	_	_	_	_	_	_	_	_	
+18	di	_	_	_	_	_	_	_	_	
+19	kòm	_	_	_	_	_	_	_	_	
+20	kwa	_	_	_	_	_	_	_	_	
+21	gen	_	_	_	_	_	_	_	_	
+22	2	_	_	_	_	_	_	_	_	
+23	sitwayen	_	_	_	_	_	_	_	_	
+24	Ameriken	_	_	_	_	_	_	_	_	
+25	ki	_	_	_	_	_	_	_	_	
+26	disparèt	_	_	_	_	_	_	_	_	
+27	an	_	_	_	_	_	_	_	_	
+28	Ayiti	_	_	_	_	_	_	_	SpaceAfter=No	
+29	,	_	_	_	_	_	_	_	_	
+30	apre	_	_	_	_	_	_	_	_	
+31	laprès	_	_	_	_	_	_	_	_	
+32	nan	_	_	_	_	_	_	_	_	
+33	eta	_	_	_	_	_	_	_	_	
+34	Florid	_	_	_	_	_	_	_	_	
+35	rapòte	_	_	_	_	_	_	_	_	
+36	yo	_	_	_	_	_	_	_	_	
+37	kidnape	_	_	_	_	_	_	_	_	
+38	yon	_	_	_	_	_	_	_	_	
+39	koup	_	_	_	_	_	_	_	SpaceAfter=No	
+40	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = Abigail Toussaint ak Jean-Dickens Toussaint, 33 zan, disparèt nan Pòtoprens e gang yo kenbe yo depi plizyè jou, dapre yon petisyon yon dam ki di li sa fanmi koup la pibliye sou entènèt.
+1	Abigail	_	_	_	_	_	_	_	_	
+2	Toussaint	_	_	_	_	_	_	_	_	
+3	ak	_	_	_	_	_	_	_	_	
+4	Jean-Dickens	_	_	_	_	_	_	_	_	
+5	Toussaint	_	_	_	_	_	_	_	SpaceAfter=No	
+6	,	_	_	_	_	_	_	_	_	
+7	33	_	_	_	_	_	_	_	_	
+8	zan	_	_	_	_	_	_	_	SpaceAfter=No	
+9	,	_	_	_	_	_	_	_	_	
+10	disparèt	_	_	_	_	_	_	_	_	
+11	nan	_	_	_	_	_	_	_	_	
+12	Pòtoprens	_	_	_	_	_	_	_	_	
+13	e	_	_	_	_	_	_	_	_	
+14	gang	_	_	_	_	_	_	_	_	
+15	yo	_	_	_	_	_	_	_	_	
+16	kenbe	_	_	_	_	_	_	_	_	
+17	yo	_	_	_	_	_	_	_	_	
+18	depi	_	_	_	_	_	_	_	_	
+19	plizyè	_	_	_	_	_	_	_	_	
+20	jou	_	_	_	_	_	_	_	SpaceAfter=No	
+21	,	_	_	_	_	_	_	_	_	
+22	dapre	_	_	_	_	_	_	_	_	
+23	yon	_	_	_	_	_	_	_	_	
+24	petisyon	_	_	_	_	_	_	_	_	
+25	yon	_	_	_	_	_	_	_	_	
+26	dam	_	_	_	_	_	_	_	_	
+27	ki	_	_	_	_	_	_	_	_	
+28	di	_	_	_	_	_	_	_	_	
+29	li	_	_	_	_	_	_	_	_	
+30	sa	_	_	_	_	_	_	_	_	
+31	fanmi	_	_	_	_	_	_	_	_	
+32	koup	_	_	_	_	_	_	_	_	
+33	la	_	_	_	_	_	_	_	_	
+34	pibliye	_	_	_	_	_	_	_	_	
+35	sou	_	_	_	_	_	_	_	_	
+36	entènèt	_	_	_	_	_	_	_	SpaceAfter=No	
+37	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = Koup la tap vizite fanmi yo an Ayiti epi asiste yon festival lè yo te kidnape yo nan yon otobis, dapre sa yon manm fanmi yo di CNN.
+1	Koup	_	_	_	_	_	_	_	_	
+2	la	_	_	_	_	_	_	_	_	
+3	tap	_	_	_	_	_	_	_	_	
+4	vizite	_	_	_	_	_	_	_	_	
+5	fanmi	_	_	_	_	_	_	_	_	
+6	yo	_	_	_	_	_	_	_	_	
+7	an	_	_	_	_	_	_	_	_	
+8	Ayiti	_	_	_	_	_	_	_	_	
+9	epi	_	_	_	_	_	_	_	_	
+10	asiste	_	_	_	_	_	_	_	_	
+11	yon	_	_	_	_	_	_	_	_	
+12	festival	_	_	_	_	_	_	_	_	
+13	lè	_	_	_	_	_	_	_	_	
+14	yo	_	_	_	_	_	_	_	_	
+15	te	_	_	_	_	_	_	_	_	
+16	kidnape	_	_	_	_	_	_	_	_	
+17	yo	_	_	_	_	_	_	_	_	
+18	nan	_	_	_	_	_	_	_	_	
+19	yon	_	_	_	_	_	_	_	_	
+20	otobis	_	_	_	_	_	_	_	SpaceAfter=No	
+21	,	_	_	_	_	_	_	_	_	
+22	dapre	_	_	_	_	_	_	_	_	
+23	sa	_	_	_	_	_	_	_	_	
+24	yon	_	_	_	_	_	_	_	_	
+25	manm	_	_	_	_	_	_	_	_	
+26	fanmi	_	_	_	_	_	_	_	_	
+27	yo	_	_	_	_	_	_	_	_	
+28	di	_	_	_	_	_	_	_	_	
+29	CNN	_	_	_	_	_	_	_	SpaceAfter=No	
+30	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Pòtpawòl Depatman d Eta di: "Nou o kouran de rapò ki di gen 2 sitwayen Ameriken ki disparèt an Ayiti.
+1	Pòtpawòl	_	_	_	_	_	_	_	_	
+2	Depatman	_	_	_	_	_	_	_	_	
+3	d	_	_	_	_	_	_	_	_	
+4	Eta	_	_	_	_	_	_	_	_	
+5	di	_	_	_	_	_	_	_	SpaceAfter=No	
+6	:	_	_	_	_	_	_	_	_	
+7	"	_	_	_	_	_	_	_	_	
+8	Nou	_	_	_	_	_	_	_	_	
+9	o	_	_	_	_	_	_	_	_	
+10	kouran	_	_	_	_	_	_	_	_	
+11	de	_	_	_	_	_	_	_	_	
+12	rapò	_	_	_	_	_	_	_	_	
+13	ki	_	_	_	_	_	_	_	_	
+14	di	_	_	_	_	_	_	_	_	
+15	gen	_	_	_	_	_	_	_	_	
+16	2	_	_	_	_	_	_	_	_	
+17	sitwayen	_	_	_	_	_	_	_	_	
+18	Ameriken	_	_	_	_	_	_	_	_	
+19	ki	_	_	_	_	_	_	_	_	
+20	disparèt	_	_	_	_	_	_	_	_	
+21	an	_	_	_	_	_	_	_	_	
+22	Ayiti	_	_	_	_	_	_	_	SpaceAfter=No	
+23	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__5
+# text = Lè yon sitwayen Ameriken disparèt, nou travay sere-sere ak otorite lokal yo pandan yap chache moun sa yo e nou pataje enfòmasyon ak fanmi yo nempòt kijan nou kapab."
+1	Lè	_	_	_	_	_	_	_	_	
+2	yon	_	_	_	_	_	_	_	_	
+3	sitwayen	_	_	_	_	_	_	_	_	
+4	Ameriken	_	_	_	_	_	_	_	_	
+5	disparèt	_	_	_	_	_	_	_	SpaceAfter=No	
+6	,	_	_	_	_	_	_	_	_	
+7	nou	_	_	_	_	_	_	_	_	
+8	travay	_	_	_	_	_	_	_	_	
+9	sere-sere	_	_	_	_	_	_	_	_	
+10	ak	_	_	_	_	_	_	_	_	
+11	otorite	_	_	_	_	_	_	_	_	
+12	lokal	_	_	_	_	_	_	_	_	
+13	yo	_	_	_	_	_	_	_	_	
+14	pandan	_	_	_	_	_	_	_	_	
+15	yap	_	_	_	_	_	_	_	_	
+16	chache	_	_	_	_	_	_	_	_	
+17	moun	_	_	_	_	_	_	_	_	
+18	sa	_	_	_	_	_	_	_	_	
+19	yo	_	_	_	_	_	_	_	_	
+20	e	_	_	_	_	_	_	_	_	
+21	nou	_	_	_	_	_	_	_	_	
+22	pataje	_	_	_	_	_	_	_	_	
+23	enfòmasyon	_	_	_	_	_	_	_	_	
+24	ak	_	_	_	_	_	_	_	_	
+25	fanmi	_	_	_	_	_	_	_	_	
+26	yo	_	_	_	_	_	_	_	_	
+27	nempòt	_	_	_	_	_	_	_	_	
+28	kijan	_	_	_	_	_	_	_	_	
+29	nou	_	_	_	_	_	_	_	_	
+30	kapab	_	_	_	_	_	_	_	SpaceAfter=No	
+31	."	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__6
+# text = Yon pòt pawòl polis nasyonal Ayiti pat reponn demann Reuters te fè pou kòmantè.
+1	Yon	_	_	_	_	_	_	_	_	
+2	pòt	_	_	_	_	_	_	_	_	
+3	pawòl	_	_	_	_	_	_	_	_	
+4	polis	_	_	_	_	_	_	_	_	
+5	nasyonal	_	_	_	_	_	_	_	_	
+6	Ayiti	_	_	_	_	_	_	_	_	
+7	pat	_	_	_	_	_	_	_	_	
+8	reponn	_	_	_	_	_	_	_	_	
+9	demann	_	_	_	_	_	_	_	_	
+10	Reuters	_	_	_	_	_	_	_	_	
+11	te	_	_	_	_	_	_	_	_	
+12	fè	_	_	_	_	_	_	_	_	
+13	pou	_	_	_	_	_	_	_	_	
+14	kòmantè	_	_	_	_	_	_	_	SpaceAfter=No	
+15	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__7
+# text = Gang yo nan peyi d Ayiti ogmante pouvwa yo depi asasina Prezidan Jovenel Moise an 2021.
+1	Gang	_	_	_	_	_	_	_	_	
+2	yo	_	_	_	_	_	_	_	_	
+3	nan	_	_	_	_	_	_	_	_	
+4	peyi	_	_	_	_	_	_	_	_	
+5	d	_	_	_	_	_	_	_	_	
+6	Ayiti	_	_	_	_	_	_	_	_	
+7	ogmante	_	_	_	_	_	_	_	_	
+8	pouvwa	_	_	_	_	_	_	_	_	
+9	yo	_	_	_	_	_	_	_	_	
+10	depi	_	_	_	_	_	_	_	_	
+11	asasina	_	_	_	_	_	_	_	_	
+12	Prezidan	_	_	_	_	_	_	_	_	
+13	Jovenel	_	_	_	_	_	_	_	_	
+14	Moise	_	_	_	_	_	_	_	_	
+15	an	_	_	_	_	_	_	_	_	
+16	2021	_	_	_	_	_	_	_	SpaceAfter=No	
+17	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__8
+# text = Kounyea yon kontwole yon gwo pòsyon kapital la ak pwovens yo.
+1	Kounyea	_	_	_	_	_	_	_	_	
+2	yon	_	_	_	_	_	_	_	_	
+3	kontwole	_	_	_	_	_	_	_	_	
+4	yon	_	_	_	_	_	_	_	_	
+5	gwo	_	_	_	_	_	_	_	_	
+6	pòsyon	_	_	_	_	_	_	_	_	
+7	kapital	_	_	_	_	_	_	_	_	
+8	la	_	_	_	_	_	_	_	_	
+9	ak	_	_	_	_	_	_	_	_	
+10	pwovens	_	_	_	_	_	_	_	_	
+11	yo	_	_	_	_	_	_	_	SpaceAfter=No	
+12	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__9
+# text = Ensekirite a dejenere pi plis pandan mwa ki pase yo kote gang yo antre nan lese frape ak lapolis.
+1	Ensekirite	_	_	_	_	_	_	_	_	
+2	a	_	_	_	_	_	_	_	_	
+3	dejenere	_	_	_	_	_	_	_	_	
+4	pi	_	_	_	_	_	_	_	_	
+5	plis	_	_	_	_	_	_	_	_	
+6	pandan	_	_	_	_	_	_	_	_	
+7	mwa	_	_	_	_	_	_	_	_	
+8	ki	_	_	_	_	_	_	_	_	
+9	pase	_	_	_	_	_	_	_	_	
+10	yo	_	_	_	_	_	_	_	_	
+11	kote	_	_	_	_	_	_	_	_	
+12	gang	_	_	_	_	_	_	_	_	
+13	yo	_	_	_	_	_	_	_	_	
+14	antre	_	_	_	_	_	_	_	_	
+15	nan	_	_	_	_	_	_	_	_	
+16	lese	_	_	_	_	_	_	_	_	
+17	frape	_	_	_	_	_	_	_	_	
+18	ak	_	_	_	_	_	_	_	_	
+19	lapolis	_	_	_	_	_	_	_	SpaceAfter=No	
+20	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__10
+# text = Batay ant gang yo pou kontwòl teritwa lakoz anpil san koule epi plizyè santèn milye moun oblije kouri kite kay yo.
+1	Batay	_	_	_	_	_	_	_	_	
+2	ant	_	_	_	_	_	_	_	_	
+3	gang	_	_	_	_	_	_	_	_	
+4	yo	_	_	_	_	_	_	_	_	
+5	pou	_	_	_	_	_	_	_	_	
+6	kontwòl	_	_	_	_	_	_	_	_	
+7	teritwa	_	_	_	_	_	_	_	_	
+8	lakoz	_	_	_	_	_	_	_	_	
+9	anpil	_	_	_	_	_	_	_	_	
+10	san	_	_	_	_	_	_	_	_	
+11	koule	_	_	_	_	_	_	_	_	
+12	epi	_	_	_	_	_	_	_	_	
+13	plizyè	_	_	_	_	_	_	_	_	
+14	santèn	_	_	_	_	_	_	_	_	
+15	milye	_	_	_	_	_	_	_	_	
+16	moun	_	_	_	_	_	_	_	_	
+17	oblije	_	_	_	_	_	_	_	_	
+18	kouri	_	_	_	_	_	_	_	_	
+19	kite	_	_	_	_	_	_	_	_	
+20	kay	_	_	_	_	_	_	_	_	
+21	yo	_	_	_	_	_	_	_	SpaceAfter=No	
+22	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__11
+# text = Gen 17 misyonè ki moun Etazini ak Kanada ke yon gang te kenbe pou ranson an 2021 pandan yo tap travay pou Christian Aid Ministries ki gen katye jeneral li nan eta Ohio nan sant wès Etazini.
+1	Gen	_	_	_	_	_	_	_	_	
+2	17	_	_	_	_	_	_	_	_	
+3	misyonè	_	_	_	_	_	_	_	_	
+4	ki	_	_	_	_	_	_	_	_	
+5	moun	_	_	_	_	_	_	_	_	
+6	Etazini	_	_	_	_	_	_	_	_	
+7	ak	_	_	_	_	_	_	_	_	
+8	Kanada	_	_	_	_	_	_	_	_	
+9	ke	_	_	_	_	_	_	_	_	
+10	yon	_	_	_	_	_	_	_	_	
+11	gang	_	_	_	_	_	_	_	_	
+12	te	_	_	_	_	_	_	_	_	
+13	kenbe	_	_	_	_	_	_	_	_	
+14	pou	_	_	_	_	_	_	_	_	
+15	ranson	_	_	_	_	_	_	_	_	
+16	an	_	_	_	_	_	_	_	_	
+17	2021	_	_	_	_	_	_	_	_	
+18	pandan	_	_	_	_	_	_	_	_	
+19	yo	_	_	_	_	_	_	_	_	
+20	tap	_	_	_	_	_	_	_	_	
+21	travay	_	_	_	_	_	_	_	_	
+22	pou	_	_	_	_	_	_	_	_	
+23	Christian	_	_	_	_	_	_	_	_	
+24	Aid	_	_	_	_	_	_	_	_	
+25	Ministries	_	_	_	_	_	_	_	_	
+26	ki	_	_	_	_	_	_	_	_	
+27	gen	_	_	_	_	_	_	_	_	
+28	katye	_	_	_	_	_	_	_	_	
+29	jeneral	_	_	_	_	_	_	_	_	
+30	li	_	_	_	_	_	_	_	_	
+31	nan	_	_	_	_	_	_	_	_	
+32	eta	_	_	_	_	_	_	_	_	
+33	Ohio	_	_	_	_	_	_	_	_	
+34	nan	_	_	_	_	_	_	_	_	
+35	sant	_	_	_	_	_	_	_	_	
+36	wès	_	_	_	_	_	_	_	_	
+37	Etazini	_	_	_	_	_	_	_	SpaceAfter=No	
+38	.	_	_	_	_	_	_	_	_	

@@ -1,0 +1,130 @@
+# sent_id = my_sample__1
+# text = 39 Moun Mouri nan Dife nan Sant Migran Meksik Toupre Fwontyè ak Etazini
+1	39	_	_	_	_	_	_	_	_	
+2	Moun	_	_	_	_	_	_	_	_	
+3	Mouri	_	_	_	_	_	_	_	_	
+4	nan	_	_	_	_	_	_	_	_	
+5	Dife	_	_	_	_	_	_	_	_	
+6	nan	_	_	_	_	_	_	_	_	
+7	Sant	_	_	_	_	_	_	_	_	
+8	Migran	_	_	_	_	_	_	_	_	
+9	Meksik	_	_	_	_	_	_	_	_	
+10	Toupre	_	_	_	_	_	_	_	_	
+11	Fwontyè	_	_	_	_	_	_	_	_	
+12	ak	_	_	_	_	_	_	_	_	
+13	Etazini	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = MEXICO CITY (AP) — Plis pase twa douzèn migran pèdi lavi yo nan yon dife ki pran nan yon dòtwa nan yon sant kote yo fèmen migran Meksiken toupre fwontyè Etazini.
+1	MEXICO	_	_	_	_	_	_	_	_	
+2	CITY	_	_	_	_	_	_	_	_	
+3	(	_	_	_	_	_	_	_	_	
+4	AP	_	_	_	_	_	_	_	SpaceAfter=No	
+5	)	_	_	_	_	_	_	_	_	
+6	—	_	_	_	_	_	_	_	_	
+7	Plis	_	_	_	_	_	_	_	_	
+8	pase	_	_	_	_	_	_	_	_	
+9	twa	_	_	_	_	_	_	_	_	
+10	douzèn	_	_	_	_	_	_	_	_	
+11	migran	_	_	_	_	_	_	_	_	
+12	pèdi	_	_	_	_	_	_	_	_	
+13	lavi	_	_	_	_	_	_	_	_	
+14	yo	_	_	_	_	_	_	_	_	
+15	nan	_	_	_	_	_	_	_	_	
+16	yon	_	_	_	_	_	_	_	_	
+17	dife	_	_	_	_	_	_	_	_	
+18	ki	_	_	_	_	_	_	_	_	
+19	pran	_	_	_	_	_	_	_	_	
+20	nan	_	_	_	_	_	_	_	_	
+21	yon	_	_	_	_	_	_	_	_	
+22	dòtwa	_	_	_	_	_	_	_	_	
+23	nan	_	_	_	_	_	_	_	_	
+24	yon	_	_	_	_	_	_	_	_	
+25	sant	_	_	_	_	_	_	_	_	
+26	kote	_	_	_	_	_	_	_	_	
+27	yo	_	_	_	_	_	_	_	_	
+28	fèmen	_	_	_	_	_	_	_	_	
+29	migran	_	_	_	_	_	_	_	_	
+30	Meksiken	_	_	_	_	_	_	_	_	
+31	toupre	_	_	_	_	_	_	_	_	
+32	fwontyè	_	_	_	_	_	_	_	_	
+33	Etazini	_	_	_	_	_	_	_	SpaceAfter=No	
+34	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = Se youn nan ensidan kote plis moun mouri nan yon sant pou kenbe migran nan peyi a.
+1	Se	_	_	_	_	_	_	_	_	
+2	youn	_	_	_	_	_	_	_	_	
+3	nan	_	_	_	_	_	_	_	_	
+4	ensidan	_	_	_	_	_	_	_	_	
+5	kote	_	_	_	_	_	_	_	_	
+6	plis	_	_	_	_	_	_	_	_	
+7	moun	_	_	_	_	_	_	_	_	
+8	mouri	_	_	_	_	_	_	_	_	
+9	nan	_	_	_	_	_	_	_	_	
+10	yon	_	_	_	_	_	_	_	_	
+11	sant	_	_	_	_	_	_	_	_	
+12	pou	_	_	_	_	_	_	_	_	
+13	kenbe	_	_	_	_	_	_	_	_	
+14	migran	_	_	_	_	_	_	_	_	
+15	nan	_	_	_	_	_	_	_	_	
+16	peyi	_	_	_	_	_	_	_	_	
+17	a	_	_	_	_	_	_	_	SpaceAfter=No	
+18	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Kèk èdtan apre dife a te eklate Lendi swa, yo te aliyen kèk kadav ke yo te kouvri anba dra deyò etablisman an nan Ciudad Juarez, anfas El Paso, Texas.
+1	Kèk	_	_	_	_	_	_	_	_	
+2	èdtan	_	_	_	_	_	_	_	_	
+3	apre	_	_	_	_	_	_	_	_	
+4	dife	_	_	_	_	_	_	_	_	
+5	a	_	_	_	_	_	_	_	_	
+6	te	_	_	_	_	_	_	_	_	
+7	eklate	_	_	_	_	_	_	_	_	
+8	Lendi	_	_	_	_	_	_	_	_	
+9	swa	_	_	_	_	_	_	_	SpaceAfter=No	
+10	,	_	_	_	_	_	_	_	_	
+11	yo	_	_	_	_	_	_	_	_	
+12	te	_	_	_	_	_	_	_	_	
+13	aliyen	_	_	_	_	_	_	_	_	
+14	kèk	_	_	_	_	_	_	_	_	
+15	kadav	_	_	_	_	_	_	_	_	
+16	ke	_	_	_	_	_	_	_	_	
+17	yo	_	_	_	_	_	_	_	_	
+18	te	_	_	_	_	_	_	_	_	
+19	kouvri	_	_	_	_	_	_	_	_	
+20	anba	_	_	_	_	_	_	_	_	
+21	dra	_	_	_	_	_	_	_	_	
+22	deyò	_	_	_	_	_	_	_	_	
+23	etablisman	_	_	_	_	_	_	_	_	
+24	an	_	_	_	_	_	_	_	_	
+25	nan	_	_	_	_	_	_	_	_	
+26	Ciudad	_	_	_	_	_	_	_	_	
+27	Juarez	_	_	_	_	_	_	_	SpaceAfter=No	
+28	,	_	_	_	_	_	_	_	_	
+29	anfas	_	_	_	_	_	_	_	_	
+30	El	_	_	_	_	_	_	_	_	
+31	Paso	_	_	_	_	_	_	_	SpaceAfter=No	
+32	,	_	_	_	_	_	_	_	_	
+33	Texas	_	_	_	_	_	_	_	SpaceAfter=No	
+34	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__5
+# text = Anbilans, ponpye ak lòt kamyon ki soti nan mòg la te anvayi lye ensidan an.
+1	Anbilans	_	_	_	_	_	_	_	SpaceAfter=No	
+2	,	_	_	_	_	_	_	_	_	
+3	ponpye	_	_	_	_	_	_	_	_	
+4	ak	_	_	_	_	_	_	_	_	
+5	lòt	_	_	_	_	_	_	_	_	
+6	kamyon	_	_	_	_	_	_	_	_	
+7	ki	_	_	_	_	_	_	_	_	
+8	soti	_	_	_	_	_	_	_	_	
+9	nan	_	_	_	_	_	_	_	_	
+10	mòg	_	_	_	_	_	_	_	_	
+11	la	_	_	_	_	_	_	_	_	
+12	te	_	_	_	_	_	_	_	_	
+13	anvayi	_	_	_	_	_	_	_	_	
+14	lye	_	_	_	_	_	_	_	_	
+15	ensidan	_	_	_	_	_	_	_	_	
+16	an	_	_	_	_	_	_	_	SpaceAfter=No	
+17	.	_	_	_	_	_	_	_	_	

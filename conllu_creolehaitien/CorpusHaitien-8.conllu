@@ -1,0 +1,435 @@
+# sent_id = my_sample__1
+# text = Lajistis Etazini ta sipoze arete ofisyèlman epi enkilpe Madi, ansyen Prezidan Etazini Donald Trump.
+1	Lajistis	_	_	_	_	_	_	_	_	
+2	Etazini	_	_	_	_	_	_	_	_	
+3	ta	_	_	_	_	_	_	_	_	
+4	sipoze	_	_	_	_	_	_	_	_	
+5	arete	_	_	_	_	_	_	_	_	
+6	ofisyèlman	_	_	_	_	_	_	_	_	
+7	epi	_	_	_	_	_	_	_	_	
+8	enkilpe	_	_	_	_	_	_	_	_	
+9	Madi	_	_	_	_	_	_	_	SpaceAfter=No	
+10	,	_	_	_	_	_	_	_	_	
+11	ansyen	_	_	_	_	_	_	_	_	
+12	Prezidan	_	_	_	_	_	_	_	_	
+13	Etazini	_	_	_	_	_	_	_	_	
+14	Donald	_	_	_	_	_	_	_	_	
+15	Trump	_	_	_	_	_	_	_	SpaceAfter=No	
+16	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = Se premye fwa yon prezidan Ameriken janm fè fas ak akizasyon pou krim.
+1	Se	_	_	_	_	_	_	_	_	
+2	premye	_	_	_	_	_	_	_	_	
+3	fwa	_	_	_	_	_	_	_	_	
+4	yon	_	_	_	_	_	_	_	_	
+5	prezidan	_	_	_	_	_	_	_	_	
+6	Ameriken	_	_	_	_	_	_	_	_	
+7	janm	_	_	_	_	_	_	_	_	
+8	fè	_	_	_	_	_	_	_	_	
+9	fas	_	_	_	_	_	_	_	_	
+10	ak	_	_	_	_	_	_	_	_	
+11	akizasyon	_	_	_	_	_	_	_	_	
+12	pou	_	_	_	_	_	_	_	_	
+13	krim	_	_	_	_	_	_	_	SpaceAfter=No	
+14	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = Yon Gran Juri nan Nouyok fè listwa lè li vote Jedi pou enkilpe Trump pou krim ki gen rapo ak lajan li te peye yon vedèt film porno an kachèt pandan kanpay prezidansyèl li an 2016.
+1	Yon	_	_	_	_	_	_	_	_	
+2	Gran	_	_	_	_	_	_	_	_	
+3	Juri	_	_	_	_	_	_	_	_	
+4	nan	_	_	_	_	_	_	_	_	
+5	Nouyok	_	_	_	_	_	_	_	_	
+6	fè	_	_	_	_	_	_	_	_	
+7	listwa	_	_	_	_	_	_	_	_	
+8	lè	_	_	_	_	_	_	_	_	
+9	li	_	_	_	_	_	_	_	_	
+10	vote	_	_	_	_	_	_	_	_	
+11	Jedi	_	_	_	_	_	_	_	_	
+12	pou	_	_	_	_	_	_	_	_	
+13	enkilpe	_	_	_	_	_	_	_	_	
+14	Trump	_	_	_	_	_	_	_	_	
+15	pou	_	_	_	_	_	_	_	_	
+16	krim	_	_	_	_	_	_	_	_	
+17	ki	_	_	_	_	_	_	_	_	
+18	gen	_	_	_	_	_	_	_	_	
+19	rapo	_	_	_	_	_	_	_	_	
+20	ak	_	_	_	_	_	_	_	_	
+21	lajan	_	_	_	_	_	_	_	_	
+22	li	_	_	_	_	_	_	_	_	
+23	te	_	_	_	_	_	_	_	_	
+24	peye	_	_	_	_	_	_	_	_	
+25	yon	_	_	_	_	_	_	_	_	
+26	vedèt	_	_	_	_	_	_	_	_	
+27	film	_	_	_	_	_	_	_	_	
+28	porno	_	_	_	_	_	_	_	_	
+29	an	_	_	_	_	_	_	_	_	
+30	kachèt	_	_	_	_	_	_	_	_	
+31	pandan	_	_	_	_	_	_	_	_	
+32	kanpay	_	_	_	_	_	_	_	_	
+33	prezidansyèl	_	_	_	_	_	_	_	_	
+34	li	_	_	_	_	_	_	_	_	
+35	an	_	_	_	_	_	_	_	_	
+36	2016.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Akizasyon sa yo ke moun tap tann depi lontan, fèt nan moman Trump ap eseye retounen nan Mezonblanch la apre li te pèdi chans pou l re-eli nan eleksyon 2020 an.
+1	Akizasyon	_	_	_	_	_	_	_	_	
+2	sa	_	_	_	_	_	_	_	_	
+3	yo	_	_	_	_	_	_	_	_	
+4	ke	_	_	_	_	_	_	_	_	
+5	moun	_	_	_	_	_	_	_	_	
+6	tap	_	_	_	_	_	_	_	_	
+7	tann	_	_	_	_	_	_	_	_	
+8	depi	_	_	_	_	_	_	_	_	
+9	lontan	_	_	_	_	_	_	_	SpaceAfter=No	
+10	,	_	_	_	_	_	_	_	_	
+11	fèt	_	_	_	_	_	_	_	_	
+12	nan	_	_	_	_	_	_	_	_	
+13	moman	_	_	_	_	_	_	_	_	
+14	Trump	_	_	_	_	_	_	_	_	
+15	ap	_	_	_	_	_	_	_	_	
+16	eseye	_	_	_	_	_	_	_	_	
+17	retounen	_	_	_	_	_	_	_	_	
+18	nan	_	_	_	_	_	_	_	_	
+19	Mezonblanch	_	_	_	_	_	_	_	_	
+20	la	_	_	_	_	_	_	_	_	
+21	apre	_	_	_	_	_	_	_	_	
+22	li	_	_	_	_	_	_	_	_	
+23	te	_	_	_	_	_	_	_	_	
+24	pèdi	_	_	_	_	_	_	_	_	
+25	chans	_	_	_	_	_	_	_	_	
+26	pou	_	_	_	_	_	_	_	_	
+27	l	_	_	_	_	_	_	_	_	
+28	re-eli	_	_	_	_	_	_	_	_	
+29	nan	_	_	_	_	_	_	_	_	
+30	eleksyon	_	_	_	_	_	_	_	_	
+31	2020	_	_	_	_	_	_	_	_	
+32	an	_	_	_	_	_	_	_	SpaceAfter=No	
+33	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__5
+# text = Sa fè l tounen sèl prezidan aktyèl ak sèl ex-prezidan Etazini la jistis janm enkilpe.
+1	Sa	_	_	_	_	_	_	_	_	
+2	fè	_	_	_	_	_	_	_	_	
+3	l	_	_	_	_	_	_	_	_	
+4	tounen	_	_	_	_	_	_	_	_	
+5	sèl	_	_	_	_	_	_	_	_	
+6	prezidan	_	_	_	_	_	_	_	_	
+7	aktyèl	_	_	_	_	_	_	_	_	
+8	ak	_	_	_	_	_	_	_	_	
+9	sèl	_	_	_	_	_	_	_	_	
+10	ex-prezidan	_	_	_	_	_	_	_	_	
+11	Etazini	_	_	_	_	_	_	_	_	
+12	la	_	_	_	_	_	_	_	_	
+13	jistis	_	_	_	_	_	_	_	_	
+14	janm	_	_	_	_	_	_	_	_	
+15	enkilpe	_	_	_	_	_	_	_	SpaceAfter=No	
+16	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__6
+# text = Pou kounyea akizasyon yo rete sekrè donk li pa klè de ki krim yo pral akize l egzakteman ni konbyen chèf akizasyon.
+1	Pou	_	_	_	_	_	_	_	_	
+2	kounyea	_	_	_	_	_	_	_	_	
+3	akizasyon	_	_	_	_	_	_	_	_	
+4	yo	_	_	_	_	_	_	_	_	
+5	rete	_	_	_	_	_	_	_	_	
+6	sekrè	_	_	_	_	_	_	_	_	
+7	donk	_	_	_	_	_	_	_	_	
+8	li	_	_	_	_	_	_	_	_	
+9	pa	_	_	_	_	_	_	_	_	
+10	klè	_	_	_	_	_	_	_	_	
+11	de	_	_	_	_	_	_	_	_	
+12	ki	_	_	_	_	_	_	_	_	
+13	krim	_	_	_	_	_	_	_	_	
+14	yo	_	_	_	_	_	_	_	_	
+15	pral	_	_	_	_	_	_	_	_	
+16	akize	_	_	_	_	_	_	_	_	
+17	l	_	_	_	_	_	_	_	_	
+18	egzakteman	_	_	_	_	_	_	_	_	
+19	ni	_	_	_	_	_	_	_	_	
+20	konbyen	_	_	_	_	_	_	_	_	
+21	chèf	_	_	_	_	_	_	_	_	
+22	akizasyon	_	_	_	_	_	_	_	SpaceAfter=No	
+23	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__7
+# text = CNN te rapote ke ansyen prezidan an ap fè fas ak plis pase 30 chèf akizasyon.
+1	CNN	_	_	_	_	_	_	_	_	
+2	te	_	_	_	_	_	_	_	_	
+3	rapote	_	_	_	_	_	_	_	_	
+4	ke	_	_	_	_	_	_	_	_	
+5	ansyen	_	_	_	_	_	_	_	_	
+6	prezidan	_	_	_	_	_	_	_	_	
+7	an	_	_	_	_	_	_	_	_	
+8	ap	_	_	_	_	_	_	_	_	
+9	fè	_	_	_	_	_	_	_	_	
+10	fas	_	_	_	_	_	_	_	_	
+11	ak	_	_	_	_	_	_	_	_	
+12	plis	_	_	_	_	_	_	_	_	
+13	pase	_	_	_	_	_	_	_	_	
+14	30	_	_	_	_	_	_	_	_	
+15	chèf	_	_	_	_	_	_	_	_	
+16	akizasyon	_	_	_	_	_	_	_	SpaceAfter=No	
+17	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__8
+# text = VOA patka konfime nouvèl sa a.
+1	VOA	_	_	_	_	_	_	_	_	
+2	patka	_	_	_	_	_	_	_	_	
+3	konfime	_	_	_	_	_	_	_	_	
+4	nouvèl	_	_	_	_	_	_	_	_	
+5	sa	_	_	_	_	_	_	_	_	
+6	a	_	_	_	_	_	_	_	SpaceAfter=No	
+7	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__9
+# text = Nan yon deklarasyon li pibliye, avoka distri Manhattan nan, Alvin Bragg di li kontake avoka Trump la pou "kowodone pwosesis pou l rann tèt li bay biwo minis jistis Manhattan nan pou yo ka menen li devan tribinal pou tande akizasyon yo."
+1	Nan	_	_	_	_	_	_	_	_	
+2	yon	_	_	_	_	_	_	_	_	
+3	deklarasyon	_	_	_	_	_	_	_	_	
+4	li	_	_	_	_	_	_	_	_	
+5	pibliye	_	_	_	_	_	_	_	SpaceAfter=No	
+6	,	_	_	_	_	_	_	_	_	
+7	avoka	_	_	_	_	_	_	_	_	
+8	distri	_	_	_	_	_	_	_	_	
+9	Manhattan	_	_	_	_	_	_	_	_	
+10	nan	_	_	_	_	_	_	_	SpaceAfter=No	
+11	,	_	_	_	_	_	_	_	_	
+12	Alvin	_	_	_	_	_	_	_	_	
+13	Bragg	_	_	_	_	_	_	_	_	
+14	di	_	_	_	_	_	_	_	_	
+15	li	_	_	_	_	_	_	_	_	
+16	kontake	_	_	_	_	_	_	_	_	
+17	avoka	_	_	_	_	_	_	_	_	
+18	Trump	_	_	_	_	_	_	_	_	
+19	la	_	_	_	_	_	_	_	_	
+20	pou	_	_	_	_	_	_	_	_	
+21	"	_	_	_	_	_	_	_	_	
+22	kowodone	_	_	_	_	_	_	_	_	
+23	pwosesis	_	_	_	_	_	_	_	_	
+24	pou	_	_	_	_	_	_	_	_	
+25	l	_	_	_	_	_	_	_	_	
+26	rann	_	_	_	_	_	_	_	_	
+27	tèt	_	_	_	_	_	_	_	_	
+28	li	_	_	_	_	_	_	_	_	
+29	bay	_	_	_	_	_	_	_	_	
+30	biwo	_	_	_	_	_	_	_	_	
+31	minis	_	_	_	_	_	_	_	_	
+32	jistis	_	_	_	_	_	_	_	_	
+33	Manhattan	_	_	_	_	_	_	_	_	
+34	nan	_	_	_	_	_	_	_	_	
+35	pou	_	_	_	_	_	_	_	_	
+36	yo	_	_	_	_	_	_	_	_	
+37	ka	_	_	_	_	_	_	_	_	
+38	menen	_	_	_	_	_	_	_	_	
+39	li	_	_	_	_	_	_	_	_	
+40	devan	_	_	_	_	_	_	_	_	
+41	tribinal	_	_	_	_	_	_	_	_	
+42	pou	_	_	_	_	_	_	_	_	
+43	tande	_	_	_	_	_	_	_	_	
+44	akizasyon	_	_	_	_	_	_	_	_	
+45	yo	_	_	_	_	_	_	_	SpaceAfter=No	
+46	."	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__10
+# text = Pou rann tèt li bay lajistis, fok Trump, ki rete nan eta Florid kounyea, ta vwayaje al Nouyok ansanm ak gad sèvis sekrè kap pwoteje li yo.
+1	Pou	_	_	_	_	_	_	_	_	
+2	rann	_	_	_	_	_	_	_	_	
+3	tèt	_	_	_	_	_	_	_	_	
+4	li	_	_	_	_	_	_	_	_	
+5	bay	_	_	_	_	_	_	_	_	
+6	lajistis	_	_	_	_	_	_	_	SpaceAfter=No	
+7	,	_	_	_	_	_	_	_	_	
+8	fok	_	_	_	_	_	_	_	_	
+9	Trump	_	_	_	_	_	_	_	SpaceAfter=No	
+10	,	_	_	_	_	_	_	_	_	
+11	ki	_	_	_	_	_	_	_	_	
+12	rete	_	_	_	_	_	_	_	_	
+13	nan	_	_	_	_	_	_	_	_	
+14	eta	_	_	_	_	_	_	_	_	
+15	Florid	_	_	_	_	_	_	_	_	
+16	kounyea	_	_	_	_	_	_	_	SpaceAfter=No	
+17	,	_	_	_	_	_	_	_	_	
+18	ta	_	_	_	_	_	_	_	_	
+19	vwayaje	_	_	_	_	_	_	_	_	
+20	al	_	_	_	_	_	_	_	_	
+21	Nouyok	_	_	_	_	_	_	_	_	
+22	ansanm	_	_	_	_	_	_	_	_	
+23	ak	_	_	_	_	_	_	_	_	
+24	gad	_	_	_	_	_	_	_	_	
+25	sèvis	_	_	_	_	_	_	_	_	
+26	sekrè	_	_	_	_	_	_	_	_	
+27	kap	_	_	_	_	_	_	_	_	
+28	pwoteje	_	_	_	_	_	_	_	_	
+29	li	_	_	_	_	_	_	_	_	
+30	yo	_	_	_	_	_	_	_	SpaceAfter=No	
+31	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__11
+# text = Yon fwa ke li nan men lajistis, yo pral pran enprent li epi fotografye l anvan yo mennen l devan yon jij pou tande akizasyon ofisyèl yo epi apre sa yo va lage li ann atandan dewoulman pwosè a.
+1	Yon	_	_	_	_	_	_	_	_	
+2	fwa	_	_	_	_	_	_	_	_	
+3	ke	_	_	_	_	_	_	_	_	
+4	li	_	_	_	_	_	_	_	_	
+5	nan	_	_	_	_	_	_	_	_	
+6	men	_	_	_	_	_	_	_	_	
+7	lajistis	_	_	_	_	_	_	_	SpaceAfter=No	
+8	,	_	_	_	_	_	_	_	_	
+9	yo	_	_	_	_	_	_	_	_	
+10	pral	_	_	_	_	_	_	_	_	
+11	pran	_	_	_	_	_	_	_	_	
+12	enprent	_	_	_	_	_	_	_	_	
+13	li	_	_	_	_	_	_	_	_	
+14	epi	_	_	_	_	_	_	_	_	
+15	fotografye	_	_	_	_	_	_	_	_	
+16	l	_	_	_	_	_	_	_	_	
+17	anvan	_	_	_	_	_	_	_	_	
+18	yo	_	_	_	_	_	_	_	_	
+19	mennen	_	_	_	_	_	_	_	_	
+20	l	_	_	_	_	_	_	_	_	
+21	devan	_	_	_	_	_	_	_	_	
+22	yon	_	_	_	_	_	_	_	_	
+23	jij	_	_	_	_	_	_	_	_	
+24	pou	_	_	_	_	_	_	_	_	
+25	tande	_	_	_	_	_	_	_	_	
+26	akizasyon	_	_	_	_	_	_	_	_	
+27	ofisyèl	_	_	_	_	_	_	_	_	
+28	yo	_	_	_	_	_	_	_	_	
+29	epi	_	_	_	_	_	_	_	_	
+30	apre	_	_	_	_	_	_	_	_	
+31	sa	_	_	_	_	_	_	_	_	
+32	yo	_	_	_	_	_	_	_	_	
+33	va	_	_	_	_	_	_	_	_	
+34	lage	_	_	_	_	_	_	_	_	
+35	li	_	_	_	_	_	_	_	_	
+36	ann	_	_	_	_	_	_	_	_	
+37	atandan	_	_	_	_	_	_	_	_	
+38	dewoulman	_	_	_	_	_	_	_	_	
+39	pwosè	_	_	_	_	_	_	_	_	
+40	a	_	_	_	_	_	_	_	SpaceAfter=No	
+41	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__12
+# text = Gen plizyè medya ki site sous anonim, ki di Trump gen entansyon pran avyon pou al Nouyok Lendi, e ke li va domi lakay li nan Trump Tower Lendi swa, anvan li parèt devan tribinal Madi.
+1	Gen	_	_	_	_	_	_	_	_	
+2	plizyè	_	_	_	_	_	_	_	_	
+3	medya	_	_	_	_	_	_	_	_	
+4	ki	_	_	_	_	_	_	_	_	
+5	site	_	_	_	_	_	_	_	_	
+6	sous	_	_	_	_	_	_	_	_	
+7	anonim	_	_	_	_	_	_	_	SpaceAfter=No	
+8	,	_	_	_	_	_	_	_	_	
+9	ki	_	_	_	_	_	_	_	_	
+10	di	_	_	_	_	_	_	_	_	
+11	Trump	_	_	_	_	_	_	_	_	
+12	gen	_	_	_	_	_	_	_	_	
+13	entansyon	_	_	_	_	_	_	_	_	
+14	pran	_	_	_	_	_	_	_	_	
+15	avyon	_	_	_	_	_	_	_	_	
+16	pou	_	_	_	_	_	_	_	_	
+17	al	_	_	_	_	_	_	_	_	
+18	Nouyok	_	_	_	_	_	_	_	_	
+19	Lendi	_	_	_	_	_	_	_	SpaceAfter=No	
+20	,	_	_	_	_	_	_	_	_	
+21	e	_	_	_	_	_	_	_	_	
+22	ke	_	_	_	_	_	_	_	_	
+23	li	_	_	_	_	_	_	_	_	
+24	va	_	_	_	_	_	_	_	_	
+25	domi	_	_	_	_	_	_	_	_	
+26	lakay	_	_	_	_	_	_	_	_	
+27	li	_	_	_	_	_	_	_	_	
+28	nan	_	_	_	_	_	_	_	_	
+29	Trump	_	_	_	_	_	_	_	_	
+30	Tower	_	_	_	_	_	_	_	_	
+31	Lendi	_	_	_	_	_	_	_	_	
+32	swa	_	_	_	_	_	_	_	SpaceAfter=No	
+33	,	_	_	_	_	_	_	_	_	
+34	anvan	_	_	_	_	_	_	_	_	
+35	li	_	_	_	_	_	_	_	_	
+36	parèt	_	_	_	_	_	_	_	_	
+37	devan	_	_	_	_	_	_	_	_	
+38	tribinal	_	_	_	_	_	_	_	_	
+39	Madi	_	_	_	_	_	_	_	SpaceAfter=No	
+40	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__13
+# text = Vandredi, responsab Sèvis Sekrè ak Depatman Polis Nouyok la t al vizite tribinal kote Trump gen pou l parèt la pou diskite sou plan sekirite yo.
+1	Vandredi	_	_	_	_	_	_	_	SpaceAfter=No	
+2	,	_	_	_	_	_	_	_	_	
+3	responsab	_	_	_	_	_	_	_	_	
+4	Sèvis	_	_	_	_	_	_	_	_	
+5	Sekrè	_	_	_	_	_	_	_	_	
+6	ak	_	_	_	_	_	_	_	_	
+7	Depatman	_	_	_	_	_	_	_	_	
+8	Polis	_	_	_	_	_	_	_	_	
+9	Nouyok	_	_	_	_	_	_	_	_	
+10	la	_	_	_	_	_	_	_	_	
+11	t	_	_	_	_	_	_	_	_	
+12	al	_	_	_	_	_	_	_	_	
+13	vizite	_	_	_	_	_	_	_	_	
+14	tribinal	_	_	_	_	_	_	_	_	
+15	kote	_	_	_	_	_	_	_	_	
+16	Trump	_	_	_	_	_	_	_	_	
+17	gen	_	_	_	_	_	_	_	_	
+18	pou	_	_	_	_	_	_	_	_	
+19	l	_	_	_	_	_	_	_	_	
+20	parèt	_	_	_	_	_	_	_	_	
+21	la	_	_	_	_	_	_	_	_	
+22	pou	_	_	_	_	_	_	_	_	
+23	diskite	_	_	_	_	_	_	_	_	
+24	sou	_	_	_	_	_	_	_	_	
+25	plan	_	_	_	_	_	_	_	_	
+26	sekirite	_	_	_	_	_	_	_	_	
+27	yo	_	_	_	_	_	_	_	SpaceAfter=No	
+28	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__14
+# text = Avoka Trump Susan Necheles di ajans nouvèl Reuters ansyen prezidan an pral plede non-koupab.
+1	Avoka	_	_	_	_	_	_	_	_	
+2	Trump	_	_	_	_	_	_	_	_	
+3	Susan	_	_	_	_	_	_	_	_	
+4	Necheles	_	_	_	_	_	_	_	_	
+5	di	_	_	_	_	_	_	_	_	
+6	ajans	_	_	_	_	_	_	_	_	
+7	nouvèl	_	_	_	_	_	_	_	_	
+8	Reuters	_	_	_	_	_	_	_	_	
+9	ansyen	_	_	_	_	_	_	_	_	
+10	prezidan	_	_	_	_	_	_	_	_	
+11	an	_	_	_	_	_	_	_	_	
+12	pral	_	_	_	_	_	_	_	_	
+13	plede	_	_	_	_	_	_	_	_	
+14	non-koupab	_	_	_	_	_	_	_	SpaceAfter=No	
+15	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__15
+# text = Trump deklare nan yon kourye elektronik li voye bay patizan li yo pou kotize lajan pou finanse kanpay li Vandredi "mwen pa pè sakap vini an."
+1	Trump	_	_	_	_	_	_	_	_	
+2	deklare	_	_	_	_	_	_	_	_	
+3	nan	_	_	_	_	_	_	_	_	
+4	yon	_	_	_	_	_	_	_	_	
+5	kourye	_	_	_	_	_	_	_	_	
+6	elektronik	_	_	_	_	_	_	_	_	
+7	li	_	_	_	_	_	_	_	_	
+8	voye	_	_	_	_	_	_	_	_	
+9	bay	_	_	_	_	_	_	_	_	
+10	patizan	_	_	_	_	_	_	_	_	
+11	li	_	_	_	_	_	_	_	_	
+12	yo	_	_	_	_	_	_	_	_	
+13	pou	_	_	_	_	_	_	_	_	
+14	kotize	_	_	_	_	_	_	_	_	
+15	lajan	_	_	_	_	_	_	_	_	
+16	pou	_	_	_	_	_	_	_	_	
+17	finanse	_	_	_	_	_	_	_	_	
+18	kanpay	_	_	_	_	_	_	_	_	
+19	li	_	_	_	_	_	_	_	_	
+20	Vandredi	_	_	_	_	_	_	_	_	
+21	"	_	_	_	_	_	_	_	_	
+22	mwen	_	_	_	_	_	_	_	_	
+23	pa	_	_	_	_	_	_	_	_	
+24	pè	_	_	_	_	_	_	_	_	
+25	sakap	_	_	_	_	_	_	_	_	
+26	vini	_	_	_	_	_	_	_	_	
+27	an	_	_	_	_	_	_	_	SpaceAfter=No	
+28	."	_	_	_	_	_	_	_	_	

@@ -1,0 +1,99 @@
+# sent_id = my_sample__1
+# text = Biden Enpoze Premye Veto Prezidans li
+1	Biden	_	_	_	_	_	_	_	_	
+2	Enpoze	_	_	_	_	_	_	_	_	
+3	Premye	_	_	_	_	_	_	_	_	
+4	Veto	_	_	_	_	_	_	_	_	
+5	Prezidans	_	_	_	_	_	_	_	_	
+6	li	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = Prezidan Joe Biden pale ak jounalis yo nan Lamezonblanch, 20 Janvye 2023.
+1	Prezidan	_	_	_	_	_	_	_	_	
+2	Joe	_	_	_	_	_	_	_	_	
+3	Biden	_	_	_	_	_	_	_	_	
+4	pale	_	_	_	_	_	_	_	_	
+5	ak	_	_	_	_	_	_	_	_	
+6	jounalis	_	_	_	_	_	_	_	_	
+7	yo	_	_	_	_	_	_	_	_	
+8	nan	_	_	_	_	_	_	_	_	
+9	Lamezonblanch	_	_	_	_	_	_	_	SpaceAfter=No	
+10	,	_	_	_	_	_	_	_	_	
+11	20	_	_	_	_	_	_	_	_	
+12	Janvye	_	_	_	_	_	_	_	_	
+13	2023.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = Prezidan Joe Biden enpoze premye veto prezidans li nan yon siy ki montre relasyon ant Lamezonblanch ak Kongrè a chanje apre Repibliken yo pran kontwòl Lachanm Depite yo nan mwad Janvye a.
+1	Prezidan	_	_	_	_	_	_	_	_	
+2	Joe	_	_	_	_	_	_	_	_	
+3	Biden	_	_	_	_	_	_	_	_	
+4	enpoze	_	_	_	_	_	_	_	_	
+5	premye	_	_	_	_	_	_	_	_	
+6	veto	_	_	_	_	_	_	_	_	
+7	prezidans	_	_	_	_	_	_	_	_	
+8	li	_	_	_	_	_	_	_	_	
+9	nan	_	_	_	_	_	_	_	_	
+10	yon	_	_	_	_	_	_	_	_	
+11	siy	_	_	_	_	_	_	_	_	
+12	ki	_	_	_	_	_	_	_	_	
+13	montre	_	_	_	_	_	_	_	_	
+14	relasyon	_	_	_	_	_	_	_	_	
+15	ant	_	_	_	_	_	_	_	_	
+16	Lamezonblanch	_	_	_	_	_	_	_	_	
+17	ak	_	_	_	_	_	_	_	_	
+18	Kongrè	_	_	_	_	_	_	_	_	
+19	a	_	_	_	_	_	_	_	_	
+20	chanje	_	_	_	_	_	_	_	_	
+21	apre	_	_	_	_	_	_	_	_	
+22	Repibliken	_	_	_	_	_	_	_	_	
+23	yo	_	_	_	_	_	_	_	_	
+24	pran	_	_	_	_	_	_	_	_	
+25	kontwòl	_	_	_	_	_	_	_	_	
+26	Lachanm	_	_	_	_	_	_	_	_	
+27	Depite	_	_	_	_	_	_	_	_	
+28	yo	_	_	_	_	_	_	_	_	
+29	nan	_	_	_	_	_	_	_	_	
+30	mwad	_	_	_	_	_	_	_	_	
+31	Janvye	_	_	_	_	_	_	_	_	
+32	a	_	_	_	_	_	_	_	SpaceAfter=No	
+33	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Ak veto li enpoze Lendi, Biden tap chache bloke yon mezi Repibliken yo adopte ki entèdi gouvenman an konsidere chanjman klimatik ni pwose potansyèl lè lap fè envestisman pou plan retrèt sitwayen Ameriken yo.
+1	Ak	_	_	_	_	_	_	_	_	
+2	veto	_	_	_	_	_	_	_	_	
+3	li	_	_	_	_	_	_	_	_	
+4	enpoze	_	_	_	_	_	_	_	_	
+5	Lendi	_	_	_	_	_	_	_	SpaceAfter=No	
+6	,	_	_	_	_	_	_	_	_	
+7	Biden	_	_	_	_	_	_	_	_	
+8	tap	_	_	_	_	_	_	_	_	
+9	chache	_	_	_	_	_	_	_	_	
+10	bloke	_	_	_	_	_	_	_	_	
+11	yon	_	_	_	_	_	_	_	_	
+12	mezi	_	_	_	_	_	_	_	_	
+13	Repibliken	_	_	_	_	_	_	_	_	
+14	yo	_	_	_	_	_	_	_	_	
+15	adopte	_	_	_	_	_	_	_	_	
+16	ki	_	_	_	_	_	_	_	_	
+17	entèdi	_	_	_	_	_	_	_	_	
+18	gouvenman	_	_	_	_	_	_	_	_	
+19	an	_	_	_	_	_	_	_	_	
+20	konsidere	_	_	_	_	_	_	_	_	
+21	chanjman	_	_	_	_	_	_	_	_	
+22	klimatik	_	_	_	_	_	_	_	_	
+23	ni	_	_	_	_	_	_	_	_	
+24	pwose	_	_	_	_	_	_	_	_	
+25	potansyèl	_	_	_	_	_	_	_	_	
+26	lè	_	_	_	_	_	_	_	_	
+27	lap	_	_	_	_	_	_	_	_	
+28	fè	_	_	_	_	_	_	_	_	
+29	envestisman	_	_	_	_	_	_	_	_	
+30	pou	_	_	_	_	_	_	_	_	
+31	plan	_	_	_	_	_	_	_	_	
+32	retrèt	_	_	_	_	_	_	_	_	
+33	sitwayen	_	_	_	_	_	_	_	_	
+34	Ameriken	_	_	_	_	_	_	_	_	
+35	yo	_	_	_	_	_	_	_	SpaceAfter=No	
+36	.	_	_	_	_	_	_	_	_	

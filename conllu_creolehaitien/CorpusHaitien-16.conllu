@@ -1,0 +1,173 @@
+# sent_id = my_sample__1
+# text = Aksyon Bank Credit Suisse Pèdi Valè nan Moman Kè Sote Global Pa Rapò ak Bank yo Ogmante
+1	Aksyon	_	_	_	_	_	_	_	_	
+2	Bank	_	_	_	_	_	_	_	_	
+3	Credit	_	_	_	_	_	_	_	_	
+4	Suisse	_	_	_	_	_	_	_	_	
+5	Pèdi	_	_	_	_	_	_	_	_	
+6	Valè	_	_	_	_	_	_	_	_	
+7	nan	_	_	_	_	_	_	_	_	
+8	Moman	_	_	_	_	_	_	_	_	
+9	Kè	_	_	_	_	_	_	_	_	
+10	Sote	_	_	_	_	_	_	_	_	
+11	Global	_	_	_	_	_	_	_	_	
+12	Pa	_	_	_	_	_	_	_	_	
+13	Rapò	_	_	_	_	_	_	_	_	
+14	ak	_	_	_	_	_	_	_	_	
+15	Bank	_	_	_	_	_	_	_	_	
+16	yo	_	_	_	_	_	_	_	_	
+17	Ogmante	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = Yon afich ki gen non Credit Suisse make sou li sou pis Mache Labous Nouyok la (New York Stock Exchange) nan Nouyok, 15 Mas, 2023.
+1	Yon	_	_	_	_	_	_	_	_	
+2	afich	_	_	_	_	_	_	_	_	
+3	ki	_	_	_	_	_	_	_	_	
+4	gen	_	_	_	_	_	_	_	_	
+5	non	_	_	_	_	_	_	_	_	
+6	Credit	_	_	_	_	_	_	_	_	
+7	Suisse	_	_	_	_	_	_	_	_	
+8	make	_	_	_	_	_	_	_	_	
+9	sou	_	_	_	_	_	_	_	_	
+10	li	_	_	_	_	_	_	_	_	
+11	sou	_	_	_	_	_	_	_	_	
+12	pis	_	_	_	_	_	_	_	_	
+13	Mache	_	_	_	_	_	_	_	_	
+14	Labous	_	_	_	_	_	_	_	_	
+15	Nouyok	_	_	_	_	_	_	_	_	
+16	la	_	_	_	_	_	_	_	_	
+17	(	_	_	_	_	_	_	_	_	
+18	New	_	_	_	_	_	_	_	_	
+19	York	_	_	_	_	_	_	_	_	
+20	Stock	_	_	_	_	_	_	_	_	
+21	Exchange	_	_	_	_	_	_	_	SpaceAfter=No	
+22	)	_	_	_	_	_	_	_	_	
+23	nan	_	_	_	_	_	_	_	_	
+24	Nouyok	_	_	_	_	_	_	_	SpaceAfter=No	
+25	,	_	_	_	_	_	_	_	_	
+26	15	_	_	_	_	_	_	_	_	
+27	Mas	_	_	_	_	_	_	_	SpaceAfter=No	
+28	,	_	_	_	_	_	_	_	_	
+29	2023.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = Aksyon bank Credit Suisse yo pedi plis pase yon ka valè yo sou mache d labous la.
+1	Aksyon	_	_	_	_	_	_	_	_	
+2	bank	_	_	_	_	_	_	_	_	
+3	Credit	_	_	_	_	_	_	_	_	
+4	Suisse	_	_	_	_	_	_	_	_	
+5	yo	_	_	_	_	_	_	_	_	
+6	pedi	_	_	_	_	_	_	_	_	
+7	plis	_	_	_	_	_	_	_	_	
+8	pase	_	_	_	_	_	_	_	_	
+9	yon	_	_	_	_	_	_	_	_	
+10	ka	_	_	_	_	_	_	_	_	
+11	valè	_	_	_	_	_	_	_	_	
+12	yo	_	_	_	_	_	_	_	_	
+13	sou	_	_	_	_	_	_	_	_	
+14	mache	_	_	_	_	_	_	_	_	
+15	d	_	_	_	_	_	_	_	_	
+16	labous	_	_	_	_	_	_	_	_	
+17	la	_	_	_	_	_	_	_	SpaceAfter=No	
+18	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Bès istorik sa a vini apre Bank Nasyonal Saoudyen an - ki kontwole majorite aksyon Credit Suisse yo - te di jounalis yo li pap bay bank Suis la okenn lòt lajan pou kontrekare pwoblèm li yo.
+1	Bès	_	_	_	_	_	_	_	_	
+2	istorik	_	_	_	_	_	_	_	_	
+3	sa	_	_	_	_	_	_	_	_	
+4	a	_	_	_	_	_	_	_	_	
+5	vini	_	_	_	_	_	_	_	_	
+6	apre	_	_	_	_	_	_	_	_	
+7	Bank	_	_	_	_	_	_	_	_	
+8	Nasyonal	_	_	_	_	_	_	_	_	
+9	Saoudyen	_	_	_	_	_	_	_	_	
+10	an	_	_	_	_	_	_	_	_	
+11	-	_	_	_	_	_	_	_	_	
+12	ki	_	_	_	_	_	_	_	_	
+13	kontwole	_	_	_	_	_	_	_	_	
+14	majorite	_	_	_	_	_	_	_	_	
+15	aksyon	_	_	_	_	_	_	_	_	
+16	Credit	_	_	_	_	_	_	_	_	
+17	Suisse	_	_	_	_	_	_	_	_	
+18	yo	_	_	_	_	_	_	_	_	
+19	-	_	_	_	_	_	_	_	_	
+20	te	_	_	_	_	_	_	_	_	
+21	di	_	_	_	_	_	_	_	_	
+22	jounalis	_	_	_	_	_	_	_	_	
+23	yo	_	_	_	_	_	_	_	_	
+24	li	_	_	_	_	_	_	_	_	
+25	pap	_	_	_	_	_	_	_	_	
+26	bay	_	_	_	_	_	_	_	_	
+27	bank	_	_	_	_	_	_	_	_	
+28	Suis	_	_	_	_	_	_	_	_	
+29	la	_	_	_	_	_	_	_	_	
+30	okenn	_	_	_	_	_	_	_	_	
+31	lòt	_	_	_	_	_	_	_	_	
+32	lajan	_	_	_	_	_	_	_	_	
+33	pou	_	_	_	_	_	_	_	_	
+34	kontrekare	_	_	_	_	_	_	_	_	
+35	pwoblèm	_	_	_	_	_	_	_	_	
+36	li	_	_	_	_	_	_	_	_	
+37	yo	_	_	_	_	_	_	_	SpaceAfter=No	
+38	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__5
+# text = Desizyon sa a te pran byen lontan anvan 2 bank Ameriken yo te fè fayit.
+1	Desizyon	_	_	_	_	_	_	_	_	
+2	sa	_	_	_	_	_	_	_	_	
+3	a	_	_	_	_	_	_	_	_	
+4	te	_	_	_	_	_	_	_	_	
+5	pran	_	_	_	_	_	_	_	_	
+6	byen	_	_	_	_	_	_	_	_	
+7	lontan	_	_	_	_	_	_	_	_	
+8	anvan	_	_	_	_	_	_	_	_	
+9	2	_	_	_	_	_	_	_	_	
+10	bank	_	_	_	_	_	_	_	_	
+11	Ameriken	_	_	_	_	_	_	_	_	
+12	yo	_	_	_	_	_	_	_	_	
+13	te	_	_	_	_	_	_	_	_	
+14	fè	_	_	_	_	_	_	_	_	
+15	fayit	_	_	_	_	_	_	_	SpaceAfter=No	
+16	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__6
+# text = Tibilans sa koze Mèkredi te lakoz yo te kanpe lavant aksyon Credit Suisse yo sou mache Suis la.
+1	Tibilans	_	_	_	_	_	_	_	_	
+2	sa	_	_	_	_	_	_	_	_	
+3	koze	_	_	_	_	_	_	_	_	
+4	Mèkredi	_	_	_	_	_	_	_	_	
+5	te	_	_	_	_	_	_	_	_	
+6	lakoz	_	_	_	_	_	_	_	_	
+7	yo	_	_	_	_	_	_	_	_	
+8	te	_	_	_	_	_	_	_	_	
+9	kanpe	_	_	_	_	_	_	_	_	
+10	lavant	_	_	_	_	_	_	_	_	
+11	aksyon	_	_	_	_	_	_	_	_	
+12	Credit	_	_	_	_	_	_	_	_	
+13	Suisse	_	_	_	_	_	_	_	_	
+14	yo	_	_	_	_	_	_	_	_	
+15	sou	_	_	_	_	_	_	_	_	
+16	mache	_	_	_	_	_	_	_	_	
+17	Suis	_	_	_	_	_	_	_	_	
+18	la	_	_	_	_	_	_	_	SpaceAfter=No	
+19	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__7
+# text = An menm tan sa te lakoz valè aksyon lòt bank Ewopeyen yo te plonje desann.
+1	An	_	_	_	_	_	_	_	_	
+2	menm	_	_	_	_	_	_	_	_	
+3	tan	_	_	_	_	_	_	_	_	
+4	sa	_	_	_	_	_	_	_	_	
+5	te	_	_	_	_	_	_	_	_	
+6	lakoz	_	_	_	_	_	_	_	_	
+7	valè	_	_	_	_	_	_	_	_	
+8	aksyon	_	_	_	_	_	_	_	_	
+9	lòt	_	_	_	_	_	_	_	_	
+10	bank	_	_	_	_	_	_	_	_	
+11	Ewopeyen	_	_	_	_	_	_	_	_	
+12	yo	_	_	_	_	_	_	_	_	
+13	te	_	_	_	_	_	_	_	_	
+14	plonje	_	_	_	_	_	_	_	_	
+15	desann	_	_	_	_	_	_	_	SpaceAfter=No	
+16	.	_	_	_	_	_	_	_	_	
