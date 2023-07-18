@@ -56,6 +56,4 @@
 * pre-trained on files : 23, 24, 4, 12, 13, 11, 10, 21, 1_1, 1_2; 1_5; 19; 15; 6; 5; 18; 17; 16 and V9 de parseur
 * 144 training sentences
 * tokens : 3418  
- * LAS  % sur  epoch
- 
- FAUT METTRE FICHIER 15; 6; 5; 18; 17; 16 SUR GREW
+ * LAS 89,6 % sur 27 epoch
