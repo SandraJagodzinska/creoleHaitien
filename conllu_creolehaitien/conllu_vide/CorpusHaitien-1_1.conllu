@@ -1,0 +1,463 @@
+# sent_id = my_sample__1
+# text = Premye jou je m tonbe sou li a, m pat gen okenn presantiman lavi m ta pral chanje.
+1	Premye	premye	NOUN	_	_	5	subj	_	_
+2	jou	jou	NOUN	_	_	1	mod	_	_
+3	je	je	PRON	_	_	5	subj	_	_
+4	m	m	NOUN	_	_	5	aux	_	_
+5	tonbe	tonbe	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	_
+6	sou	sou	ADP	_	_	5	udep	_	_
+7	li	li	DET	_	_	6	comp:obj	_	_
+8	a	a	DET	_	_	7	det	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	m	m	PRON	_	_	12	mod	_	_
+11	pat	pat	NOUN	_	_	12	mod	_	_
+12	gen	gen	VERB	_	_	5	conj:coord	_	_
+13	okenn	okenn	DET	_	_	12	mod	_	_
+14	presantiman	presantiman	NOUN	_	_	12	subj	_	_
+15	lavi	lavi	NOUN	_	_	12	comp:obj	_	_
+16	m	m	PRON	_	_	15	det	_	_
+17	ta	ta	AUX	_	_	18	aux	_	_
+18	pral	pral	VERB	_	_	12	aux	_	_
+19	chanje	chanje	NOUN	_	_	18	comp:obj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = my_sample__2
+# text = Jou sa lapli te kòmanse tonbe depi nan maten.
+1	Jou	jou	NOUN	_	_	5	mod	_	_
+2	sa	sa	DET	_	_	1	det	_	_
+3	lapli	lapli	NOUN	_	_	5	subj	_	_
+4	te	te	AUX	_	_	5	aux	_	_
+5	kòmanse	kòmanse	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+6	tonbe	tonbe	NOUN	_	_	5	comp:obj	_	_
+7	depi	depi	NOUN	_	_	5	mod	_	_
+8	nan	nan	ADP	_	_	6	udep	_	_
+9	maten	maten	NOUN	_	_	8	comp:obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = my_sample__3
+# text = Yon fwa lè m te piti, m te anvi bwè dlo lapli a nan flè yo epi m te wè yon foumi ki mouri ladann.
+1	Yon	yon	DET	_	_	2	det	_	_
+2	fwa	fwa	NOUN	_	_	6	subj	_	_
+3	lè	lè	NOUN	_	_	2	mod	_	_
+4	m	m	PRON	_	_	6	mod	_	_
+5	te	te	AUX	_	_	6	aux	_	_
+6	piti	piti	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	m	m	PRON	_	_	10	subj	_	_
+9	te	te	AUX	_	_	10	aux	_	_
+10	anvi	anvi	VERB	_	_	6	conj:coord	_	_
+11	bwè	bwè	NOUN	_	_	10	comp:obj	_	_
+12	dlo	dlo	NOUN	_	_	10	comp:obj	_	_
+13	lapli	lapli	NOUN	_	_	12	comp:obj	_	_
+14	a	a	DET	_	_	13	det	_	_
+15	nan	nan	ADP	_	_	10	udep	_	_
+16	flè	flè	VERB	_	_	15	comp:obj	_	_
+17	yo	yo	DET	_	Definite=Def|Number=Plur	16	det	_	_
+18	epi	epi	ADP	_	_	21	cc	_	_
+19	m	m	PRON	_	_	21	aux	_	_
+20	te	te	AUX	_	_	21	aux	_	_
+21	wè	wè	VERB	_	Number=Plur|Person=3|Tense=Pres	10	conj:coord	_	_
+22	yon	yon	DET	_	Definite=Ind|Number=Sing	23	det	_	_
+23	foumi	foumi	NOUN	_	_	21	comp:obj	_	_
+24	ki	ki	PRON	_	_	25	subj	_	_
+25	mouri	mouri	VERB	_	_	23	mod@relcl	_	_
+26	ladann	ladann	NOUN	_	_	25	mod	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = my_sample__4
+# text = Yon ti souri parèt sou lèv mwen.
+1	Yon	yon	DET	_	_	3	subj	_	_
+2	ti	ti	AUX	_	_	3	aux	_	_
+3	souri	souri	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	_
+4	parèt	parèt	NOUN	_	_	3	mod	_	_
+5	sou	sou	ADP	_	_	3	udep	_	_
+6	lèv	lèv	NOUN	_	_	5	comp:obj	_	_
+7	mwen	mwen	NOUN	_	_	6	mod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = my_sample__5
+# text = M te krache nan dlo a, manman m te fache paske, pou li, se te yon vye konpòtman.
+1	M	m	PRON	_	_	3	subj	_	_
+2	te	te	AUX	_	_	3	aux	_	_
+3	krache	krache	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	_
+4	nan	nan	ADP	_	_	3	mod	_	_
+5	dlo	dlo	NOUN	_	_	4	comp:obj	_	_
+6	a	a	DET	_	Definite=Def|Number=Sing	5	det	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	manman	manman	NOUN	_	_	11	subj	_	_
+9	m	m	PRON	_	_	11	aux	_	_
+10	te	te	AUX	_	_	11	aux	_	_
+11	fache	fache	VERB	_	Number=Plur|Person=3|Tense=Pres	3	conj:coord	_	_
+12	paske	paske	NOUN	_	_	11	mod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	pou	pou	ADP	_	_	11	mod	_	_
+15	li	li	DET	_	_	14	comp:obj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	se	se	ADP	_	_	11	mod	_	_
+18	te	te	AUX	_	_	20	aux	_	_
+19	yon	yon	DET	_	Definite=Ind|Number=Sing	20	subj	_	_
+20	vye	vye	VERB	_	_	17	comp:obj	_	_
+21	konpòtman	konpòtman	NOUN	_	_	20	comp:obj	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = my_sample__6
+# text = Sa pase lontan sa.
+1	Sa	sa	DET	_	_	2	det	_	_
+2	pase	pase	NOUN	_	_	3	subj	_	_
+3	lontan	lontan	VERB	_	_	0	root	_	_
+4	sa	sa	DET	_	_	3	comp:obj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = my_sample__7
+# text = M te chita sou yon chèz devan pòt klas la nan Fakilte Lenguistik, m t ap pale ak lòt kamarad mwen yo de maryaj yon sè m mwen t ale nan Petyonvil, epi n te tou pwofite pale de amitye nou lè n te piti.
+1	M	m	PRON	_	_	3	subj	_	_
+2	te	te	AUX	_	_	3	aux	_	_
+3	chita	chita	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	_
+4	sou	sou	ADP	_	_	3	udep	_	_
+5	yon	yon	DET	_	Definite=Ind|Number=Sing	6	det	_	_
+6	chèz	chèz	NOUN	_	_	4	comp:obj	_	_
+7	devan	devan	NOUN	_	_	6	mod	_	_
+8	pòt	pòt	NOUN	_	_	7	comp:obj	_	_
+9	klas	klas	NOUN	_	_	8	comp:obj	_	_
+10	la	la	DET	_	Definite=Def|Number=Sing	9	det	_	_
+11	nan	nan	ADP	_	_	9	udep	_	_
+12	Fakilte	fakilte	NOUN	_	_	11	comp:obj	_	_
+13	Lenguistik	lenguistik	NOUN	_	_	12	comp:obj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	m	m	PRON	_	_	18	subj	_	_
+16	t	t	AUX	_	_	18	aux	_	_
+17	ap	ap	AUX	_	_	18	aux	_	_
+18	pale	pale	VERB	_	_	3	conj:coord	_	_
+19	ak	ak	ADP	_	_	18	cc	_	_
+20	lòt	lòt	ADJ	_	_	21	det	_	_
+21	kamarad	kamarad	NOUN	_	_	19	comp:obj	_	_
+22	mwen	mwen	VERB	_	_	19	comp:obj	_	_
+23	yo	yo	DET	_	Definite=Def|Number=Plur	22	comp:obj	_	_
+24	de	de	ADP	_	_	22	udep	_	_
+25	maryaj	maryaj	NOUN	_	_	24	comp:obj	_	_
+26	yon	yon	DET	_	Definite=Ind|Number=Sing	27	det	_	_
+27	sè	sè	NOUN	_	_	24	comp:obj	_	_
+28	m	m	NOUN	_	_	27	comp:obj	_	_
+29	mwen	mwen	NOUN	_	_	27	mod	_	_
+30	t	t	AUX	_	_	31	aux	_	_
+31	ale	ale	VERB	_	Number=Plur|Person=3|Tense=Pres	27	mod@relcl	_	_
+32	nan	nan	ADP	_	_	31	udep	_	_
+33	Petyonvil	Petyonvil	PROPN	_	_	32	comp:obj	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	38	punct	_	_
+35	epi	epi	PRON	_	_	38	mod	_	_
+36	n	n	PRON	_	_	38	subj	_	_
+37	te	te	AUX	_	_	39	aux	_	_
+38	tou	tou	VERB	_	_	18	mod	_	_
+39	pwofite	pwofite	VERB	_	_	38	comp:obj	_	_
+40	pale	pale	NOUN	_	_	39	mod	_	_
+41	de	de	ADP	_	_	39	udep	_	_
+42	amitye	amitye	NOUN	_	_	41	comp:obj	_	_
+43	nou	nou	ADJ	_	_	42	mod	_	_
+44	lè	lè	NOUN	_	_	47	subj	_	_
+45	n	n	PRON	_	_	47	aux	_	_
+46	te	te	AUX	_	_	47	aux	_	_
+47	piti	piti	VERB	_	_	18	aux	_	SpaceAfter=No
+48	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = my_sample__8
+# text = Fòk m di nou, m gen 2 gran frè ak yon ti sè bò manman epi plizyè gran sè ak yon ti frè bò papa...
+1	Fòk	Fòk	NOUN	_	_	3	subj	_	_
+2	m	m	NOUN	_	_	3	subj	_	_
+3	di	di	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	nou	nou	NOUN	_	_	3	mod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	m	m	PRON	_	_	7	subj	_	_
+7	gen	gen	VERB	_	_	3	comp:obj	_	_
+8	2	2	NUM	_	_	10	det	_	_
+9	gran	gran	ADJ	_	_	10	mod	_	_
+10	frè	frè	NOUN	_	_	7	comp:obj	_	_
+11	ak	ak	CCONJ	_	_	14	cc	_	_
+12	yon	yon	DET	_	_	14	subj	_	_
+13	ti	ti	PRON	_	_	14	aux	_	_
+14	sè	sè	VERB	_	_	7	comp:obj	_	_
+15	bò	bò	NOUN	_	_	14	comp:obj	_	_
+16	manman	manman	VERB	_	_	14	comp:obj	_	_
+17	epi	epi	ADP	_	_	16	mod	_	_
+18	plizyè	plizyè	NOUN	_	_	19	mod	_	_
+19	gran	gran	NOUN	_	_	14	comp:obj	_	_
+20	sè	sè	NOUN	_	_	14	comp:obj	_	_
+21	ak	ak	CCONJ	_	_	24	cc	_	_
+22	yon	yon	DET	_	Number=Plur|Person=3|PronType=Prs	24	subj	_	_
+23	ti	ti	AUX	_	_	24	aux	_	_
+24	frè	frè	VERB	_	_	20	mod@relcl	_	_
+25	bò	bò	NOUN	_	_	24	comp:obj	_	_
+26	papa	papa	NOUN	_	_	25	comp:obj	_	SpaceAfter=No
+27	...	...	PUNCT	_	_	3	punct	_	_
+
+# sent_id = my_sample__9
+# text = Pandan je m fèmen, m t ap panse ak sa k te rive m nan pase, se lè sa m tande pòt klas la ouvè.
+1	Pandan	Pandan	NOUN	_	_	4	mod	_	_
+2	je	je	PRON	_	_	4	subj	_	_
+3	m	m	AUX	_	_	4	aux	_	_
+4	fèmen	fèmen	VERB	_	_	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	m	m	PRON	_	_	9	subj	_	_
+7	t	t	AUX	_	_	9	aux	_	_
+8	ap	ap	AUX	_	_	4	aux	_	_
+9	panse	panse	VERB	_	_	4	conj:coord	_	_
+10	ak	ak	ADP	_	_	9	cc	_	_
+11	sa	sa	DET	_	_	10	comp:obj	_	_
+12	k	k	PRON	_	_	14	subj	_	_
+13	te	te	AUX	_	_	14	aux	_	_
+14	rive	rive	VERB	_	_	9	conj:coord	_	_
+15	m	m	NOUN	_	_	14	comp:obj	_	_
+16	nan	nan	ADP	_	_	14	udep	_	_
+17	pase	pase	NOUN	_	_	16	comp:obj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	se	se	PRON	_	_	20	det	_	_
+20	lè	lè	NOUN	_	_	14	mod	_	_
+21	sa	sa	DET	_	_	23	subj	_	_
+22	m	m	AUX	_	_	23	aux	_	_
+23	tande	tande	VERB	_	_	20	mod@relcl	_	_
+24	pòt	pòt	NOUN	_	_	23	comp:obj	_	_
+25	klas	klas	ADP	_	_	23	udep	_	_
+26	la	la	DET	_	_	27	det	_	_
+27	ouvè	ouvè	NOUN	_	_	25	comp:obj	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = my_sample__10
+# text = Menm moman an, tout moun fè silans.
+1	Menm	menm	NOUN	_	_	7	mod	_	_
+2	moman	moman	NOUN	_	_	1	comp:obj	_	_
+3	an	an	DET	_	_	1	det	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	tout	tout	ADJ	_	_	6	mod	_	_
+6	moun	moun	NOUN	_	_	7	subj	_	_
+7	fè	fè	VERB	_	_	0	root	_	_
+8	silans	silans	NOUN	_	_	7	comp:obj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = my_sample__11
+# text = Mwen m toujou ret je fèmen epi tèt mwen bese sou biwo a.
+1	Mwen	mwen	NOUN	_	_	6	mod	_	_
+2	m	m	DET	_	_	1	det	_	_
+3	toujou	toujou	ADJ	_	_	4	mod	_	_
+4	ret	ret	NOUN	_	_	1	comp:obj	_	_
+5	je	je	PRON	_	_	6	aux	_	_
+6	fèmen	fèmen	VERB	_	_	0	root	_	_
+7	epi	epi	ADP	_	_	9	mod	_	_
+8	tèt	tèt	NOUN	_	_	6	mod	_	_
+9	mwen	mwen	VERB	_	_	8	comp:obj	_	_
+10	bese	bese	NOUN	_	_	9	comp:obj	_	_
+11	sou	sou	ADP	_	_	9	udep	_	_
+12	biwo	biwo	NOUN	_	_	11	comp:obj	_	_
+13	a	a	DET	_	Definite=Def|Number=Sing	12	det	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = my_sample__12
+# text = "Bonswa, m ka fè yon ti pale pandan kèk minit ak nou si sa p ap deranje n?"
+1	"	"	PUNCT	_	_	5	punct	_	_
+2	Bonswa	Bonswa	PROPN	_	_	5	subj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	m	m	PRON	_	_	5	subj	_	_
+5	ka	ka	VERB	_	_	0	root	_	_
+6	fè	fè	VERB	_	_	5	comp:obj	_	_
+7	yon	yon	DET	_	Definite=Ind|Number=Sing	9	det	_	_
+8	ti	ti	PRON	_	_	9	det	_	_
+9	pale	pale	NOUN	_	_	6	comp:obj	_	_
+10	pandan	pandan	ADP	_	_	6	mod	_	_
+11	kèk	kèk	ADJ	_	_	12	det	_	_
+12	minit	minit	NOUN	_	_	10	comp:obj	_	_
+13	ak	ak	ADP	_	_	12	cc	_	_
+14	nou	nou	NOUN	_	_	15	comp:obj	_	_
+15	si	si	ADP	_	_	12	mod	_	_
+16	sa	sa	DET	_	_	19	subj	_	_
+17	p	p	AUX	_	_	19	aux	_	_
+18	ap	ap	AUX	_	_	19	aux	_	_
+19	deranje	deranje	VERB	_	_	15	comp:obj	_	_
+20	n	n	DET	_	_	19	aux	_	SpaceAfter=No
+21	?"	?"	PUNCT	_	_	5	punct	_	_
+
+# sent_id = my_sample__13
+# text = Mwen santi yon frison vyolan pran m nan tout kò m lè m ouvè je m pou m gade moun ki pale a mwen wè se yon jennon m wo ak tout souri sou lèv li ki te rantre epi l kanpe.
+1	Mwen	mwen	NOUN	_	_	0	root	_	_
+2	santi	santi	NOUN	_	_	1	mod	_	_
+3	yon	yon	DET	_	Definite=Ind|Number=Sing	4	det	_	_
+4	frison	frison	NOUN	_	_	1	comp:obj	_	_
+5	vyolan	vyolan	ADJ	_	_	4	mod	_	_
+6	pran	pran	VERB	_	_	4	mod	_	_
+7	m	m	NOUN	_	_	6	mod	_	_
+8	nan	nan	ADP	_	_	6	udep	_	_
+9	tout	tout	NOUN	_	_	8	comp:obj	_	_
+10	kò	kò	ADP	_	_	6	mod	_	_
+11	m	m	PRON	_	_	12	det	_	_
+12	lè	lè	NOUN	_	_	14	mod	_	_
+13	m	m	PRON	_	_	14	aux	_	_
+14	ouvè	ouvè	VERB	_	_	10	comp:obj	_	_
+15	je	je	DET	_	_	14	det	_	_
+16	m	m	AUX	_	_	14	aux	_	_
+17	pou	pou	ADP	_	_	14	udep	_	_
+18	m	m	PRON	_	_	19	det	_	_
+19	gade	gade	VERB	_	_	14	comp:obj	_	_
+20	moun	moun	NOUN	_	_	19	comp:obj	_	_
+21	ki	ki	PRON	_	_	22	cc	_	_
+22	pale	pale	VERB	_	_	20	mod@relcl	_	_
+23	a	a	DET	_	_	22	det	_	_
+24	mwen	mwen	VERB	_	_	22	mod	_	_
+25	wè	wè	NOUN	_	_	24	comp:obj	_	_
+26	se	se	ADP	_	_	24	comp:obj	_	_
+27	yon	yon	DET	_	Definite=Ind|Number=Sing	28	det	_	_
+28	jennon	jennon	NOUN	_	_	26	comp:obj	_	_
+29	m	m	NOUN	_	_	28	comp:obj	_	_
+30	wo	wo	DET	_	_	28	det	_	_
+31	ak	ak	CCONJ	_	_	33	cc	_	_
+32	tout	tout	NOUN	_	_	33	subj	_	_
+33	souri	souri	VERB	_	_	24	comp:obj	_	_
+34	sou	sou	ADP	_	_	33	udep	_	_
+35	lèv	lèv	NOUN	_	_	34	comp:obj	_	_
+36	li	li	DET	_	_	35	det	_	_
+37	ki	ki	PRON	_	_	39	subj	_	_
+38	te	te	AUX	_	_	39	aux	_	_
+39	rantre	rantre	VERB	_	_	35	mod@relcl	_	_
+40	epi	epi	ADP	_	_	42	mod	_	_
+41	l	l	DET	_	_	42	det	_	_
+42	kanpe	kanpe	NOUN	_	_	39	comp:obj	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = my_sample__14
+# text = Li pa t lòt ke yon enkoni ki te nan dezyèm ane a.
+1	Li	li	PRON	_	_	4	subj	_	_
+2	pa	pa	AUX	_	_	4	mod	_	_
+3	t	t	VERB	_	_	4	aux	_	_
+4	lòt	lòt	VERB	_	_	0	root	_	_
+5	ke	ke	PRON	_	_	4	comp:obj	_	_
+6	yon	yon	DET	_	Definite=Ind|Number=Sing	7	det	_	_
+7	enkoni	enkoni	NOUN	_	_	5	comp:obj	_	_
+8	ki	ki	PRON	_	_	10	subj	_	_
+9	te	te	AUX	_	_	10	aux	_	_
+10	nan	nan	VERB	_	_	7	mod@relcl	_	_
+11	dezyèm	dezyèm	NOUN	_	_	10	comp:obj	_	_
+12	ane	ane	DET	_	_	11	det	_	_
+13	a	a	DET	_	Definite=Def|Number=Sing	11	det	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = my_sample__15
+# text = "Wi, avanse non mesye," klas la reponn.
+1	"	"	PUNCT	_	_	4	punct	_	_
+2	Wi	wi	PRON	_	_	4	subj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	avanse	avanse	VERB	_	_	0	root	_	_
+5	non	non	DET	_	_	6	mod	_	_
+6	mesye	mesye	VERB	_	_	4	mod	_	SpaceAfter=No
+7	,"	,"	PUNCT	_	_	10	punct	_	_
+8	klas	klas	NOUN	_	_	10	subj	_	_
+9	la	la	DET	_	Definite=Def|Number=Sing	8	det	_	_
+10	reponn	reponn	VERB	_	Number=Plur|Person=3|Tense=Pres	4	conj:coord	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = my_sample__16
+# text = Pawòl li yo t ap repete nan tèt mwen chak fwa m gade l.
+1	Pawòl	Pawòl	NOUN	_	_	6	subj	_	_
+2	li	li	DET	_	_	1	det	_	_
+3	yo	yo	DET	_	Number=Plur|Person=3|PronType=Prs	6	subj	_	_
+4	t	t	AUX	_	_	6	aux	_	_
+5	ap	ap	AUX	_	_	6	aux	_	_
+6	repete	repete	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+7	nan	nan	ADP	_	_	6	mod	_	_
+8	tèt	tèt	NOUN	_	_	7	comp:obj	_	_
+9	mwen	mwen	VERB	_	_	8	mod	_	_
+10	chak	chak	NOUN	_	_	9	comp:obj	_	_
+11	fwa	fwa	NOUN	_	_	10	comp:obj	_	_
+12	m	m	ADP	_	_	11	comp:obj	_	_
+13	gade	gade	NOUN	_	_	10	comp:obj	_	_
+14	l	l	DET	_	_	13	det	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = my_sample__17
+# text = Non jennonm sa se Claudy...
+1	Non	non	DET	_	_	2	mod	_	_
+2	jennonm	jennonm	VERB	_	_	0	root	_	_
+3	sa	sa	DET	_	_	2	det	_	_
+4	se	se	ADP	_	_	3	comp:obj	_	_
+5	Claudy	claudy	PROPN	_	_	4	comp:obj	_	SpaceAfter=No
+6	...	...	PUNCT	_	_	2	punct	_	_
+
+# sent_id = my_sample__18
+# text = Aprè kèk mwa nou rantre nan Fakilte Lengwistik Aplike a, li te vin envite n nan fèt li t ap òganize nan mwa desanm pou klas li a (paske se li ki te prezidan).
+1	Aprè	aprè	NOUN	_	_	14	mod	_	_
+2	kèk	kèk	NOUN	_	_	3	mod	_	_
+3	mwa	mwa	NOUN	_	_	1	comp:obj	_	_
+4	nou	nou	ADJ	_	_	5	mod	_	_
+5	rantre	rantre	NOUN	_	_	3	comp:obj	_	_
+6	nan	nan	ADP	_	_	5	udep	_	_
+7	Fakilte	fakilte	NOUN	_	_	6	comp:obj	_	_
+8	Lengwistik	lengwistik	NOUN	_	_	7	comp:obj	_	_
+9	Aplike	aplike	PROPN	_	_	8	mod	_	_
+10	a	a	DET	_	Definite=Def|Number=Sing	9	det	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	3	punct	_	_
+12	li	li	PRON	_	_	14	subj	_	_
+13	te	te	AUX	_	_	14	aux	_	_
+14	vin	vin	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	_
+15	envite	envite	VERB	_	_	14	comp:obj	_	_
+16	n	n	ADP	_	_	15	det	_	_
+17	nan	nan	ADP	_	_	15	udep	_	_
+18	fèt	fèt	NOUN	_	_	17	comp:obj	_	_
+19	li	li	PRON	_	_	18	det	_	_
+20	t	t	AUX	_	_	22	aux	_	_
+21	ap	ap	AUX	_	_	22	aux	_	_
+22	òganize	òganize	VERB	_	_	18	mod@relcl	_	_
+23	nan	nan	ADP	_	_	22	udep	_	_
+24	mwa	mwa	NOUN	_	_	23	comp:obj	_	_
+25	desanm	desanm	NOUN	_	_	24	comp:obj	_	_
+26	pou	pou	ADP	_	_	25	udep	_	_
+27	klas	klas	NOUN	_	_	26	comp:obj	_	_
+28	li	li	DET	_	_	27	det	_	_
+29	a	a	DET	_	Definite=Def|Number=Sing	27	det	_	_
+30	(	(	PUNCT	_	_	31	punct	_	_
+31	paske	paske	NOUN	_	_	27	mod	_	_
+32	se	se	NOUN	_	_	31	comp:obj	_	_
+33	li	li	DET	_	_	32	det	_	_
+34	ki	ki	PRON	_	_	36	subj	_	_
+35	te	te	AUX	_	_	36	aux	_	_
+36	prezidan	prezidan	VERB	_	_	32	mod@relcl	_	SpaceAfter=No
+37	).	).	PUNCT	_	_	14	punct	_	_
+
+# sent_id = my_sample__19
+# text = Yon sèl kou a, sèl panse ki monte nan tèt mwen se te "ale nan fèt la" pou m te ka wè l ankò.
+1	Yon	yon	DET	_	_	2	det	_	_
+2	sèl	sèl	NOUN	_	_	0	root	_	_
+3	kou	kou	NOUN	_	_	2	mod	_	_
+4	a	a	DET	_	Definite=Def|Number=Sing	2	det	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	sèl	sèl	NOUN	_	_	2	conj:coord	_	_
+7	panse	panse	NOUN	_	_	6	mod	_	_
+8	ki	ki	PRON	_	_	9	subj	_	_
+9	monte	monte	VERB	_	Number=Plur|Person=3|Tense=Pres	6	mod@relcl	_	_
+10	nan	nan	ADP	_	_	9	udep	_	_
+11	tèt	tèt	NOUN	_	_	10	comp:obj	_	_
+12	mwen	mwen	VERB	_	_	11	mod	_	_
+13	se	se	PRON	_	_	16	comp:obl	_	_
+14	te	te	AUX	_	_	16	aux	_	_
+15	"	"	PUNCT	_	_	16	punct	_	_
+16	ale	ale	VERB	_	_	11	mod@relcl	_	_
+17	nan	nan	ADP	_	_	16	mod	_	_
+18	fèt	fèt	VERB	_	_	17	comp:obj	_	_
+19	la	la	DET	_	_	18	det	_	SpaceAfter=No
+20	"	"	PUNCT	_	_	18	punct	_	_
+21	pou	pou	ADP	_	_	16	mod	_	_
+22	m	m	PRON	_	_	24	comp:obj	_	_
+23	te	te	AUX	_	_	24	aux	_	_
+24	ka	ka	VERB	_	_	21	comp:obj	_	_
+25	wè	wè	NOUN	_	_	24	comp:obj	_	_
+26	l	l	DET	_	_	27	det	_	_
+27	ankò	ankò	NOUN	_	_	24	comp:obj	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = my_sample__20
+# text = Je l ak cheve l yo te atire m anpil.
+1	Je	je	PRON	_	_	3	subj	_	_
+2	l	l	DET	_	_	3	comp:obj	_	_
+3	ak	ak	VERB	_	_	0	root	_	_
+4	cheve	cheve	NOUN	_	_	3	comp:obj	_	_
+5	l	l	DET	_	_	8	subj	_	_
+6	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	8	subj	_	_
+7	te	te	AUX	_	_	8	aux	_	_
+8	atire	atire	VERB	_	Number=Plur|Person=3|Tense=Pres	4	mod@relcl	_	_
+9	m	m	NOUN	_	_	8	mod	_	_
+10	anpil	anpil	NOUN	_	_	9	comp:obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_

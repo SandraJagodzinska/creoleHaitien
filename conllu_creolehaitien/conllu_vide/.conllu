@@ -1,0 +1,658 @@
+# sent_id = my_sample__1
+# text = Bon.
+1	Bon	_	_	_	_	_	_	_	SpaceAfter=No	
+2	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__2
+# text = Nan tan lontan, granmoun yo t alèz.
+1	Nan	_	_	_	_	_	_	_	_	
+2	tan	_	_	_	_	_	_	_	_	
+3	lontan	_	_	_	_	_	_	_	SpaceAfter=No	
+4	,	_	_	_	_	_	_	_	_	
+5	granmoun	_	_	_	_	_	_	_	_	
+6	yo	_	_	_	_	_	_	_	_	
+7	t	_	_	_	_	_	_	_	_	
+8	alèz	_	_	_	_	_	_	_	SpaceAfter=No	
+9	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__3
+# text = Paske te g on tan ki t alèz, menm ou timoun ou santou w t ap viv byen.
+1	Paske	_	_	_	_	_	_	_	_	
+2	te	_	_	_	_	_	_	_	_	
+3	g	_	_	_	_	_	_	_	_	
+4	on	_	_	_	_	_	_	_	_	
+5	tan	_	_	_	_	_	_	_	_	
+6	ki	_	_	_	_	_	_	_	_	
+7	t	_	_	_	_	_	_	_	_	
+8	alèz	_	_	_	_	_	_	_	SpaceAfter=No	
+9	,	_	_	_	_	_	_	_	_	
+10	menm	_	_	_	_	_	_	_	_	
+11	ou	_	_	_	_	_	_	_	_	
+12	timoun	_	_	_	_	_	_	_	_	
+13	ou	_	_	_	_	_	_	_	_	
+14	santou	_	_	_	_	_	_	_	_	
+15	w	_	_	_	_	_	_	_	_	
+16	t	_	_	_	_	_	_	_	_	
+17	ap	_	_	_	_	_	_	_	_	
+18	viv	_	_	_	_	_	_	_	_	
+19	byen	_	_	_	_	_	_	_	SpaceAfter=No	
+20	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__4
+# text = Pase , nou prèske pa t konnen sa yo te rele lekòl, granmoun yo pa te konnen sa yo te rele depanse pou moun.
+1	Pase	_	_	_	_	_	_	_	_	
+2	,	_	_	_	_	_	_	_	_	
+3	nou	_	_	_	_	_	_	_	_	
+4	prèske	_	_	_	_	_	_	_	_	
+5	pa	_	_	_	_	_	_	_	_	
+6	t	_	_	_	_	_	_	_	_	
+7	konnen	_	_	_	_	_	_	_	_	
+8	sa	_	_	_	_	_	_	_	_	
+9	yo	_	_	_	_	_	_	_	_	
+10	te	_	_	_	_	_	_	_	_	
+11	rele	_	_	_	_	_	_	_	_	
+12	lekòl	_	_	_	_	_	_	_	SpaceAfter=No	
+13	,	_	_	_	_	_	_	_	_	
+14	granmoun	_	_	_	_	_	_	_	_	
+15	yo	_	_	_	_	_	_	_	_	
+16	pa	_	_	_	_	_	_	_	_	
+17	te	_	_	_	_	_	_	_	_	
+18	konnen	_	_	_	_	_	_	_	_	
+19	sa	_	_	_	_	_	_	_	_	
+20	yo	_	_	_	_	_	_	_	_	
+21	te	_	_	_	_	_	_	_	_	
+22	rele	_	_	_	_	_	_	_	_	
+23	depanse	_	_	_	_	_	_	_	_	
+24	pou	_	_	_	_	_	_	_	_	
+25	moun	_	_	_	_	_	_	_	SpaceAfter=No	
+26	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__5
+# text = Ou menm, ou ki timoun nan tou, pliske pa te gen bagay sa yo, ou wò w t ap viv alèz.
+1	Ou	_	_	_	_	_	_	_	_	
+2	menm	_	_	_	_	_	_	_	SpaceAfter=No	
+3	,	_	_	_	_	_	_	_	_	
+4	ou	_	_	_	_	_	_	_	_	
+5	ki	_	_	_	_	_	_	_	_	
+6	timoun	_	_	_	_	_	_	_	_	
+7	nan	_	_	_	_	_	_	_	_	
+8	tou	_	_	_	_	_	_	_	SpaceAfter=No	
+9	,	_	_	_	_	_	_	_	_	
+10	pliske	_	_	_	_	_	_	_	_	
+11	pa	_	_	_	_	_	_	_	_	
+12	te	_	_	_	_	_	_	_	_	
+13	gen	_	_	_	_	_	_	_	_	
+14	bagay	_	_	_	_	_	_	_	_	
+15	sa	_	_	_	_	_	_	_	_	
+16	yo	_	_	_	_	_	_	_	SpaceAfter=No	
+17	,	_	_	_	_	_	_	_	_	
+18	ou	_	_	_	_	_	_	_	_	
+19	wò	_	_	_	_	_	_	_	_	
+20	w	_	_	_	_	_	_	_	_	
+21	t	_	_	_	_	_	_	_	_	
+22	ap	_	_	_	_	_	_	_	_	
+23	viv	_	_	_	_	_	_	_	_	
+24	alèz	_	_	_	_	_	_	_	SpaceAfter=No	
+25	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__6
+# text = Manjòw pa sou kontòw, ou vire isit ou ben, ou vire la w ben.
+1	Manjòw	_	_	_	_	_	_	_	_	
+2	pa	_	_	_	_	_	_	_	_	
+3	sou	_	_	_	_	_	_	_	_	
+4	kontòw	_	_	_	_	_	_	_	SpaceAfter=No	
+5	,	_	_	_	_	_	_	_	_	
+6	ou	_	_	_	_	_	_	_	_	
+7	vire	_	_	_	_	_	_	_	_	
+8	isit	_	_	_	_	_	_	_	_	
+9	ou	_	_	_	_	_	_	_	_	
+10	ben	_	_	_	_	_	_	_	SpaceAfter=No	
+11	,	_	_	_	_	_	_	_	_	
+12	ou	_	_	_	_	_	_	_	_	
+13	vire	_	_	_	_	_	_	_	_	
+14	la	_	_	_	_	_	_	_	_	
+15	w	_	_	_	_	_	_	_	_	
+16	ben	_	_	_	_	_	_	_	SpaceAfter=No	
+17	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__7
+# text = Men kouliya, ou rive nan on moman konnya, ou travay plis pase sò w fè, ou redi plis pase sò w fè, paso w riv on moman, ou gen timoun nan pou manje.
+1	Men	_	_	_	_	_	_	_	_	
+2	kouliya	_	_	_	_	_	_	_	SpaceAfter=No	
+3	,	_	_	_	_	_	_	_	_	
+4	ou	_	_	_	_	_	_	_	_	
+5	rive	_	_	_	_	_	_	_	_	
+6	nan	_	_	_	_	_	_	_	_	
+7	on	_	_	_	_	_	_	_	_	
+8	moman	_	_	_	_	_	_	_	_	
+9	konnya	_	_	_	_	_	_	_	SpaceAfter=No	
+10	,	_	_	_	_	_	_	_	_	
+11	ou	_	_	_	_	_	_	_	_	
+12	travay	_	_	_	_	_	_	_	_	
+13	plis	_	_	_	_	_	_	_	_	
+14	pase	_	_	_	_	_	_	_	_	
+15	sò	_	_	_	_	_	_	_	_	
+16	w	_	_	_	_	_	_	_	_	
+17	fè	_	_	_	_	_	_	_	SpaceAfter=No	
+18	,	_	_	_	_	_	_	_	_	
+19	ou	_	_	_	_	_	_	_	_	
+20	redi	_	_	_	_	_	_	_	_	
+21	plis	_	_	_	_	_	_	_	_	
+22	pase	_	_	_	_	_	_	_	_	
+23	sò	_	_	_	_	_	_	_	_	
+24	w	_	_	_	_	_	_	_	_	
+25	fè	_	_	_	_	_	_	_	SpaceAfter=No	
+26	,	_	_	_	_	_	_	_	_	
+27	paso	_	_	_	_	_	_	_	_	
+28	w	_	_	_	_	_	_	_	_	
+29	riv	_	_	_	_	_	_	_	_	
+30	on	_	_	_	_	_	_	_	_	
+31	moman	_	_	_	_	_	_	_	SpaceAfter=No	
+32	,	_	_	_	_	_	_	_	_	
+33	ou	_	_	_	_	_	_	_	_	
+34	gen	_	_	_	_	_	_	_	_	
+35	timoun	_	_	_	_	_	_	_	_	
+36	nan	_	_	_	_	_	_	_	_	
+37	pou	_	_	_	_	_	_	_	_	
+38	manje	_	_	_	_	_	_	_	SpaceAfter=No	
+39	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__8
+# text = Si timoun nan gen tèt fè mal konnya, menm yon grenn pou w achte konnya, se pa yon goud, ni e pa de gouden ki pou bò w grenn nan, pou timoun n èy lop … pou timoun nan t avè y nan doktè.
+1	Si	_	_	_	_	_	_	_	_	
+2	timoun	_	_	_	_	_	_	_	_	
+3	nan	_	_	_	_	_	_	_	_	
+4	gen	_	_	_	_	_	_	_	_	
+5	tèt	_	_	_	_	_	_	_	_	
+6	fè	_	_	_	_	_	_	_	_	
+7	mal	_	_	_	_	_	_	_	_	
+8	konnya	_	_	_	_	_	_	_	SpaceAfter=No	
+9	,	_	_	_	_	_	_	_	_	
+10	menm	_	_	_	_	_	_	_	_	
+11	yon	_	_	_	_	_	_	_	_	
+12	grenn	_	_	_	_	_	_	_	_	
+13	pou	_	_	_	_	_	_	_	_	
+14	w	_	_	_	_	_	_	_	_	
+15	achte	_	_	_	_	_	_	_	_	
+16	konnya	_	_	_	_	_	_	_	SpaceAfter=No	
+17	,	_	_	_	_	_	_	_	_	
+18	se	_	_	_	_	_	_	_	_	
+19	pa	_	_	_	_	_	_	_	_	
+20	yon	_	_	_	_	_	_	_	_	
+21	goud	_	_	_	_	_	_	_	SpaceAfter=No	
+22	,	_	_	_	_	_	_	_	_	
+23	ni	_	_	_	_	_	_	_	_	
+24	e	_	_	_	_	_	_	_	_	
+25	pa	_	_	_	_	_	_	_	_	
+26	de	_	_	_	_	_	_	_	_	
+27	gouden	_	_	_	_	_	_	_	_	
+28	ki	_	_	_	_	_	_	_	_	
+29	pou	_	_	_	_	_	_	_	_	
+30	bò	_	_	_	_	_	_	_	_	
+31	w	_	_	_	_	_	_	_	_	
+32	grenn	_	_	_	_	_	_	_	_	
+33	nan	_	_	_	_	_	_	_	SpaceAfter=No	
+34	,	_	_	_	_	_	_	_	_	
+35	pou	_	_	_	_	_	_	_	_	
+36	timoun	_	_	_	_	_	_	_	_	
+37	n	_	_	_	_	_	_	_	_	
+38	èy	_	_	_	_	_	_	_	_	
+39	lop	_	_	_	_	_	_	_	_	
+40	…	_	_	_	_	_	_	_	_	
+41	pou	_	_	_	_	_	_	_	_	
+42	timoun	_	_	_	_	_	_	_	_	
+43	nan	_	_	_	_	_	_	_	_	
+44	t	_	_	_	_	_	_	_	_	
+45	avè	_	_	_	_	_	_	_	_	
+46	y	_	_	_	_	_	_	_	_	
+47	nan	_	_	_	_	_	_	_	_	
+48	doktè	_	_	_	_	_	_	_	SpaceAfter=No	
+49	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__9
+# text = Pou peye lekòl a timoun nan.
+1	Pou	_	_	_	_	_	_	_	_	
+2	peye	_	_	_	_	_	_	_	_	
+3	lekòl	_	_	_	_	_	_	_	_	
+4	a	_	_	_	_	_	_	_	_	
+5	timoun	_	_	_	_	_	_	_	_	
+6	nan	_	_	_	_	_	_	_	SpaceAfter=No	
+7	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__10
+# text = Pou ta rive nan on moman, pou ta mete timoun nan nan on... nan on chemen, monchè ou redi anpil.
+1	Pou	_	_	_	_	_	_	_	_	
+2	ta	_	_	_	_	_	_	_	_	
+3	rive	_	_	_	_	_	_	_	_	
+4	nan	_	_	_	_	_	_	_	_	
+5	on	_	_	_	_	_	_	_	_	
+6	moman	_	_	_	_	_	_	_	SpaceAfter=No	
+7	,	_	_	_	_	_	_	_	_	
+8	pou	_	_	_	_	_	_	_	_	
+9	ta	_	_	_	_	_	_	_	_	
+10	mete	_	_	_	_	_	_	_	_	
+11	timoun	_	_	_	_	_	_	_	_	
+12	nan	_	_	_	_	_	_	_	_	
+13	nan	_	_	_	_	_	_	_	_	
+14	on	_	_	_	_	_	_	_	SpaceAfter=No	
+15	...	_	_	_	_	_	_	_	_	
+16	nan	_	_	_	_	_	_	_	_	
+17	on	_	_	_	_	_	_	_	_	
+18	chemen	_	_	_	_	_	_	_	SpaceAfter=No	
+19	,	_	_	_	_	_	_	_	_	
+20	monchè	_	_	_	_	_	_	_	_	
+21	ou	_	_	_	_	_	_	_	_	
+22	redi	_	_	_	_	_	_	_	_	
+23	anpil	_	_	_	_	_	_	_	SpaceAfter=No	
+24	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__11
+# text = Ou wè konnya, ou wè olye ke w monte, ou se koupi w ap koupi.
+1	Ou	_	_	_	_	_	_	_	_	
+2	wè	_	_	_	_	_	_	_	_	
+3	konnya	_	_	_	_	_	_	_	SpaceAfter=No	
+4	,	_	_	_	_	_	_	_	_	
+5	ou	_	_	_	_	_	_	_	_	
+6	wè	_	_	_	_	_	_	_	_	
+7	olye	_	_	_	_	_	_	_	_	
+8	ke	_	_	_	_	_	_	_	_	
+9	w	_	_	_	_	_	_	_	_	
+10	monte	_	_	_	_	_	_	_	SpaceAfter=No	
+11	,	_	_	_	_	_	_	_	_	
+12	ou	_	_	_	_	_	_	_	_	
+13	se	_	_	_	_	_	_	_	_	
+14	koupi	_	_	_	_	_	_	_	_	
+15	w	_	_	_	_	_	_	_	_	
+16	ap	_	_	_	_	_	_	_	_	
+17	koupi	_	_	_	_	_	_	_	SpaceAfter=No	
+18	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__12
+# text = Pou... e pou ede timoun nan, w oblije kondwi tètòw an minab pou wè si w a ede timoun yo.
+1	Pou	_	_	_	_	_	_	_	SpaceAfter=No	
+2	...	_	_	_	_	_	_	_	_	
+3	e	_	_	_	_	_	_	_	_	
+4	pou	_	_	_	_	_	_	_	_	
+5	ede	_	_	_	_	_	_	_	_	
+6	timoun	_	_	_	_	_	_	_	_	
+7	nan	_	_	_	_	_	_	_	SpaceAfter=No	
+8	,	_	_	_	_	_	_	_	_	
+9	w	_	_	_	_	_	_	_	_	
+10	oblije	_	_	_	_	_	_	_	_	
+11	kondwi	_	_	_	_	_	_	_	_	
+12	tètòw	_	_	_	_	_	_	_	_	
+13	an	_	_	_	_	_	_	_	_	
+14	minab	_	_	_	_	_	_	_	_	
+15	pou	_	_	_	_	_	_	_	_	
+16	wè	_	_	_	_	_	_	_	_	
+17	si	_	_	_	_	_	_	_	_	
+18	w	_	_	_	_	_	_	_	_	
+19	a	_	_	_	_	_	_	_	_	
+20	ede	_	_	_	_	_	_	_	_	
+21	timoun	_	_	_	_	_	_	_	_	
+22	yo	_	_	_	_	_	_	_	SpaceAfter=No	
+23	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__13
+# text = Pase  ou menm, ou pò wè abiye devan w, ou pò wè mete soulye nan pye w... devan w konnya.
+1	Pase	_	_	_	_	_	_	_	_	
+2	ou	_	_	_	_	_	_	_	_	
+3	menm	_	_	_	_	_	_	_	SpaceAfter=No	
+4	,	_	_	_	_	_	_	_	_	
+5	ou	_	_	_	_	_	_	_	_	
+6	pò	_	_	_	_	_	_	_	_	
+7	wè	_	_	_	_	_	_	_	_	
+8	abiye	_	_	_	_	_	_	_	_	
+9	devan	_	_	_	_	_	_	_	_	
+10	w	_	_	_	_	_	_	_	SpaceAfter=No	
+11	,	_	_	_	_	_	_	_	_	
+12	ou	_	_	_	_	_	_	_	_	
+13	pò	_	_	_	_	_	_	_	_	
+14	wè	_	_	_	_	_	_	_	_	
+15	mete	_	_	_	_	_	_	_	_	
+16	soulye	_	_	_	_	_	_	_	_	
+17	nan	_	_	_	_	_	_	_	_	
+18	pye	_	_	_	_	_	_	_	_	
+19	w	_	_	_	_	_	_	_	SpaceAfter=No	
+20	...	_	_	_	_	_	_	_	_	
+21	devan	_	_	_	_	_	_	_	_	
+22	w	_	_	_	_	_	_	_	_	
+23	konnya	_	_	_	_	_	_	_	SpaceAfter=No	
+24	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__14
+# text = Pase  ti kòb la pou t acht on soulye pou tètòw la, ou blije se pou  w achte w pou timoun nan.
+1	Pase	_	_	_	_	_	_	_	_	
+2	ti	_	_	_	_	_	_	_	_	
+3	kòb	_	_	_	_	_	_	_	_	
+4	la	_	_	_	_	_	_	_	_	
+5	pou	_	_	_	_	_	_	_	_	
+6	t	_	_	_	_	_	_	_	_	
+7	acht	_	_	_	_	_	_	_	_	
+8	on	_	_	_	_	_	_	_	_	
+9	soulye	_	_	_	_	_	_	_	_	
+10	pou	_	_	_	_	_	_	_	_	
+11	tètòw	_	_	_	_	_	_	_	_	
+12	la	_	_	_	_	_	_	_	SpaceAfter=No	
+13	,	_	_	_	_	_	_	_	_	
+14	ou	_	_	_	_	_	_	_	_	
+15	blije	_	_	_	_	_	_	_	_	
+16	se	_	_	_	_	_	_	_	_	
+17	pou	_	_	_	_	_	_	_	_	
+18	w	_	_	_	_	_	_	_	_	
+19	achte	_	_	_	_	_	_	_	_	
+20	w	_	_	_	_	_	_	_	_	
+21	pou	_	_	_	_	_	_	_	_	
+22	timoun	_	_	_	_	_	_	_	_	
+23	nan	_	_	_	_	_	_	_	SpaceAfter=No	
+24	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__15
+# text = Sa pou t acht on... yon rad mete pou a, se pou w achte pou timoun nan.
+1	Sa	_	_	_	_	_	_	_	_	
+2	pou	_	_	_	_	_	_	_	_	
+3	t	_	_	_	_	_	_	_	_	
+4	acht	_	_	_	_	_	_	_	_	
+5	on	_	_	_	_	_	_	_	SpaceAfter=No	
+6	...	_	_	_	_	_	_	_	_	
+7	yon	_	_	_	_	_	_	_	_	
+8	rad	_	_	_	_	_	_	_	_	
+9	mete	_	_	_	_	_	_	_	_	
+10	pou	_	_	_	_	_	_	_	_	
+11	a	_	_	_	_	_	_	_	SpaceAfter=No	
+12	,	_	_	_	_	_	_	_	_	
+13	se	_	_	_	_	_	_	_	_	
+14	pou	_	_	_	_	_	_	_	_	
+15	w	_	_	_	_	_	_	_	_	
+16	achte	_	_	_	_	_	_	_	_	
+17	pou	_	_	_	_	_	_	_	_	
+18	timoun	_	_	_	_	_	_	_	_	
+19	nan	_	_	_	_	_	_	_	SpaceAfter=No	
+20	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__16
+# text = W oblije kondi tètòw nan minab, pou wè si w a fè... pou w a fè elvaj a timoun nan, demen si Dye ve, pou timoun li menm XX, petèt si w t a vin kouche demen si Dye ve timoun nan vin g on mwayen, petèt i te ka edo w.
+1	W	_	_	_	_	_	_	_	_	
+2	oblije	_	_	_	_	_	_	_	_	
+3	kondi	_	_	_	_	_	_	_	_	
+4	tètòw	_	_	_	_	_	_	_	_	
+5	nan	_	_	_	_	_	_	_	_	
+6	minab	_	_	_	_	_	_	_	SpaceAfter=No	
+7	,	_	_	_	_	_	_	_	_	
+8	pou	_	_	_	_	_	_	_	_	
+9	wè	_	_	_	_	_	_	_	_	
+10	si	_	_	_	_	_	_	_	_	
+11	w	_	_	_	_	_	_	_	_	
+12	a	_	_	_	_	_	_	_	_	
+13	fè	_	_	_	_	_	_	_	SpaceAfter=No	
+14	...	_	_	_	_	_	_	_	_	
+15	pou	_	_	_	_	_	_	_	_	
+16	w	_	_	_	_	_	_	_	_	
+17	a	_	_	_	_	_	_	_	_	
+18	fè	_	_	_	_	_	_	_	_	
+19	elvaj	_	_	_	_	_	_	_	_	
+20	a	_	_	_	_	_	_	_	_	
+21	timoun	_	_	_	_	_	_	_	_	
+22	nan	_	_	_	_	_	_	_	SpaceAfter=No	
+23	,	_	_	_	_	_	_	_	_	
+24	demen	_	_	_	_	_	_	_	_	
+25	si	_	_	_	_	_	_	_	_	
+26	Dye	_	_	_	_	_	_	_	_	
+27	ve	_	_	_	_	_	_	_	SpaceAfter=No	
+28	,	_	_	_	_	_	_	_	_	
+29	pou	_	_	_	_	_	_	_	_	
+30	timoun	_	_	_	_	_	_	_	_	
+31	li	_	_	_	_	_	_	_	_	
+32	menm	_	_	_	_	_	_	_	_	
+33	XX	_	_	_	_	_	_	_	SpaceAfter=No	
+34	,	_	_	_	_	_	_	_	_	
+35	petèt	_	_	_	_	_	_	_	_	
+36	si	_	_	_	_	_	_	_	_	
+37	w	_	_	_	_	_	_	_	_	
+38	t	_	_	_	_	_	_	_	_	
+39	a	_	_	_	_	_	_	_	_	
+40	vin	_	_	_	_	_	_	_	_	
+41	kouche	_	_	_	_	_	_	_	_	
+42	demen	_	_	_	_	_	_	_	_	
+43	si	_	_	_	_	_	_	_	_	
+44	Dye	_	_	_	_	_	_	_	_	
+45	ve	_	_	_	_	_	_	_	_	
+46	timoun	_	_	_	_	_	_	_	_	
+47	nan	_	_	_	_	_	_	_	_	
+48	vin	_	_	_	_	_	_	_	_	
+49	g	_	_	_	_	_	_	_	_	
+50	on	_	_	_	_	_	_	_	_	
+51	mwayen	_	_	_	_	_	_	_	SpaceAfter=No	
+52	,	_	_	_	_	_	_	_	_	
+53	petèt	_	_	_	_	_	_	_	_	
+54	i	_	_	_	_	_	_	_	_	
+55	te	_	_	_	_	_	_	_	_	
+56	ka	_	_	_	_	_	_	_	_	
+57	edo	_	_	_	_	_	_	_	_	
+58	w	_	_	_	_	_	_	_	SpaceAfter=No	
+59	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__17
+# text = Paske ou oblije ap ede timoun nan pou si y pa kapab... jou w pa kapab la.
+1	Paske	_	_	_	_	_	_	_	_	
+2	ou	_	_	_	_	_	_	_	_	
+3	oblije	_	_	_	_	_	_	_	_	
+4	ap	_	_	_	_	_	_	_	_	
+5	ede	_	_	_	_	_	_	_	_	
+6	timoun	_	_	_	_	_	_	_	_	
+7	nan	_	_	_	_	_	_	_	_	
+8	pou	_	_	_	_	_	_	_	_	
+9	si	_	_	_	_	_	_	_	_	
+10	y	_	_	_	_	_	_	_	_	
+11	pa	_	_	_	_	_	_	_	_	
+12	kapab	_	_	_	_	_	_	_	SpaceAfter=No	
+13	...	_	_	_	_	_	_	_	_	
+14	jou	_	_	_	_	_	_	_	_	
+15	w	_	_	_	_	_	_	_	_	
+16	pa	_	_	_	_	_	_	_	_	
+17	kapab	_	_	_	_	_	_	_	_	
+18	la	_	_	_	_	_	_	_	SpaceAfter=No	
+19	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__18
+# text = Puiske se timoun nan ki te ka edo w.
+1	Puiske	_	_	_	_	_	_	_	_	
+2	se	_	_	_	_	_	_	_	_	
+3	timoun	_	_	_	_	_	_	_	_	
+4	nan	_	_	_	_	_	_	_	_	
+5	ki	_	_	_	_	_	_	_	_	
+6	te	_	_	_	_	_	_	_	_	
+7	ka	_	_	_	_	_	_	_	_	
+8	edo	_	_	_	_	_	_	_	_	
+9	w	_	_	_	_	_	_	_	SpaceAfter=No	
+10	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__19
+# text = Men konlya, ou rive nan on moman lontan ou te ka di ò maten an m ap soti m ap fè jounen an deyò m pa antre.
+1	Men	_	_	_	_	_	_	_	_	
+2	konlya	_	_	_	_	_	_	_	SpaceAfter=No	
+3	,	_	_	_	_	_	_	_	_	
+4	ou	_	_	_	_	_	_	_	_	
+5	rive	_	_	_	_	_	_	_	_	
+6	nan	_	_	_	_	_	_	_	_	
+7	on	_	_	_	_	_	_	_	_	
+8	moman	_	_	_	_	_	_	_	_	
+9	lontan	_	_	_	_	_	_	_	_	
+10	ou	_	_	_	_	_	_	_	_	
+11	te	_	_	_	_	_	_	_	_	
+12	ka	_	_	_	_	_	_	_	_	
+13	di	_	_	_	_	_	_	_	_	
+14	ò	_	_	_	_	_	_	_	_	
+15	maten	_	_	_	_	_	_	_	_	
+16	an	_	_	_	_	_	_	_	_	
+17	m	_	_	_	_	_	_	_	_	
+18	ap	_	_	_	_	_	_	_	_	
+19	soti	_	_	_	_	_	_	_	_	
+20	m	_	_	_	_	_	_	_	_	
+21	ap	_	_	_	_	_	_	_	_	
+22	fè	_	_	_	_	_	_	_	_	
+23	jounen	_	_	_	_	_	_	_	_	
+24	an	_	_	_	_	_	_	_	_	
+25	deyò	_	_	_	_	_	_	_	_	
+26	m	_	_	_	_	_	_	_	_	
+27	pa	_	_	_	_	_	_	_	_	
+28	antre	_	_	_	_	_	_	_	SpaceAfter=No	
+29	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__20
+# text = Men konnya ou prèske pa ka soti ya menm, bon si... si i g on ka lanmò, yon ka bagay ou prèske pa gen tan pou w èy vizite moun nan pase pwoblèmòw di, nan pou ap re... redi XXX grenn pwa nèg la w plante, w gen grenn mayi ya pou plante, w grenn sesi pou plante pou wè demen si Dye ve pou wè si w ta ede kay la.
+1	Men	_	_	_	_	_	_	_	_	
+2	konnya	_	_	_	_	_	_	_	_	
+3	ou	_	_	_	_	_	_	_	_	
+4	prèske	_	_	_	_	_	_	_	_	
+5	pa	_	_	_	_	_	_	_	_	
+6	ka	_	_	_	_	_	_	_	_	
+7	soti	_	_	_	_	_	_	_	_	
+8	ya	_	_	_	_	_	_	_	_	
+9	menm	_	_	_	_	_	_	_	SpaceAfter=No	
+10	,	_	_	_	_	_	_	_	_	
+11	bon	_	_	_	_	_	_	_	_	
+12	si	_	_	_	_	_	_	_	SpaceAfter=No	
+13	...	_	_	_	_	_	_	_	_	
+14	si	_	_	_	_	_	_	_	_	
+15	i	_	_	_	_	_	_	_	_	
+16	g	_	_	_	_	_	_	_	_	
+17	on	_	_	_	_	_	_	_	_	
+18	ka	_	_	_	_	_	_	_	_	
+19	lanmò	_	_	_	_	_	_	_	SpaceAfter=No	
+20	,	_	_	_	_	_	_	_	_	
+21	yon	_	_	_	_	_	_	_	_	
+22	ka	_	_	_	_	_	_	_	_	
+23	bagay	_	_	_	_	_	_	_	_	
+24	ou	_	_	_	_	_	_	_	_	
+25	prèske	_	_	_	_	_	_	_	_	
+26	pa	_	_	_	_	_	_	_	_	
+27	gen	_	_	_	_	_	_	_	_	
+28	tan	_	_	_	_	_	_	_	_	
+29	pou	_	_	_	_	_	_	_	_	
+30	w	_	_	_	_	_	_	_	_	
+31	èy	_	_	_	_	_	_	_	_	
+32	vizite	_	_	_	_	_	_	_	_	
+33	moun	_	_	_	_	_	_	_	_	
+34	nan	_	_	_	_	_	_	_	_	
+35	pase	_	_	_	_	_	_	_	_	
+36	pwoblèmòw	_	_	_	_	_	_	_	_	
+37	di	_	_	_	_	_	_	_	SpaceAfter=No	
+38	,	_	_	_	_	_	_	_	_	
+39	nan	_	_	_	_	_	_	_	_	
+40	pou	_	_	_	_	_	_	_	_	
+41	ap	_	_	_	_	_	_	_	_	
+42	re	_	_	_	_	_	_	_	SpaceAfter=No	
+43	...	_	_	_	_	_	_	_	_	
+44	redi	_	_	_	_	_	_	_	_	
+45	XXX	_	_	_	_	_	_	_	_	
+46	grenn	_	_	_	_	_	_	_	_	
+47	pwa	_	_	_	_	_	_	_	_	
+48	nèg	_	_	_	_	_	_	_	_	
+49	la	_	_	_	_	_	_	_	_	
+50	w	_	_	_	_	_	_	_	_	
+51	plante	_	_	_	_	_	_	_	SpaceAfter=No	
+52	,	_	_	_	_	_	_	_	_	
+53	w	_	_	_	_	_	_	_	_	
+54	gen	_	_	_	_	_	_	_	_	
+55	grenn	_	_	_	_	_	_	_	_	
+56	mayi	_	_	_	_	_	_	_	_	
+57	ya	_	_	_	_	_	_	_	_	
+58	pou	_	_	_	_	_	_	_	_	
+59	plante	_	_	_	_	_	_	_	SpaceAfter=No	
+60	,	_	_	_	_	_	_	_	_	
+61	w	_	_	_	_	_	_	_	_	
+62	grenn	_	_	_	_	_	_	_	_	
+63	sesi	_	_	_	_	_	_	_	_	
+64	pou	_	_	_	_	_	_	_	_	
+65	plante	_	_	_	_	_	_	_	_	
+66	pou	_	_	_	_	_	_	_	_	
+67	wè	_	_	_	_	_	_	_	_	
+68	demen	_	_	_	_	_	_	_	_	
+69	si	_	_	_	_	_	_	_	_	
+70	Dye	_	_	_	_	_	_	_	_	
+71	ve	_	_	_	_	_	_	_	_	
+72	pou	_	_	_	_	_	_	_	_	
+73	wè	_	_	_	_	_	_	_	_	
+74	si	_	_	_	_	_	_	_	_	
+75	w	_	_	_	_	_	_	_	_	
+76	ta	_	_	_	_	_	_	_	_	
+77	ede	_	_	_	_	_	_	_	_	
+78	kay	_	_	_	_	_	_	_	_	
+79	la	_	_	_	_	_	_	_	SpaceAfter=No	
+80	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__21
+# text = Tout fòs la se nan monw i ye.
+1	Tout	_	_	_	_	_	_	_	_	
+2	fòs	_	_	_	_	_	_	_	_	
+3	la	_	_	_	_	_	_	_	_	
+4	se	_	_	_	_	_	_	_	_	
+5	nan	_	_	_	_	_	_	_	_	
+6	monw	_	_	_	_	_	_	_	_	
+7	i	_	_	_	_	_	_	_	_	
+8	ye	_	_	_	_	_	_	_	SpaceAfter=No	
+9	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__22
+# text = Maladi se sou kontòw, lanmò a se sou kontòw, bwè manje a sou kontòw, mete rad la sou kontòw, peye lekòl la sou kontòw.
+1	Maladi	_	_	_	_	_	_	_	_	
+2	se	_	_	_	_	_	_	_	_	
+3	sou	_	_	_	_	_	_	_	_	
+4	kontòw	_	_	_	_	_	_	_	SpaceAfter=No	
+5	,	_	_	_	_	_	_	_	_	
+6	lanmò	_	_	_	_	_	_	_	_	
+7	a	_	_	_	_	_	_	_	_	
+8	se	_	_	_	_	_	_	_	_	
+9	sou	_	_	_	_	_	_	_	_	
+10	kontòw	_	_	_	_	_	_	_	SpaceAfter=No	
+11	,	_	_	_	_	_	_	_	_	
+12	bwè	_	_	_	_	_	_	_	_	
+13	manje	_	_	_	_	_	_	_	_	
+14	a	_	_	_	_	_	_	_	_	
+15	sou	_	_	_	_	_	_	_	_	
+16	kontòw	_	_	_	_	_	_	_	SpaceAfter=No	
+17	,	_	_	_	_	_	_	_	_	
+18	mete	_	_	_	_	_	_	_	_	
+19	rad	_	_	_	_	_	_	_	_	
+20	la	_	_	_	_	_	_	_	_	
+21	sou	_	_	_	_	_	_	_	_	
+22	kontòw	_	_	_	_	_	_	_	SpaceAfter=No	
+23	,	_	_	_	_	_	_	_	_	
+24	peye	_	_	_	_	_	_	_	_	
+25	lekòl	_	_	_	_	_	_	_	_	
+26	la	_	_	_	_	_	_	_	_	
+27	sou	_	_	_	_	_	_	_	_	
+28	kontòw	_	_	_	_	_	_	_	SpaceAfter=No	
+29	.	_	_	_	_	_	_	_	_	
+
+# sent_id = my_sample__23
+# text = Ou santi ou blije, ou pa gen... ou pa gen... ou pa gen maten, ou pa gen midi, ou pa gen sware.
+1	Ou	_	_	_	_	_	_	_	_	
+2	santi	_	_	_	_	_	_	_	_	
+3	ou	_	_	_	_	_	_	_	_	
+4	blije	_	_	_	_	_	_	_	SpaceAfter=No	
+5	,	_	_	_	_	_	_	_	_	
+6	ou	_	_	_	_	_	_	_	_	
+7	pa	_	_	_	_	_	_	_	_	
+8	gen	_	_	_	_	_	_	_	SpaceAfter=No	
+9	...	_	_	_	_	_	_	_	_	
+10	ou	_	_	_	_	_	_	_	_	
+11	pa	_	_	_	_	_	_	_	_	
+12	gen	_	_	_	_	_	_	_	SpaceAfter=No	
+13	...	_	_	_	_	_	_	_	_	
+14	ou	_	_	_	_	_	_	_	_	
+15	pa	_	_	_	_	_	_	_	_	
+16	gen	_	_	_	_	_	_	_	_	
+17	maten	_	_	_	_	_	_	_	SpaceAfter=No	
+18	,	_	_	_	_	_	_	_	_	
+19	ou	_	_	_	_	_	_	_	_	
+20	pa	_	_	_	_	_	_	_	_	
+21	gen	_	_	_	_	_	_	_	_	
+22	midi	_	_	_	_	_	_	_	SpaceAfter=No	
+23	,	_	_	_	_	_	_	_	_	
+24	ou	_	_	_	_	_	_	_	_	
+25	pa	_	_	_	_	_	_	_	_	
+26	gen	_	_	_	_	_	_	_	_	
+27	sware	_	_	_	_	_	_	_	SpaceAfter=No	
+28	.	_	_	_	_	_	_	_	_	
