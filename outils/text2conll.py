@@ -164,21 +164,27 @@ def conllize(sent2toks,id='my_sample',start=1):
         start+=1
     return '\n\n'.join(conlls)+'\n'
 
-path = './Corpus/'
-pathB = './CoNLL/'
+fichier = '../corpus_creolehaitien_par_document/CorpusHaitien-30.txt'
+pathB = '../conllu_creolehaitien/conllu_vide/'
 
 if __name__ == "__main__":
-	for file in glob.glob(path+'*.txt') :
+	for file in glob.glob(fichier) :
 		filename=str(file)
+		print(filename)
 		l=filename.split('.')
-		nom=l[1].split('/')
-		prefix=nom[-1]
+		print(l)
+		prefix=l[-2]
 		print(prefix)
+		nom=prefix.split('/')
+		p=nom[-1]
+		print(p)
 		with open(file, 'r', encoding="utf-8") as f:
 			text = f.read()
 			sent2toks = tokenize(text)
 			conll = conllize(sent2toks)
-			open(pathB+prefix+'.conllu','w').write(conll)
+			open(pathB+p+'.conllu','w').write(conll)
+			
+			
   #  #text = """Voici le test N° 17. C'est quand-même 
    # bête, tout ça, aujourd'hui, avec le la~ lave-linge etc., peu importe ce que l'on dit sur https://blöd.com!!! T'en dis quoi, toi ;) ;-) ? Vas-y ! Ouais, M. le professeur Nr. 2. J'y crois à 100,00% !
    # This is a 2. type of sample text! It contains (different) types of punctuation. 

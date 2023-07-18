@@ -1,0 +1,210 @@
+rule r_1 {
+	pattern  {P[form="tap", upos="AUX"]; V-[aux]->P}
+	commands {
+		add_node A:>P; % adds node A right after a node P
+		P.form="t";
+        P.lemma="te";
+        P.Gloss="PAST";
+		P.upos="AUX";
+		A.form="ap";
+		A.upos="AUX";
+        A.lemma="ap";
+        A.Gloss="PROG";
+		add_edge V-[aux]->A;
+	}
+}
+
+rule r_2 {
+	pattern  {P[form="yap"]; V->P}
+	commands {
+		add_node A:<P; % adds node A right before node P
+		A.form="y";
+        	A.lemma="yo";
+		A.upos="PRON";
+        	A.Gloss="3PL";
+		A.Number="Plur";
+		A.Person="3";
+		A.PronType="Prs";
+		P.form="ap";
+		P.upos="AUX";
+        	P.lemma="ap";
+        	P.Gloss="PROG";
+		add_edge V-[subj]->A;
+		
+	}
+}
+
+rule r_3 {
+	pattern  {P[form="map"]; V->P}
+	commands {
+		add_node A:<P; % adds node A right before node P
+		A.form="m";
+        	A.lemma="mwen";
+		A.upos="PRON";
+        	A.Gloss="1SG";
+		A.Number="Sing";
+		A.Person="1";
+		A.PronType="Prs";
+		P.form="ap";
+		P.upos="AUX";
+        	P.lemma="ap";
+        	P.Gloss="PROG";
+		add_edge V-[subj]->A;
+		
+	}
+}
+
+rule r_4 {
+	pattern  {P[form="wap"]; V->P}
+	commands {
+		add_node A:<P; % adds node A right before node P
+		A.form="w";
+        	A.lemma="ou";
+		A.upos="PRON";
+        	A.Gloss="2SG";
+		A.Number="Sing";
+		A.Person="2";
+		A.PronType="Prs";
+		P.form="ap";
+		P.upos="AUX";
+        	P.lemma="ap";
+        	P.Gloss="PROG";
+		add_edge V-[subj]->A;
+		
+	}
+}
+
+
+rule r_5 {
+	pattern  {P[form="lap"]; V->P}
+	commands {
+		add_node A:<P; % adds node A right before node P
+		A.form="l";
+        	A.lemma="li";
+		A.upos="PRON";
+        	A.Gloss="3SG";
+		A.Number="Sing";
+		A.Person="3";
+		A.PronType="Prs";
+		P.form="ap";
+		P.upos="AUX";
+        	P.lemma="ap";
+        	P.Gloss="PROG";
+		add_edge V-[subj]->A;
+		
+	}
+}
+
+
+
+rule r_6 {
+	pattern  {P[form="nap"]; V->P}
+	commands {
+		add_node A:<P; % adds node A right before node P
+		A.form="n";
+        	A.lemma="nou";
+		A.upos="PRON";
+        	A.Gloss="1PL";
+		A.Number="Plur";
+		A.Person="1";
+		A.ProntType="Prs";
+		P.form="ap";
+		P.upos="AUX";
+        	P.lemma="ap";
+        	P.Gloss="PROG";
+		add_edge V-[subj]->A;
+		
+	}
+}
+
+rule r_7 {
+	pattern  {P[form="pap"]; V->P}
+	commands {
+		add_node A:<P; % adds node A right before node P
+		A.form="p";
+        	A.lemma="pa";
+		A.upos="ADV";
+        	A.Gloss="NEG";
+		P.form="ap";
+		P.upos="AUX";
+        	P.lemma="ap";
+        	P.Gloss="PROG";
+		add_edge V-[mod]->A;
+		
+	}
+}
+
+rule r_8 {
+	pattern  {P[form="pat"]; V->P}
+	commands {
+		add_node A:<P; % adds node A right before node P
+		A.form="pa";
+        	A.lemma="pa";
+		A.upos="ADV";
+        	A.Gloss="NEG";
+		P.form="t";
+		P.upos="AUX";
+        	P.lemma="te";
+        	P.Gloss="PAST";
+		add_edge V-[mod]->A;
+		
+	}
+}
+
+rule r_8 {
+	pattern  {P[form="pata"]; V->P}
+	commands {
+		add_node A:<P; % adds node A right before node P
+		A.form="pa";
+        	A.lemma="pa";
+		A.upos="ADV";
+        	A.Gloss="NEG";
+		P.form="ta";
+		P.upos="AUX";
+        	P.lemma="ta";
+        	P.Gloss="COND";
+		add_edge V-[mod]->A;
+		
+	}
+}
+
+rule r_9 {
+	pattern  {AUX[form="sakap"]; V->P}
+	commands {
+		add_node REL:<AUX; % adds node REL right before node AUX
+		add_node PRON:<REL; % adds node PRON right before node REL
+		AUX.form="ap";
+        	AUX.lemma="ap";
+		AUX.upos="AUX";
+        	AUX.Gloss="PROG";
+		PRON.form="sa";
+		PRON.upos="PRON";
+        	PRON.lemma="sa";
+        	PRON.Gloss="3SG";
+		REL.form="k";
+		REL.upos="SCONJ";
+        	REL.lemma="ki";
+        	REL.Gloss="qui";
+		add_edge V-[subj]->REL;
+		add_edge PRON-[mod@relcl]->V;
+		
+	}
+}
+
+rule r_10 {
+	pattern  {V[form="sete"]}
+	commands {
+		add_node A:>V; % adds node A right after a node P
+		V.form="se";
+        	V.lemma="se";
+        	V.Gloss="être";
+		V.upos="VERB";
+		A.form="te";
+		A.upos="AUX";
+        	A.lemma="te";
+        	A.Gloss="PAST";
+		add_edge V-[aux]->A;
+	}
+}
+
+strat main { Onf (r_1) }
